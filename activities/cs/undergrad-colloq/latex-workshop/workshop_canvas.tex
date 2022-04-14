@@ -1,0 +1,136 @@
+%---PREMABLE BEGINS HERE------------------------
+
+\documentclass[11pt]{article}
+%------------------------
+%------------------------
+%Packages
+\usepackage[top=0.75in, bottom=1.25in, left=1in, right=1in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb} %this is THE math package
+\usepackage{mathtools} %an extension to the amsmath package that helps you write more beautiful math
+\usepackage{enumitem} %for better control of your lists
+\usepackage{hyperref} %for hyperlinking stuff
+%------------------------
+%Useful packages for more specialised use
+%\usepackage{tikz}
+%\usepackage{graphicx}
+%\usepackage{fancybox}
+%\usepackage{varwidth}
+%\usepackage{mdframed}
+%\usepackage{mathrsfs}
+%------------------------
+\usepackage{xcolor} %the ultimate package for defining various colours
+\definecolor{darkblue}{rgb}{0.0,0.0,.7}
+%------------------------
+%------------------------
+%Fonts I use, uncomment if you like to use them.
+%The first is the general font, and the second a math font
+%the third one is more specialised
+\usepackage{mathpazo}
+%\usepackage{eulervm}
+\usepackage[scr=boondox]{mathalfa}
+%------------------------
+%------------------------
+%This is so that we have standard fonts for the doublestroked symbols
+%for reals, naturals etc. regardless of what font you use.
+%Don't comment
+\AtBeginDocument{
+  \DeclareSymbolFont{AMSb}{U}{msb}{m}{n}
+  \DeclareSymbolFontAlphabet{\mathbb}{AMSb}}
+%------------------------
+%------------------------
+%Environments
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+
+\newtheorem{problem}{Problem}[section]
+%------------------------
+%------------------------
+%User-defined notations
+\newcommand{\zz}{\mathbf Z}   %bold Z
+\newcommand{\qq}{\mathbf Q}   %bold Q
+\newcommand{\ff}{\mathbf F}   %bold F
+\newcommand{\RR}{\mathbb R}   %blackboard bold R
+\newcommand{\rr}{\mathbf R}   %bold R
+\newcommand{\nn}{\mathbf N}   %bold N
+\newcommand{\cc}{\mathbf C}   %bold C
+\newcommand{\af}{\mathbf A}   %bold A
+\newcommand{\pp}{\mathbf P}   %bold P
+\newcommand{\id}{\operatorname{id}} %for identity map
+\newcommand{\im}{\operatorname{im}} %for image of a function
+\newcommand{\dom}{\operatorname{dom}} %for domain of a function
+\newcommand{\cat}[1]{\mathscr{#1}}   %calligraphic category
+\newcommand{\abs}[1]{\left\lvert#1\right\rvert} %for absolute value
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert} %for norm
+\newcommand{\modar}[1]{\operatorname{mod}{#1}} %for modular arithmetic
+\newcommand{\set}[1]{\left\{#1\right\}} %for set
+\newcommand{\setp}[2]{\left\{#1\ \middle|\ #2\right\}} %for set with a property
+%------------------------
+%------------------------
+%Re-defined notations
+\renewcommand{\epsilon}{\varepsilon}
+\renewcommand{\displaystyle}{\disp}
+%\renewcommand{\phi}{\varphi}
+\renewcommand{\emptyset}{\varnothing}
+\renewcommand{\geq}{\geqslant}
+\renewcommand{\leq}{\leqslant}
+\renewcommand{\Re}{\operatorname{Re}}
+\renewcommand{\gcd}{\operatorname{GCD}}
+\renewcommand{\Im}{\operatorname{Im}}
+%\renewcommand{\qedsymbol}{$\blacksquare$}
+%------------------------
+%------------------------
+\allowdisplaybreaks
+\setlength\parindent{0pt} %controls indentation after paragraph break
+%------------------------
+%------------------------
+
+%---PREAMBLE ENDS HERE------------------------
+
+
+%---DOCUMENT BEGINS HERE------------------------
+\begin{document}
+ 
+\title{Workshop Canvas}
+\author{You}
+\date{\today} 
+\maketitle
+
+%Use \[...\] instead of $$...$$
+
+%------------------------
+%------------------------
+%First Turn
+Euler's Identity, given below, is described as the most beautiful equation
+	\[e^{i\pi} + 1 = 0\]
+	
+The quadratic formula is, when $a \neq 0$
+	\[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\]
+
+%------------------------
+%------------------------
+%Second Turn
+Type a solution to the following problem:
+\[\sum_{k = 0}^4 k =\ ?\]
+
+%type answer here
+
+%------------------------
+%------------------------
+%Third Turn
+\section{Section}	
+
+%initiate problem environment with label "Test" here
+
+
+%------------------------
+%------------------------
+%Fourth Turn
+
+%initiate solution environment with label "Solution to Workshop Problem" here and add your answer
+
+
+%---DOCUMENT ENDS HERE------------------------
+\end{document}
