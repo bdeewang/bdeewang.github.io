@@ -286,13 +286,6 @@ table {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-      background-color: var(--bs-dark);
-      color: var(--bs-light);
-  }
-}
-
 *,
 *:before,
 *:after {
