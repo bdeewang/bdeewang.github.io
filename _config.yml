@@ -1,0 +1,70 @@
+# Customize these with your info 
+
+title: "Deewang Bhamidipati" 
+author: Deewang Bhamidipati
+email: "bdeewang@ucsc.edu"
+description: "Deewang, a mathematician"
+github: bdeewang
+timezone: USA/Pacific
+url: https://bdeewang.com/
+language: en_US
+
+# social images
+
+favicon: /static/favicon/bdeewang-favicon.png
+# twitter: "@good-luck-twitter-existing-in-a-few-years"
+# social-media-image-url: /static/social-media-images/borshch-and-salo.jpeg
+# twitter-card-image: do.jpg
+iOS-icon: /static/favicon/bdeewang-favicon.png
+
+# leave these unless you are more familiar with jekyll settings
+
+highlighter: rouge
+markdown: kramdown
+parse_block_html: false
+show_drafts: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      blogpost: true
+      layout: post
+      og-type: article
+      # social-media-image: false
+    
+  -    
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page 
+      # social-media-image: false   
+
+  -    
+    scope:
+      path: ""
+      type: "no-index"
+    values:
+      layout: page
+      no-index: true
+      # social-media-image: false
+
+collections:
+  pages:
+    output: true
+  no-index:
+    output: true
+  unlisted:
+    output: true
+
+plugins:
+  - jekyll-feed
+
+# feed:
+#   posts_limit: 25
+#   categories:
+#     - essays
+#     - notes
+#     - now

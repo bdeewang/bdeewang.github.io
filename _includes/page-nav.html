@@ -1,0 +1,15 @@
+{%- if page.nav == "custom" -%}
+<a href="/" title="Home">Home</a>&nbsp;|&nbsp;
+{%- endif -%}
+
+{%- if page.custom-nav -%}
+	{%- for custom-nav in page.custom-nav -%}
+		{{ custom-nav }}
+	{%- endfor -%}
+{%- else -%}
+<a href="/" title="Home">Home</a>&nbsp;|&nbsp;
+<a href="/about" title="About">About</a>&nbsp;|&nbsp;
+<a href="/research" title="Research">Research</a>&nbsp;|&nbsp;
+<a href="/teaching" title="Teaching">Teaching</a>&nbsp;|&nbsp;
+<a href="/activities" title="Activities">Activities</a>
+{%- endif -%}
