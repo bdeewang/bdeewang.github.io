@@ -1,5 +1,6 @@
 ---
 og-type: website
+title: Home
 layout: index
 index: true
 ---
