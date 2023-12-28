@@ -1,5 +1,5 @@
 ---
-title: Activities | Deewang Bhamidipati
+title: Activities
 description: "Service and organising activities"
 nav: custom
 custom-nav: 
