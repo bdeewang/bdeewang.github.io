@@ -9,9 +9,9 @@ custom-nav:
 permalink: /about
 --- 
 
-{% include about-picture-img.html %}
+I am from India. Before coming to UC Santa Cruz I received my M.S. in Mathematics from the [Higher School of Economics](https://math.hse.ru/en/) in Moscow, where I wrote my [master's thesis](https://www.hse.ru/en/edu/vkr/296285338) under [Vadim Vologodsky](https://www.hse.ru/en/org/persons/160474191); and I received my B.S. in Mathematics, with a specialization in applied algebra, from [Shiv Nadar University](https://math.snu.edu.in/) in India.
 
-I am from India. Before coming to UC Santa Cruz I received my M.S. in Mathematics from the [Higher School of Economics](https://math.hse.ru/en/) in Moscow, where I wrote my [master's thesis](https://www.hse.ru/en/edu/vkr/296285338) under [Vadim Vologodsky](https://www.hse.ru/en/org/persons/160474191); and my B.S. in Mathematics, with a specialization in applied algebra, from [Shiv Nadar University](https://math.snu.edu.in/) in India.
+{% include about-picture-img.html %}
 
 I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community.
 
