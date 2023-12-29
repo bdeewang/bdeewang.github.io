@@ -15,7 +15,7 @@ I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meet
 </div>
 
 <!-- ### Articles -->
-<h3 style="color:#c885b9">Articles</h3>
+<h3 style="color:#da70d6">Articles</h3>
 
 <ol reversed>
 <li> The Brauer Group of \(\mathscr{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
@@ -28,7 +28,7 @@ I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meet
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#c885b9">In Progress</b></summary>
+    <summary><b style="color:#da70d6">In Progress</b></summary>
 
 <ul style="line-height:180%">
 
@@ -42,9 +42,11 @@ I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meet
 <!-- --------------------------------------------------- -->
 
 <!-- ### Theses -->
-<h3 style="color:#c885b9">Theses</h3>
+<h3 style="color:#da70d6">Theses</h3>
 
 * [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)<br>
 <small>Master's Thesis, Higher School of Economics</small>
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<!-- c885b9 -->
