@@ -119,6 +119,25 @@ Teaching</b></a><br>
 <li> Anna Yoon, <b>Elliptic Curve Cryptography</b>, <small>Winter 2020</small></li>
 
 </ul>
+
+<br>
+
+<a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>
+<ul style="line-height:180%">
+
+<li> Lillian Frey, <b>Linear Codes</b>, <small>Sep - Dec 2022</small><br>
+    <small>Binghamton University</small></li>
+
+<li> Lalit Sharma, <b>Class Groups</b>, <small>Feb - May 2022</small><br>
+    <small>University of Delhi</small></li>
+
+<li> Bowen Li, <b>Category Theory</b>, <small>Feb - May 2022</small><br>
+    <small>Carleton College</small></li>
+
+<li> Lalit Sharma, <b>Varieties</b>, <small>Sep - Dec 2021</small><br>
+    <small>University of Delhi</small></li>
+
+</ul>
 </details>
 
 <!-- --------------------------------------------------- -->
@@ -199,24 +218,4 @@ Teaching</b></a><br>
 </ul>
 </details>
 
-<details>
-    <summary><b style="color:#69b2c1">Mentorship</b></summary>
-<br>
-
-<a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>
-<ul style="line-height:180%">
-
-<li> Lillian Frey, <b>Linear Codes</b>, <small>Sep - Dec 2022</small><br>
-    <small>Binghamton University</small></li>
-
-<li> Lalit Sharma, <b>Class Groups</b>, <small>Feb - May 2022</small><br>
-    <small>University of Delhi</small></li>
-
-<li> Bowen Li, <b>Category Theory</b>, <small>Feb - May 2022</small><br>
-    <small>Carleton College</small></li>
-
-<li> Lalit Sharma, <b>Varieties</b>, <small>Sep - Dec 2021</small><br>
-    <small>University of Delhi</small></li>
-
-</ul>
-</details>
+<!-- #69b2c1 -->
