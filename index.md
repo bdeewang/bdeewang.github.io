@@ -37,7 +37,7 @@ And a link to your longer-form blog posts.
 Keep your about page about you rather than your job with a portfolio page. 
 <a href="/portfolio" class="internal-link quarter-line-space">View my portfolio&nbsp;→</a> -->
 
-Email’s the best way to get in touch: <code class="language-plaintext highlighter-rouge">{{ site.email }}</code>
+Email’s the best way to get in touch: <code class="language-plaintext highlighter-rouge">bdeewang&lt;at&gt;ucsc&lt;dot&gt;edu</code>
 
 <!-- <div class="tag-list copy-buttons">
 
