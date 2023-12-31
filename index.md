@@ -10,9 +10,7 @@ index: true
 Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/).
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 
-<div class="tag-list copy-buttons">
-Here is my <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a>
-</div>
+Here is my <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-success">Curriculum Vitae</a>
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a> -->
 
 My research interests lie in arithmetic geometry and algebraic number theory.
