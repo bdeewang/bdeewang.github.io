@@ -10,8 +10,8 @@ index: true
 Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/).
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 
-<div class="tag-list copy-buttons">
-<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a>
+<div class="btn btn-default">
+<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="tag-list copy-buttons">Curriculum Vitae</a>
 </div>
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a> -->
 
@@ -41,14 +41,14 @@ Keep your about page about you rather than your job with a portfolio page.
 
 Email’s the best way to get in touch: <code class="language-plaintext highlighter-rouge">bdeewang&lt;at&gt;ucsc&lt;dot&gt;edu</code>
 
-<div class="tag-list copy-buttons">
+<!-- <div class="tag-list copy-buttons">
 
 <a class="btn btn-default" onclick="copyEmailtoClipboard('{{site.email}}')">Copy address</a>
 
 <a href="mailto:{{site.email}}">Send email</a>
-</div>
+</div> -->
 
-<script>
+<!-- <script>
 
 // copy email to clipboard
 
@@ -56,7 +56,7 @@ function copyEmailtoClipboard() {
     navigator.clipboard.writeText((arguments[0]));
 }
 
-</script>
+</script> -->
 
 <!-- Add you Mastodon handle here if you want to verify it
 	
