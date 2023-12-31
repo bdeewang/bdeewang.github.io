@@ -11,7 +11,7 @@ Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 
 <div class="tag-list copy-buttons">
-Here is my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a>
+<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a>
 </div>
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a> -->
 
@@ -39,14 +39,14 @@ And a link to your longer-form blog posts.
 Keep your about page about you rather than your job with a portfolio page. 
 <a href="/portfolio" class="internal-link quarter-line-space">View my portfolio&nbsp;→</a> -->
 
-Email’s the best way to get in touch: <a onclick="copyEmailtoClipboard('{{site.email}}')"><code class="language-plaintext highlighter-rouge">bdeewang&lt;at&gt;ucsc&lt;dot&gt;edu</code></a>
+Email’s the best way to get in touch: <code class="language-plaintext highlighter-rouge">bdeewang&lt;at&gt;ucsc&lt;dot&gt;edu</code>
 
-<!-- <div class="tag-list copy-buttons">
+<div class="tag-list copy-buttons">
 
 <a class="btn btn-default" onclick="copyEmailtoClipboard('{{site.email}}')">Copy address</a>
 
 <a href="mailto:{{site.email}}">Send email</a>
-</div> -->
+</div>
 
 <script>
 
