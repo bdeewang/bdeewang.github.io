@@ -152,7 +152,7 @@ Teaching</b></a><br>
 
 <li> <b>Category Theory Learning Seminar</b>, <small>Winter & Spring 2022</small><br>
     Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small>
-    <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a></li>
+    <a href="https://drive.google.com/file/d/1_ZJplOxGbYQ77iPW1dp0YLyG3C5P4_Af/view?usp=drive_link" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a></li>
 
 <li> <b>Graduate Colloquium</b>, <small>Fall 2020 - Spring 2022</small><br>
     Organiser, <small>co-organised with David Rubinstein</small></li>
