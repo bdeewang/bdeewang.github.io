@@ -46,9 +46,11 @@ I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meet
 
 <!-- --------------------------------------------------- -->
 
-<h3 style="color:#c783c4">Theses</h3>
+<small>
 
 **Collaborators**: [Santiago Arango-Pineros](https://sarangop1728.github.io/about/), [Soumya Sankar](https://sites.google.com/site/soumya3sankar/), [Maria Fox](https://sites.google.com/view/mariafox/), [Heidi Goodson](https://sites.google.com/site/heidigoodson/), [Steven Groen](https://sites.google.com/view/stevengroen), [Sandra Nair](https://sites.google.com/view/sandra-nair), and [Emerald Stacy](https://www.washcoll.edu/people_departments/faculty/estacy2.php), [Niven Achenjang](https://www.mit.edu/~NivenT/), [Aashraya Jha](https://sites.google.com/view/aashrayajha/home), [Caleb Ji](https://math.columbia.edu/~calebji/), [Rose Lopez](https://math.berkeley.edu/people/grad/rose-lopez)
+
+</small>
 
 <!-- --------------------------------------------------- -->
 
