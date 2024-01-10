@@ -44,6 +44,14 @@ I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meet
 * [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)<br>
 <small>Master's Thesis, Higher School of Economics</small>
 
+<!-- --------------------------------------------------- -->
+
+<h3 style="color:#c783c4">Theses</h3>
+
+**Collaborators**: [Santiago Arango-Pineros](https://sarangop1728.github.io/about/), [Soumya Sankar](https://sites.google.com/site/soumya3sankar/), [Maria Fox](https://sites.google.com/view/mariafox/), [Heidi Goodson](https://sites.google.com/site/heidigoodson/), [Steven Groen](https://sites.google.com/view/stevengroen), [Sandra Nair](https://sites.google.com/view/sandra-nair), and [Emerald Stacy](https://www.washcoll.edu/people_departments/faculty/estacy2.php), [Niven Achenjang](https://www.mit.edu/~NivenT/), [Aashraya Jha](https://sites.google.com/view/aashrayajha/home), [Caleb Ji](https://math.columbia.edu/~calebji/), [Rose Lopez](https://math.berkeley.edu/people/grad/rose-lopez)
+
+<!-- --------------------------------------------------- -->
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 <!-- c885b9 -->
