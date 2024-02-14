@@ -97,7 +97,7 @@ permalink: /teaching
 </details>
 
 <details>
-    <summary><b style="color:#ff6fff">Tutor</b></summary>
+    <summary><b style="color:#ffb3ff">Tutor</b></summary>
 
 Learning & Academic Support Centre
 
