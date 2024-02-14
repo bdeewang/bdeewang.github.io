@@ -96,4 +96,18 @@ permalink: /teaching
 </ul>
 </details>
 
+<details>
+    <summary><b style="color:#ff6fff">Tutor</b></summary>
+
+Learning & Academic Support Centre
+
+<ul style="line-height:180%">
+
+<li> MAT260 <b>Linear Algebra</b>, <small>Spring 2015</small></li>
+<li> MAT284 <b>Probability and Statistics</b>, <small>Spring 2015</small></li>
+<li> MAT101 <b>Calculus I</b>, <small>Fall 2014</small></li>
+
+</ul>
+</details>
+
 <!-- #e894b5 -->
