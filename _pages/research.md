@@ -10,8 +10,8 @@ permalink: /research
 ---
 
 <div class="callout">
-    <h2> Winter 2024 Travel </h2>
-I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_progfull.html"><b>JMM in San Franciso</b></a>, attending the <a href="https://swc-math.github.io/aws/2024/index.html"><b>Arizona Winter School</b></a>, and visiting <a href="https://aimath.org/programs/squares/"><b>AIM</b></a>.
+    <h2> Spring 2024 Travel </h2>
+I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a> and the <a href="https://www.ams.org/meetings/sectional/2299_program.html"><b>Spring  West Sectional Meeting in San Francisco</b></a>.
 </div>
 
 <!-- ### Articles -->
@@ -38,17 +38,22 @@ I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meet
 
 <!-- --------------------------------------------------- -->
 
+<h3 style="color:#c783c4">Math Ed. Projects</h3>
+<ul style="line-height:180%">
+
+<li> Redesigning the Calculus for Life Sciences Courses at UC Santa Cruz <small><em>(with Sophie Aiken, Malachi Alexander, Jennifer Guerrero, Ryan Pugh, David Rubinstein, and Nandini Bhattacharya and Pedro Morales-Almazan)</em></small></li>
+
+<!-- <li> A \(p\)-adic analytic Brauer Group <small><em>(with Martin Weissman)</em></small></li> -->
+
+</ul>
+
+<!-- --------------------------------------------------- -->
+
 <!-- ### Theses -->
 <h3 style="color:#c783c4">Theses</h3>
 
 * [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)<br>
 <small>Master's Thesis, Higher School of Economics</small>
-
-<!-- --------------------------------------------------- -->
-
-<h4 style="color:#c783c4">My Collaborators</h4>
-
-<small>[Niven Achenjang](https://www.mit.edu/~NivenT/), [Santiago Arango-Pineros](https://sarangop1728.github.io/about/), [Maria Fox](https://sites.google.com/view/mariafox/), [Heidi Goodson](https://sites.google.com/site/heidigoodson/), [Steven Groen](https://sites.google.com/view/stevengroen), [Aashraya Jha](https://sites.google.com/view/aashrayajha/home), [Caleb Ji](https://math.columbia.edu/~calebji/), [Rose Lopez](https://math.berkeley.edu/people/grad/rose-lopez), [Sandra Nair](https://sites.google.com/view/sandra-nair), [Soumya Sankar](https://sites.google.com/site/soumya3sankar/), [Emerald Stacy](https://www.washcoll.edu/people_departments/faculty/estacy2.php)</small>
 
 <!-- --------------------------------------------------- -->
 

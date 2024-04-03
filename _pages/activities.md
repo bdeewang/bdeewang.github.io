@@ -10,8 +10,8 @@ permalink: /activities
 ---
 
 <div class="callout">
-    <h2> Winter 2024 </h2>
-I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, co-organising the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, a Foundations Scholar with <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a>, and also leading sessions at the <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a> and the <a href="https://www.xacademy.org/home-1"><b>Santa Cruz Math Circle</b></a>.
+    <h2> Spring 2024 </h2>
+I am co-organising a reading group on Tropical Geometry, a learning seminar on Category Theory, and the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/), and I am continuing as a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a> and a Foundations Scholar with <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a>.
 </div>
 
 <!-- ### UC Santa Cruz -->

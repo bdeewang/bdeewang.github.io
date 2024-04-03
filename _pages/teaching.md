@@ -10,8 +10,8 @@ permalink: /teaching
 ---
 
 <div class="callout">
-    <h2> Winter 2024 </h2>
-<p>I am an instructor for <a href="https://pisa.ucsc.edu/class_search/index.php?action=detail&class_data=YToyOntzOjU6IjpTVFJNIjtzOjQ6IjIyNDAiO3M6MTA6IjpDTEFTU19OQlIiO3M6NToiMzAwNDEiO30%253D">MATH 100 <b>Introduction to Proof & Problem Solving</b></a></p>
+    <h2> Spring 2024 </h2>
+<p>I am aGraduate Teaching Fellow, developing course material for MATH 11B: Calculus with Applications</p>
 </div>
 
 <!-- ### UC Santa Cruz -->
