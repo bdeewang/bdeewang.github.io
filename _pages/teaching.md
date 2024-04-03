@@ -11,7 +11,7 @@ permalink: /teaching
 
 <div class="callout">
     <h2> Spring 2024 </h2>
-<p>I am aGraduate Teaching Fellow, developing course material for MATH 11B: Calculus with Applications</p>
+<p>I am a Graduate Teaching Fellow, developing course material for MATH 11B: Calculus with Applications</p>
 </div>
 
 <!-- ### UC Santa Cruz -->

@@ -11,7 +11,7 @@ permalink: /research
 
 <div class="callout">
     <h2> Spring 2024 Travel </h2>
-I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a> and the <a href="https://www.ams.org/meetings/sectional/2299_program.html"><b>Spring  West Sectional Meeting in San Francisco</b></a>.
+I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a> and the <a href="https://www.ams.org/meetings/sectional/2299_program.html"><b>Spring Western Sectional Meeting in San Francisco</b></a>.
 </div>
 
 <!-- ### Articles -->
