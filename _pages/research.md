@@ -30,7 +30,7 @@ I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a
 <h3 style="color:#c783c4">In Preparation</h3>
 <ul style="line-height:180%">
 
-<li> Ekedahl-Oort strata and the supersingular locus in the \(\mathsf{GU}(q-2,2)\) Shimura variety <small><em>(with Maria Fox, Heidi Goodson, Steven Groen, Sandra Nair, and Emerald Stacy)</em></small></li>
+<li> Ekedahl-Oort strata and the supersingular locus in the \(\mathsf{GU}(q-2,2)\) Shimura variety <small><em>(with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair)</em></small></li>
 
 <!-- <li> A \(p\)-adic analytic Brauer Group <small><em>(with Martin Weissman)</em></small></li> -->
 
