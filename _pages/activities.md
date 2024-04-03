@@ -11,7 +11,7 @@ permalink: /activities
 
 <div class="callout">
     <h2> Spring 2024 </h2>
-I am co-organising a reading group on Tropical Geometry, a learning seminar on Category Theory, and the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/), and I am continuing as a [Graduate Pedagogy Fellow](https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/) and a Foundations Scholar with [edge-DS](https://sites.google.com/ucsc.edu/edgedsprogram/).
+I am co-organising a reading group on Tropical Geometry, a learning seminar on Category Theory, and the <a href="https://sites.google.com/ucsc.edu/drp-math/">Directed Reading Program</a> and the Experiences in Math seminar series, and I am continuing as a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/">Graduate Pedagogy Fellow and a Foundations Scholar with <a href="https://sites.google.com/ucsc.edu/edgedsprogram/">edge-DS</a>.
 </div>
 
 <!-- ### UC Santa Cruz -->

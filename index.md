@@ -42,8 +42,6 @@ Keep your about page about you rather than your job with a portfolio page.
 
 Email's the best way to get in touch: <code class="language-plaintext highlighter-rouge"><a href="mailto:{{site.email}}">{{site.email}}</a></code>
 
-<br>
-
 <b>Friends & Collaborators:</b> <a href="https://www.mit.edu/~NivenT/">Niven Achenjang</a>, <a href="https://sophieaiken.github.io/">Sophie Aiken</a>, <a href="{https://malachialexander.com/}">Malachi Alexander</a>, <a href="https://www.washcoll.edu/people_departments/faculty/estacy2.php">Emerald Anne</a>, <a href="https://sarangop1728.github.io/about/">Santiago Arango-Pineros</a>, <a href="https://sites.google.com/view/mariafox/">Maria Fox</a>, <a href="https://sites.google.com/site/heidigoodson/">Heidi Goodson</a>, <a href="https://sites.google.com/view/stevengroen">Steven Groen</a>, <a href="https://sites.google.com/view/jennifer-s-guerrero/">Jennifer Guerrero</a>, <a href="https://sites.google.com/view/aashrayajha/home">Aashraya Jha</a>, <a href="https://math.columbia.edu/~calebji/">Caleb Ji</a>, <a href="https://math.berkeley.edu/people/grad/rose-lopez">Rose Lopez</a>, <a href="https://sites.google.com/view/sandra-nair">Sandra Nair</a>, <a href="https://foothill.edu/directory/profile/pugh_ryan.html">Ryan Pugh</a>, <a href="https://drubinstein.com/">David Rubinstein</a>, <a href="https://sites.google.com/site/soumya3sankar/">Soumya Sankar</a>
 
 
