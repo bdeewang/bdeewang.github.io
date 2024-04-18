@@ -15,7 +15,7 @@ I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a
 </div>
 
 <!-- ### Articles -->
-<h3 style="color:#c783c4">Articles</h3>
+<h3 style="color:#c783c4">Articles</h3> <a href="https://arxiv.org/a/bhamidipati_d_1.html">(on arXiv)</a>
 
 <ol reversed>
 <li> The Brauer Group of \(\mathscr{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
