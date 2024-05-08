@@ -18,6 +18,9 @@ I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a
 <h3 style="color:#c783c4">Articles</h3> <a href="https://arxiv.org/a/bhamidipati_d_1.html">(on arXiv)</a>
 
 <ol reversed>
+<li> Ekedahl-Oort strata and the supersingular locus in the \(\mathsf{GU}(q-2,2)\) Shimura variety <small><em>(with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair)</em></small><br>
+    <a href="https://arxiv.org/abs/2405.04464"><code>arXiv:2405.04464</code></a> </li>
+
 <li> The Brauer Group of \(\mathscr{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
     <a href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a> </li>
 
@@ -36,17 +39,17 @@ I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a
 
 </ul>
 
-<!-- --------------------------------------------------- -->
+<!-- --------------------------------------------------- --
 <h3 style="color:#c783c4">In Preparation</h3>
 <ul style="line-height:180%">
 
-<li> Ekedahl-Oort strata and the supersingular locus in the \(\mathsf{GU}(q-2,2)\) Shimura variety <small><em>(with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair)</em></small></li>
+<li> </li>
 
-<!-- <li> A \(p\)-adic analytic Brauer Group <small><em>(with Martin Weissman)</em></small></li> -->
+<li> A \(p\)-adic analytic Brauer Group <small><em>(with Martin Weissman)</em></small></li>
 
 </ul>
 
-<!-- --------------------------------------------------- -->
+-->
 
 <!-- ### Theses -->
 <h3 style="color:#c783c4">Theses</h3>
