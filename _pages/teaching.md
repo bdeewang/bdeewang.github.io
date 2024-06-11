@@ -11,7 +11,7 @@ permalink: /teaching
 
 <div class="callout">
     <h2> Spring 2024 </h2>
-<p>I am a Graduate Teaching Fellow, developing course material for MATH 11B: Calculus with Applications</p>
+<p>I am an Instructor of Record for <a href="https://pisa.ucsc.edu/class_search/index.php?action=detail&class_data=YToyOntzOjU6IjpTVFJNIjtzOjQ6IjIyNDQiO3M6MTA6IjpDTEFTU19OQlIiO3M6NToiNzAxMjMiO30%253D">MATH 181: History of Mathematics</a> and <a href="https://pisa.ucsc.edu/class_search/index.php?action=detail&class_data=YToyOntzOjU6IjpTVFJNIjtzOjQ6IjIyNDQiO3M6MTA6IjpDTEFTU19OQlIiO3M6NToiNzA3ODIiO30%253D">MATH 11B: Calculus with Applications</a></p>
 </div>
 
 <!-- ### UC Santa Cruz -->
@@ -20,6 +20,10 @@ permalink: /teaching
     <summary><b style="color:#ffffbf">Instructor of Record</b></summary>
 
 <ul style="line-height:150%">
+
+<li> MATH 11B <b>Calculus with Applications</b>, <small>Summer 2024</small></li>
+
+<li> MATH 181 <b>History of Mathematics</b>, <small>Summer 2022</small></li>
 
 <li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2024</small></li>
 

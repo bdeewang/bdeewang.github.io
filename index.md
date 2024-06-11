@@ -19,10 +19,10 @@ Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 My research interests lie in arithmetic geometry and algebraic number theory.
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a>
 
-I am currently a Graduate Teaching Fellow, developing course material for MATH 11B: Calculus with Applications.
+I am an Instructor of Record for MATH 181: History of Mathematics and MATH 11B: Calculus with Applications during the summer.
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
 
-This quarter, I am also co-organising a reading group on Tropical Geometry, a learning seminar on Category Theory, and the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/), and continuing as a [Graduate Pedagogy Fellow](https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/).
+This summer, I will be a Graduate Student Mentor with [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/projects), a Course Assistant for Number Theory at [COSMOS](https://cosmos.ucsc.edu/) and a Graduate Student Researcher working on redesigning the Calculus for Life Sciences series.
 <!-- I also keep busy by organising and helping organise things in my department.
 <a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a> -->
 

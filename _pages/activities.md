@@ -9,10 +9,12 @@ custom-nav:
 permalink: /activities
 ---
 
+<!--
 <div class="callout">
     <h2> Spring 2024 </h2>
 I am co-organising a reading group on Tropical Geometry, a learning seminar on Category Theory, and the <a href="https://sites.google.com/ucsc.edu/drp-math/">Directed Reading Program</a> and the Experiences in Math seminar series, and I am continuing as a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/">Graduate Pedagogy Fellow</a> and a Foundations Scholar with <a href="https://sites.google.com/ucsc.edu/edgedsprogram/">edge-DS</a>.
 </div>
+-->
 
 <!-- ### UC Santa Cruz -->
 
@@ -27,7 +29,7 @@ I am co-organising a reading group on Tropical Geometry, a learning seminar on C
 <li> <b>Head TA</b>, Mathematics Department<br>
     <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024</small><br>
+<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Jun 2024</small><br>
     Organiser, <small>co-organised with David Rubinstein</small></li>
 
 <li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>

@@ -9,10 +9,12 @@ custom-nav:
 permalink: /research
 ---
 
+<!--
 <div class="callout">
     <h2> Spring 2024 Travel </h2>
 I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a> and the <a href="https://www.ams.org/meetings/sectional/2299_program.html"><b>Spring Western Sectional Meeting in San Francisco</b></a>.
 </div>
+-->
 
 <!-- ### Articles -->
 <h3 style="color:#c783c4">Articles</h3> <a href="https://arxiv.org/a/bhamidipati_d_1.html">(on arXiv)</a>
