@@ -27,7 +27,8 @@ I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a
     <a href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a> </li>
 
 <li> Frobenius distributions of low dimensional abelian varieties over finite fields <small><em>(with Santiago Arango-Pineros and Soumya Sankar)</em></small><br>
-    <a href="https://arxiv.org/abs/2306.02237"><code>arXiv:2306.02237</code></a> </li>
+    <em>International Mathematics Research Notices</em>
+    <a href="https://doi.org/10.1093/imrn/rnae148"><code>doi:10.1093/imrn/rnae148</code></a> </li>
 </ol>
 
 <!-- --------------------------------------------------- -->
