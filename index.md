@@ -19,10 +19,12 @@ Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 My research interests lie in arithmetic geometry and algebraic number theory.
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a>
 
-I am an Instructor of Record for MATH 181: History of Mathematics and MATH 11B: Calculus with Applications during the summer.
+<em class="language-plaintext highlighter-rouge" style="color:#ffffbf">I am on the job market in Fall 2024!</em>
+
+I will be a Teaching Assistant for MATH 288A: Pedagogy of Mathematics in the Fall.
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
 
-This summer, I will be a Graduate Student Mentor with [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/projects), a Course Assistant for Number Theory at [COSMOS](https://cosmos.ucsc.edu/) and a Graduate Student Researcher working on redesigning the Calculus for Life Sciences series.
+<!--This summer, I will be a Graduate Student Mentor with [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/projects), a Course Assistant for Number Theory at [COSMOS](https://cosmos.ucsc.edu/) and a Graduate Student Researcher working on redesigning the Calculus for Life Sciences series.-->
 <!-- I also keep busy by organising and helping organise things in my department.
 <a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a> -->
 
