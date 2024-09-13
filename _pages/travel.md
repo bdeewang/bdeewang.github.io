@@ -15,21 +15,21 @@ permalink: /travel
 
 <ul style="line-height:150%">
 
-<li style="font-size:18px"> (Feb 24-28, tentative) SQuaREs, American Inst. of Mathematics in Pasadena, CA</li>
+<li style="font-size:18px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a> in Pasadena, CA</li>
 
-<li style="font-size:18px"> (Jan 8-11) Joint Mathematics Meetings in Seattle, WA</li>
+<li style="font-size:18px"> (Jan 8-11) <a href="https://jointmathematicsmeetings.org/jmm">Joint Mathematics Meetings</a> in Seattle, WA</li>
     <ul style="line-height:1.5em">
-    <li style="font-size:18px"> (Jan 10) Speaking at Special Session on Rethinking Number Theory</li></ul>
+    <li style="font-size:18px"> (Jan 10) Speaking at <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss105.html#title">Special Session on Rethinking Number Theory</a></li></ul>
 
-<li style="font-size:18px"> (Nov 18-22) p-adic Geometry Workshop at NUS, Singapore</li>
+<li style="font-size:18px"> (Nov 18-22) <a href="http://www.davidrenshawhansen.net/workshop2024.html">\(p\)-adic Geometry Workshop</a> at NUS, Singapore</li>
 
-<li style="font-size:18px"> (Nov 5) Seminar talk at CUNY Graduate Center, New York, NY</li>
+<li style="font-size:18px"> (Nov 5) Seminar talk at <a href="https://sites.google.com/view/gc-arithmetic-geometry/home">CUNY Graduate Center</a>, NY</li>
 
 <li style="font-size:18px"> (Oct 26-27) Speaking at Fall Western Sectional Meeting, Riverside, CA</li>
 
-<li style="font-size:18px"> (Oct 10) Seminar talk at Oklahoma State University, OK</li>
+<li style="font-size:18px"> (Oct 10) Seminar talk at <a href="https://www.mathdept.okstate.edu/announce/">Oklahoma State University</a>, OK</li>
 
-<li style="font-size:18px"> (Oct 7, online) Seminar talk at The Ohio State University, OH</li>
+<li style="font-size:18px"> (Oct 7, online) Seminar talk at <a href="https://research.math.osu.edu/numbertheory/">The Ohio State University</a>, OH</li>
 
 <li style="font-size:18px"> (Sep 11) Speaking at IIT Hyderabad, India</li>
 
