@@ -1,6 +1,6 @@
 ---
-title: Teaching
-description: "Teaching experience"
+title: Travel
+description: "Travel for talks and events"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
@@ -9,15 +9,9 @@ custom-nav:
 permalink: /teaching
 ---
 
-<div class="callout">
-    <h2> Spring 2024 </h2>
-<p>I am a TA for <a href="https://pisa.ucsc.edu/class_search/index.php?action=detail&class_data=YToyOntzOjU6IjpTVFJNIjtzOjQ6IjIyNDgiO3M6MTA6IjpDTEFTU19OQlIiO3M6NToiMTE0MTAiO30%253D">MATH 288A: Pedagogy of Mathematics</a></p>
-</div>
-
 <!-- ### UC Santa Cruz -->
 
-<details>
-    <summary><b style="color:#ffffbf">Instructor of Record</b></summary>
+<h3>Fall 2024</h3>
 
 <ul style="line-height:150%">
 
@@ -54,12 +48,11 @@ permalink: /teaching
 <li> MATH 3 <b>Precalculus</b>, <small>Summer 2020</small></li>
 
 </ul>
-</details>
 
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#d78a86">Teaching Assistant</b></summary>
+    <b>Spring 2024</b>
 
 <ul style="line-height:180%">
 
