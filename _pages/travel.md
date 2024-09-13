@@ -18,6 +18,10 @@ permalink: /travel
 <li style="font-size:18px"> (Feb 24-28, tentative) SQuaREs, AIM in Pasadena, CA</li>
 
 <li style="font-size:18px"> (Jan 8-11) Joint Mathematics Meetings in Seattle, WA</li>
+    <ul style="line-height:150%">
+    <li style="font-size:18px"> (Jan 10) Speaking at AMS Special Session on Rethinking Number Theory</li>
+
+</li>
 
 <li style="font-size:18px"> (Nov 18-22) p-adic Geometry Workshop at NUS, Singapore</li>
 
