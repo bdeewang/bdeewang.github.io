@@ -15,11 +15,11 @@ permalink: /travel
 
 <ul style="line-height:150%">
 
-<li> <small>(Sep 11)</small> Speaking at <b>Indian Institute of Technology (IIT) Hyderabad</b>, India</li>
+<li> <small>(Sep 11)</small> Speaking at <b>IIT Hyderabad</b>, India</li>
 
 </ul>
 
-<!-- --------------------------------------------------- -->
+<!-- --------------------------------------------------- 
 
 <details>
     <summary><b>Spring 2024</b></summary>
@@ -29,4 +29,4 @@ permalink: /travel
 <li> MAT260 <b>Linear Algebra</b>, <small>Fall 2015</small></li>
 
 </ul>
-</details>
+</details>-->
