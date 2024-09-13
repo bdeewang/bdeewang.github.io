@@ -52,7 +52,7 @@ permalink: /travel
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><h2 style="color:#e894b5">Spring 2024</b></summary>
+    <summary><h2 style="color:#e894b5">Spring 2024</h2></summary>
 
 <ul style="line-height:180%">
 
