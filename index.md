@@ -19,7 +19,7 @@ Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 My research interests lie in arithmetic geometry and algebraic number theory.
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a>
 
-<em style="bg:#ffffbf"><b>I am on the job market in Fall 2024!</b></em>
+<p class="highlighter-rouge" style="color:#ffffbf"><em><b>I am on the job market in Fall 2024!</b></em></p>
 
 I will be a Teaching Assistant for MATH 288A: Pedagogy of Mathematics in the Fall.
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
