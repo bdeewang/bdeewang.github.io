@@ -15,7 +15,7 @@ permalink: /travel
 
 <ul style="line-height:150%">
 
-<li style="font-size:18px"> (Feb 24-28, tentative) SQuaREs, AIM in Pasadena, CA</li>
+<li style="font-size:18px"> (Feb 24-28, tentative) SQuaREs, American Inst. of Mathematics in Pasadena, CA</li>
 
 <li style="font-size:18px"> (Jan 8-11) Joint Mathematics Meetings in Seattle, WA</li>
     <ul style="line-height:1.5em">
