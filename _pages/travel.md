@@ -11,13 +11,25 @@ permalink: /travel
 
 <!-- ### UC Santa Cruz -->
 
-<h2 style="color:#e894b5">Fall 2024</h2>
+<h2 style="color:#e894b5">2024-25</h2>
 
 <ul style="line-height:150%">
 
-<li style="font-size:18px"> (Sep 11) Speaking at <b>IIT Hyderabad</b>, India</li>
+<li style="font-size:18px"> (Feb 24-28, tentative) SQuaREs, AIM in Pasadena, CA</li>
 
-<li> <small>(Sep 11)</small></li>
+<li style="font-size:18px"> (Jan 8-11) Joint Mathematics Meetings in Seattle, WA</li>
+
+<li style="font-size:18px"> (Nov 18-22) p-adic Geometry Workshop at NUS, Singapore</li>
+
+<li style="font-size:18px"> (Nov 5) Seminar talk at CUNY Graduate Center, New York, NY</li>
+
+<li style="font-size:18px"> (Oct 26-27) Speaking at Fall Western Sectional Meeting, Riverside, CA</li>
+
+<li style="font-size:18px"> (Oct 10) Seminar talk at Oklahoma State University, OK</li>
+
+<li style="font-size:18px"> (Oct 7, online) Seminar talk at The Ohio State University, OH</li>
+
+<li style="font-size:18px"> (Sep 11) Speaking at IIT Hyderabad, India</li>
 
 </ul>
 
