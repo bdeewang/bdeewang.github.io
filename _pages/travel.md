@@ -21,8 +21,6 @@ permalink: /travel
     <ul style="line-height:150%">
     <li style="font-size:18px"> (Jan 10) Speaking at AMS Special Session on Rethinking Number Theory</li>
 
-</li>
-
 <li style="font-size:18px"> (Nov 18-22) p-adic Geometry Workshop at NUS, Singapore</li>
 
 <li style="font-size:18px"> (Nov 5) Seminar talk at CUNY Graduate Center, New York, NY</li>
