@@ -17,7 +17,7 @@ Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a> -->
 
 My research interests lie in arithmetic geometry and algebraic number theory.
-<a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a>&nbsp;&nbsp;&nbsp;<a href="/travel" class="internal-link quarter-line-space">View my travel&nbsp;→</a>
+<a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel&nbsp;→</a>
 
 <code class="highlighter-rouge" style="color:#ffffbf"><b>I am on the job market in Fall 2024!</b></code>
 
