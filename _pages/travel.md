@@ -13,7 +13,7 @@ permalink: /travel
 
 <h2 style="color:#e894b5">2024-25</h2>
 
-<ul style="line-height:80%">
+<ul>
 
 <li style="font-size:17px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a> in Pasadena, CA</li>
 
