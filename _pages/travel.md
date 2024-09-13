@@ -11,9 +11,11 @@ permalink: /travel
 
 <!-- ### UC Santa Cruz -->
 
-<h2 style="color:#e894b5">2024-25</h2>
+<h1 style="color:#e894b5">2024-25</h1>
 
 <ul style="line-height:150%">
+
+<h2> Fall 2024 </h2>
 
 <li style="font-size:18px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a> in Pasadena, CA</li>
 
