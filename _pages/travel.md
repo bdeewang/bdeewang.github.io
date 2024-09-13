@@ -21,7 +21,7 @@ permalink: /travel
     <ul style="line-height:1.5em">
     <li style="font-size:18px"> (Jan 10) Speaking at <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss105.html#title">Special Session on Rethinking Number Theory</a></li></ul>
 
-<li style="font-size:18px"> (Nov 18-22) <a href="http://www.davidrenshawhansen.net/workshop2024.html">\(p\)-adic Geometry Workshop</a> at NUS, Singapore</li>
+<li style="font-size:18px"> (Nov 18-22) <a href="http://www.davidrenshawhansen.net/workshop2024.html"><em>p</em>-adic Geometry Workshop</a> at NUS, Singapore</li>
 
 <li style="font-size:18px"> (Nov 5) Seminar talk at <a href="https://sites.google.com/view/gc-arithmetic-geometry/home">CUNY Graduate Center</a>, NY</li>
 
