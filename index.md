@@ -7,7 +7,7 @@ index: true
 
 {% include about-picture-img.html %}
 
-Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/).
+Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/).
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 
 <div class="tag-list copy-buttons">
@@ -19,7 +19,7 @@ Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 My research interests lie in arithmetic geometry and algebraic number theory.
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a>
 
-<em class="language-plaintext highlighter-rouge" style="color:#ffffbf">I am on the job market in Fall 2024!</em>
+<em style="bg:#ffffbf"><b>I am on the job market in Fall 2024!</b></em>
 
 I will be a Teaching Assistant for MATH 288A: Pedagogy of Mathematics in the Fall.
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
