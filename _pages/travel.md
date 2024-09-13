@@ -19,7 +19,10 @@ permalink: /travel
 
 <li style="font-size:17px"> (Jan 8-11) <a href="https://jointmathematicsmeetings.org/jmm">Joint Mathematics Meetings</a> in Seattle, WA</li>
     <ul style="line-height:0px">
-    <li style="font-size:17px"> (Jan 10) Speaking at <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss105.html#title">Special Session on Rethinking Number Theory</a></li></ul>
+    <li style="font-size:17px"> (Jan 10) Speaking at <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss105.html#title">Special Session on Rethinking Number Theory</a></li>
+    <li>Test</li>
+
+</ul>
 
 <li style="font-size:17px"> (Nov 18-22) <a href="http://www.davidrenshawhansen.net/workshop2024.html"><em>p</em>-adic Geometry Workshop</a> at NUS, Singapore</li>
 
