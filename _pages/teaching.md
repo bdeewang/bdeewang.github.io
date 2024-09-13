@@ -23,7 +23,7 @@ permalink: /teaching
 
 <li> MATH 11B <b>Calculus with Applications</b>, <small>Summer 2024</small></li>
 
-<li> MATH 181 <b>History of Mathematics</b>, <small>Summer 2022</small></li>
+<li> MATH 181 <b>History of Mathematics</b>, <small>Summer 2024</small></li>
 
 <li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2024</small></li>
 
