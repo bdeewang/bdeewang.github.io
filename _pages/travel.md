@@ -11,13 +11,15 @@ permalink: /travel
 
 <!-- ### UC Santa Cruz -->
 
-<h1 style="color:#e894b5">Fall 2024</h1>
+<h2 style="color:#e894b5">Fall 2024</h2>
 
+<small>
 <ul style="line-height:150%">
 
-<li> <small>(Sep 11)</small> Speaking at <b>IIT Hyderabad</b>, India</li>
+<li> (Sep 11) Speaking at <b>IIT Hyderabad</b>, India</li>
 
 </ul>
+</small>
 
 <!-- --------------------------------------------------- 
 
