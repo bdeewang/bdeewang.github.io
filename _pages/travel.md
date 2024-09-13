@@ -13,7 +13,7 @@ permalink: /travel
 
 <h2 style="color:#e894b5">2024-25</h2>
 
-<ul>
+<ul style="line-height:80%">
 
 <li style="font-size:17px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a> in Pasadena, CA</li>
 
@@ -27,7 +27,7 @@ permalink: /travel
 
 <li style="font-size:17px"> (Oct 26-27) Speaking at Fall Western Sectional Meeting, Riverside, CA</li>
 
-<li style="line-height:150%" style="font-size:17px"> (Oct 10) Seminar talk at <a href="https://www.mathdept.okstate.edu/announce/">Oklahoma State University</a>, OK</li>
+<li style="font-size:17px"> (Oct 10) Seminar talk at <a href="https://www.mathdept.okstate.edu/announce/">Oklahoma State University</a>, OK</li>
 
 <li style="font-size:17px"> (Oct 7, online) Seminar talk at <a href="https://research.math.osu.edu/numbertheory/">The Ohio State University</a>, OH</li>
 
