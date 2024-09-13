@@ -16,7 +16,7 @@ permalink: /travel
 <small>
 <ul style="line-height:150%">
 
-<li> (Sep 11) Speaking at <b>IIT Hyderabad</b>, India</li>
+<li style="font-size:30px"> (Sep 11) Speaking at <b>IIT Hyderabad</b>, India</li>
 
 </ul>
 </small>
