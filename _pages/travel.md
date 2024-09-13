@@ -11,7 +11,7 @@ permalink: /travel
 
 <!-- ### UC Santa Cruz -->
 
-### Fall 2024
+<h1 style="color:#e894b5">Fall 2024</h1>
 
 <ul style="line-height:150%">
 
@@ -52,7 +52,7 @@ permalink: /travel
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><h2 style="color:#e894b5">Spring 2024</h2></summary>
+    <summary><b style="color:#e894b5">Spring 2024</b></summary>
 
 <ul style="line-height:180%">
 
