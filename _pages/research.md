@@ -9,15 +9,20 @@ custom-nav:
 permalink: /research
 ---
 
-<!--
 <div class="callout">
-    <h2> Spring 2024 Travel </h2>
-I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a> and the <a href="https://www.ams.org/meetings/sectional/2299_program.html"><b>Spring Western Sectional Meeting in San Francisco</b></a>.
+<a href="/travel"><b>Travel schedule of upcoming talks and events</b></a>.
 </div>
--->
 
 <!-- ### Articles -->
-<h3 style="color:#c783c4">Articles</h3> <a href="https://arxiv.org/a/bhamidipati_d_1.html">(on arXiv)</a>
+<h3 style="color:#c783c4">Published Articles</h3>
+
+<ol reversed>
+<li> Frobenius distributions of low dimensional abelian varieties over finite fields <small><em>(with Santiago Arango-Pineros and Soumya Sankar)</em></small><br>
+    <em>International Mathematics Research Notices. Vol. 2024, No. 16, pp. 11989-12020, August 2024</em>
+    <a href="https://doi.org/10.1093/imrn/rnae148"><code>doi:10.1093/imrn/rnae148</code></a> </li>
+</ol>
+
+<h3 style="color:#c783c4">Preprints <a href="https://arxiv.org/a/bhamidipati_d_1.html">(on arXiv)</a></h3>
 
 <ol reversed>
 <li> Ekedahl-Oort strata and the supersingular locus in the \(\mathsf{GU}(q-2,2)\) Shimura variety <small><em>(with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair)</em></small><br>
@@ -25,10 +30,6 @@ I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a
 
 <li> The Brauer Group of \(\mathscr{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
     <a href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a> </li>
-
-<li> Frobenius distributions of low dimensional abelian varieties over finite fields <small><em>(with Santiago Arango-Pineros and Soumya Sankar)</em></small><br>
-    <em>International Mathematics Research Notices</em>
-    <a href="https://doi.org/10.1093/imrn/rnae148"><code>doi:10.1093/imrn/rnae148</code></a> </li>
 </ol>
 
 <!-- --------------------------------------------------- -->
