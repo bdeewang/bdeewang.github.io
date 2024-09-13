@@ -11,7 +11,7 @@ permalink: /travel
 
 <!-- ### UC Santa Cruz -->
 
-<h3>Fall 2024</h3>
+### Fall 2024
 
 <ul style="line-height:150%">
 
@@ -52,41 +52,7 @@ permalink: /travel
 <!-- --------------------------------------------------- -->
 
 <details>
-    <b>Spring 2024</b>
-
-<ul style="line-height:180%">
-
-<li> MATH 288A <b>Pedagogy of Mathematics (for TAs)</b>, <small>Fall 2024</small></li>
-
-<li> MATH 11A <b>Calculus with Applications</b>, <small>Fall 2023</small></li>
-
-<li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023</small></li>
-
-<li> MATH 288B <b>Pedagogy of Mathematics (for GSIs)</b>, <small>Winter 2023</small></li>
-
-<li> MATH 19A <b>Calculus for Sci., Eng., and Math.</b>, <small>Fall 2022</small></li>
-
-<li> MATH 11A <b>Calculus with Applications</b>, <small>Winter 2022</small></li>
-
-<li> MATH 111T <b>Algebra</b>, <small>Spring 2021</small></li>
-
-<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2021</small></li>
-
-<li> MATH 3 <b>Precalculus</b>, <small>Spring 2020</small></li>
-
-<li> MATH 181 <b>History of Mathematics</b>, <small>Winter 2020</small></li>
-
-<li> MATH 3 <b>Precalculus</b>, <small>Fall 2019</small></li>
-
-</ul>
-</details>
-
-<!-- --------------------------------------------------- -->
-
-### Shiv Nadar University
-<!-- bfe3ff -->
-<details>
-    <summary><b style="color:#d78a86">Teaching Assistant</b></summary>
+    <summary><h2 style="color:#e894b5">Spring 2024</b></summary>
 
 <ul style="line-height:180%">
 
@@ -94,19 +60,3 @@ permalink: /travel
 
 </ul>
 </details>
-
-<details>
-    <summary><b style="color:#ffb3ff">Tutor</b></summary>
-
-Learning & Academic Support Centre
-
-<ul style="line-height:180%">
-
-<li> MAT260 <b>Linear Algebra</b>, <small>Spring 2015</small></li>
-<li> MAT284 <b>Probability and Statistics</b>, <small>Spring 2015</small></li>
-<li> MAT101 <b>Calculus I</b>, <small>Fall 2014</small></li>
-
-</ul>
-</details>
-
-<!-- #e894b5 -->
