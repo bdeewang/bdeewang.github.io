@@ -13,13 +13,11 @@ permalink: /travel
 
 <h2 style="color:#e894b5">Fall 2024</h2>
 
-<small>
 <ul style="line-height:150%">
 
-<li style="font-size:30px"> (Sep 11) Speaking at <b>IIT Hyderabad</b>, India</li>
+<li style="font-size:10px"> (Sep 11) Speaking at <b>IIT Hyderabad</b>, India</li>
 
 </ul>
-</small>
 
 <!-- --------------------------------------------------- 
 
