@@ -24,7 +24,7 @@ permalink: /travel
 
 <li style="font-size:17px"> (Nov 5) Seminar talk at <a href="https://sites.google.com/view/gc-arithmetic-geometry/home">CUNY Graduate Center</a>, NY</li>
 
-<li style="font-size:17px"> (Oct 26-27) Speaking at Fall Western Sectional Meeting, Riverside, CA</li>
+<li style="font-size:17px"> (Oct 26) Speaking at <a href="https://www.ams.org/meetings/sectional/2304_progfull.html">Fall Western Sectional Meeting, Riverside, CA</a></li>
 
 <li style="font-size:17px"> (Oct 10) Seminar talk at <a href="https://www.mathdept.okstate.edu/announce/">Oklahoma State University</a>, OK</li>
 
