@@ -17,6 +17,8 @@ permalink: /travel
 
 <li style="font-size:17px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a> in Pasadena, CA</li>
 
+<li style="font-size:17px"> (Jan 21) Seminar talk at <a href="https://sites.google.com/math.arizona.edu/panyan/algebra-and-number-theory-seminar?authuser=0">University of Arizona</a>, AZ</li>
+
 <li style="font-size:17px"> (Jan 8-11) <a href="https://jointmathematicsmeetings.org/jmm">Joint Mathematics Meetings</a> in Seattle, WA<br>
     (Jan 10) Speaking at <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss105.html#title">Special Session on Rethinking Number Theory</a></li>
 
