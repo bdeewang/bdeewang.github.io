@@ -15,11 +15,10 @@ Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 </div>
 <!-- Here is my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a> -->
-
-My research interests lie in arithmetic geometry and algebraic number theory.
-<a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>
-
 <code class="highlighter-rouge" style="color:#ffffbf"><b>I am on the job market in Fall 2024!</b></code>
+
+My research interests lie in arithmetic geometry, algebraic number theory, undergraduate and graduate mathematics education.
+<a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>
 
 I will be a TA for MATH 288A: Pedagogy of Mathematics in the Fall. 
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
