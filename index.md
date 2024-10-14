@@ -21,12 +21,11 @@ My research interests lie in arithmetic geometry and algebraic number theory.
 
 <code class="highlighter-rouge" style="color:#ffffbf"><b>I am on the job market in Fall 2024!</b></code>
 
-I will be a Teaching Assistant for MATH 288A: Pedagogy of Mathematics in the Fall. 
+I will be a TA for MATH 288A: Pedagogy of Mathematics in the Fall. 
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
 
-<!--This summer, I will be a Graduate Student Mentor with [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/projects), a Course Assistant for Number Theory at [COSMOS](https://cosmos.ucsc.edu/) and a Graduate Student Researcher working on redesigning the Calculus for Life Sciences series.-->
-<!-- I also keep busy by organising and helping organise things in my department.
-<a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a> -->
+I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro, and a co-organiser of the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/) with Mike Williams. 
+<a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a>
 
 <!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 
