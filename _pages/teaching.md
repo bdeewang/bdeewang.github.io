@@ -90,6 +90,20 @@ permalink: /teaching
 
 <!-- --------------------------------------------------- -->
 
+<details>
+    <summary><b style="color:#d78a86">Other</b></summary>
+
+<ul style="line-height:180%">
+
+<li> <b>Graduate Student Researcher</b>, <em>Redesigning Calculus in the Life Sciences</em>, <small>Summer 2024, 2023, 2021</small></li>
+
+<li> <b>Graduate Teaching Fellow</b>, <em>Online Course Development</em>, <small>Spring 2024</small></li>
+
+</ul>
+</details>
+
+<!-- --------------------------------------------------- -->
+
 ### Shiv Nadar University
 <!-- bfe3ff -->
 <details>

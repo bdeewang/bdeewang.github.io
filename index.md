@@ -23,7 +23,7 @@ My research interests lie in arithmetic geometry, algebraic number theory, under
 I will be a TA for MATH 288A: Pedagogy of Mathematics in the Fall. 
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
 
-I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro, and a co-organiser of the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/) with Mike Williams. 
+I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro, and a co-organiser of the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/) with Mike Williams and Jennifer Guerrero. 
 <a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a>
 
 <!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->

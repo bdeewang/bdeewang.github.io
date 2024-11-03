@@ -15,6 +15,8 @@ permalink: /travel
 
 <ul>
 
+<li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting, San Luis Obispo, CA</a></li>
+
 <li style="font-size:17px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a> in Pasadena, CA</li>
 
 <li style="font-size:17px"> (Jan 21) Seminar talk at <a href="https://sites.google.com/math.arizona.edu/panyan/algebra-and-number-theory-seminar?authuser=0">University of Arizona</a>, AZ</li>
