@@ -15,16 +15,20 @@ permalink: /travel
 
 <ul>
 
+<li style="font-size:17px"> (Jul 14 - Aug 1) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
+
 <li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting, San Luis Obispo, CA</a></li>
 
-<li style="font-size:17px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a> in Pasadena, CA</li>
+<li style="font-size:17px"> (Apr 4-5) Speaking at <a href="https://www.ustars.org/">USTARS 2025</a> in Portland, OR</li>
+
+<li style="font-size:17px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a>, Pasadena, CA</li>
 
 <li style="font-size:17px"> (Jan 21) Seminar talk at <a href="https://sites.google.com/math.arizona.edu/panyan/algebra-and-number-theory-seminar?authuser=0">University of Arizona</a>, AZ</li>
 
 <li style="font-size:17px"> (Jan 8-11) <a href="https://jointmathematicsmeetings.org/jmm">Joint Mathematics Meetings</a> in Seattle, WA<br>
     (Jan 10) Speaking at <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss105.html#title">Special Session on Rethinking Number Theory</a></li>
 
-<li style="font-size:17px"> (Nov 18-22) <a href="http://www.davidrenshawhansen.net/workshop2024.html"><em>p</em>-adic Geometry Workshop</a> at NUS, Singapore</li>
+<li style="font-size:17px"> (Nov 18-22) Attending <a href="http://www.davidrenshawhansen.net/workshop2024.html"><em>p</em>-adic Geometry Workshop</a> at NUS, Singapore</li>
 
 <li style="font-size:17px"> (Nov 5) Seminar talk at <a href="https://sites.google.com/view/gc-arithmetic-geometry/home">CUNY Graduate Center</a>, NY</li>
 

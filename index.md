@@ -20,7 +20,7 @@ Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 My research interests lie in arithmetic geometry, algebraic number theory, undergraduate and graduate mathematics education.
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>
 
-I will be a TA for MATH 288A: Pedagogy of Mathematics in the Fall. 
+For Winter I have been awarded the [Chancellor’s Dissertation-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) and therefore I will not be teaching. 
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
 
 I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro, and a co-organiser of the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/) with Mike Williams and Jennifer Guerrero. 
