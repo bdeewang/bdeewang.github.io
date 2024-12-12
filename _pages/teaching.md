@@ -10,8 +10,8 @@ permalink: /teaching
 ---
 
 <div class="callout">
-    <h2> Spring 2024 </h2>
-<p>I am a TA for <a href="https://pisa.ucsc.edu/class_search/index.php?action=detail&class_data=YToyOntzOjU6IjpTVFJNIjtzOjQ6IjIyNDgiO3M6MTA6IjpDTEFTU19OQlIiO3M6NToiMTE0MTAiO30%253D">MATH 288A: Pedagogy of Mathematics</a></p>
+    <h2> Winter 2025 </h2>
+<p> have been awarded the <a href="https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/">Chancellor’s Dissertation-Year Fellowship</a> and therefore I will not be teaching</p>
 </div>
 
 <!-- ### UC Santa Cruz -->
