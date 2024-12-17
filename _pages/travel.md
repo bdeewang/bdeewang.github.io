@@ -19,7 +19,9 @@ permalink: /travel
 
 <li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting, San Luis Obispo, CA</a></li>
 
-<li style="font-size:17px"> (Apr 4-5) Speaking at <a href="https://www.ustars.org/">USTARS 2025</a> in Portland, OR</li>
+<li style="font-size:17px"> (Apr 4-5, tentative) Speaking at <a href="https://www.ustars.org/">USTARS 2025</a> in Portland, OR</li>
+
+<li style="font-size:17px"> (Mar 8-12) <a href="https://swc-math.github.io/aws/2025/index.html">Arizona Winter School</a> in Tuscon, AZ</li>
 
 <li style="font-size:17px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a>, Pasadena, CA</li>
 
