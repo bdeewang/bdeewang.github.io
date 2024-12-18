@@ -27,12 +27,12 @@ Below is a list of things I strongly prefer having when I write a letter; not ev
 I leave it up to the applicant to make sure that I don't miss the deadline (something which has never happened so don't worry). I ask that you send me frequent email (every week or more as the deadlines grow closer) to remind me. I won't forget but this keeps it at the top of my to-do list. At some point I will then send you an email back saying that I have mailed/uploaded/etc the letter. If you do not receive confirmation from me, then you should assume that I have not submitted your letter and you should pester me.
 
 Finally, on the application page, please use the following for my personal information.
-Name: Deewang Bhamidipati
-Affiliation: University of California, Santa Cruz
-Department: Mathematics
-Position/title: Graduate Student
-Phone: (831) 459-2400
-Email: dbhamidi@ucsc.edu.
-Address: 1156 High Street, Santa Cruz, CA 95064
+<b>Name:</b> Deewang Bhamidipati<br>
+<b>Affiliation:</b> University of California, Santa Cruz<br>
+<b>Department:</b> Mathematics<br>
+<b>Position/title:</b> Graduate Student<br>
+<b>Phone:</b> (831) 459-2400<br>
+<b>Email:</b> dbhamidi@ucsc.edu<br>
+<b>Address:</b> 1156 High Street, Santa Cruz, CA 95064<br>
 
 Information on this page is <em>heavily</em> inspired by <a href="https://dmzb.github.io/">DZB's</a> <a href="https://dmzb.github.io/recommendations.html">letter of recommendation information</a> page (that is, at the moment, it does not differ from his information at all).

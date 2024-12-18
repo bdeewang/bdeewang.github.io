@@ -23,14 +23,16 @@ I am co-organising a reading group on Tropical Geometry, a learning seminar on C
 
 <ul style="line-height:180%">
 
+<li> <b href="https://sites.google.com/ucsc.edu/experiencesinmath/">Experiences in Mathematics</b>, <small>Mar 2024 - <em>present</em></small><br>
+    Co-Organiser, <small>with Jennifer Guerrero and Nariel Monteiro</small></li>
+
 <li> <b>Project for Inmate Education (PIE)</b>, <small>Jul 2023 - <em>present</em></small><br>
-    Co-Director, <small>with David Rubinstein and Mikayla Wilson</small></li>
+    Co-Director, <small>with Mikayla Wilson</small></li>
 
-<li> <b>Head TA</b>, Mathematics Department<br>
-    <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
+<li> <b>Head TA</b>, Mathematics Department, <small>Jul 2022 - <em>present</em></small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Jun 2024</small><br>
-    Organiser, <small>co-organised with David Rubinstein</small></li>
+<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - <em>present</em></small><br>
+    Co-Organiser, <small>with Mike Williams and Jennifer Guerrero</small></li>
 
 <li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
     <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small>
@@ -38,7 +40,7 @@ I am co-organising a reading group on Tropical Geometry, a learning seminar on C
 <ul>
     <li><b>Prelim Study Group</b><small>(an AWM Initiative)</small>
 <ul>
-    <li><em>Study Leader for Algebra</em>, <small>Summer 2023</small></li>
+    <li><em>Study Leader for Algebra</em>, <small>Spring 2024, Summer 2023</small></li>
     <li><em>Study Leader for Analysis</em>, <small>Winter 2022, Summer 2022</small></li>
     <li><em>Study Leader for Geometry</em>, <small>Winter 2022, Summer 2022</small></li>
 </ul>
@@ -65,18 +67,19 @@ I am co-organising a reading group on Tropical Geometry, a learning seminar on C
 
 <ul style="line-height:180%">
 
+<li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
+Teaching</b></a><br>
+    <small> Sep 2024, 2023</small></li>
+
 <li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics<br>
     <small> Winter - Spring 2024</small></li>
 
 <li> <em>Session Leader</em>, <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a><br>
     <small> Mar 2024</small></li>
 
-<li> <em>Foundations Scholar</em>, <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
-    <small> Fall 2023 - Spring 2024</small></li>
-
-<li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
-Teaching</b></a><br>
-    <small> Sep 2023</small></li>
+<li> <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
+    <em>Interdisciplinary Scholar,</em>, <small> Fall 2023 - Spring 2024</small><br>
+    <em>Foundations Scholar</em>, <small> Fall 2023 - Spring 2024</small></li>
 
 <li> <em>Graduate Student Researcher</em>, <b>Redisigning Calculus in the Life Sciences</b>, <small> Summer 2023, 2021</small></li>
 
