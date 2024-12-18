@@ -26,6 +26,9 @@ For Winter I have been awarded the [Chancellor’s Dissertation-Year Fellowship]
 I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro, and a co-organiser of the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/) with Mike Williams and Jennifer Guerrero. 
 <a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a>
 
+If you're thinking of asking me for a letter of recommendation, I encourage you read: 
+<a href="/letters" class="internal-link quarter-line-space">letter writing information&nbsp;→</a>
+
 <!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 
 <!-- Add a one line intro and link to your about page. 
