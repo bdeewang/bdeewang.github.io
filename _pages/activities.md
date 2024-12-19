@@ -14,7 +14,7 @@ Throughout my academic journey, I've discovered that mathematics becomes most me
 <!--; I serve as a co-director for the **Project for Inmate Education** (PIE) ; 
  while serving as Co-Director of the Project for Inmate Education alongside Mikayla W. and Andy S. since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. From August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through December 2024).-->
 
-<div class="callout" style="color:#69b2c1">
+<div class="callout" style="background-color:#69b2c1">
 I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the proffesional world as members of underrepresented groups.
 </div>
 
