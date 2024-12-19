@@ -11,11 +11,11 @@ permalink: /activities
 
 Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted so much time to outreach and service activities.
 
-; I serve as a co-director for the **Project for Inmate Education** (PIE) ; 
- while serving as Co-Director of the Project for Inmate Education alongside Mikayla W. and Andy S. since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. From August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through December 2024).
+<!--; I serve as a co-director for the **Project for Inmate Education** (PIE) ; 
+ while serving as Co-Director of the Project for Inmate Education alongside Mikayla W. and Andy S. since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. From August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through December 2024).-->
 
-<div class="callout">
-I am a co-organiser for <b href="https://sites.google.com/ucsc.edu/experiencesinmath/">Experiences in Mathematics</b> where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the proffesional world as members of underrepresented groups.
+<div class="callout" style="color:#69b2c1">
+I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the proffesional world as members of underrepresented groups.
 </div>
 
 <div class="callout">
@@ -23,7 +23,7 @@ I serve as a co-director for the <b>Project for Inmate Education (PIE)</b> where
 </div>
 
 <div class="callout">
-I am a co-organiser of the <b href="https://sites.google.com/ucsc.edu/drp-math/">Directed Reading Program</b> where we pair undergraduates with graduate students to work on a reading project. I have been an organiser since Fall 2021 where I helped restart the program after a brief hiatus during the pandemic. I have participated as a mentor myself several times, and you can view the interesting topics my mentees and I worked on here.
+I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> where we pair undergraduates with graduate students to work on a reading project. I have been an organiser since Fall 2021 where I helped restart the program after a brief hiatus during the pandemic. I have participated as a mentor myself several times, and you can view the interesting topics my mentees and I worked on here.
 </div>
 
 <!-- ### UC Santa Cruz -->
