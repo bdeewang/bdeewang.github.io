@@ -9,6 +9,10 @@ custom-nav:
 permalink: /activities
 ---
 
+Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted so much time to outreach and service activities.
+
+Most recenelty, I'm co-organising [**Experiences in Mathematics**](https://sites.google.com/ucsc.edu/experiencesinmath/) where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the proffesional world as members of underrepresented groups; I serve as a co-director for the **Project for Inmate Education** (PIE) where we teach incarcerated persons pre-algebra and college algebra; 
+ while serving as Co-Director of the Project for Inmate Education alongside Mikayla W. and Andy S. since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. From August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through December 2024).
 <!--
 <div class="callout">
     <h2> Spring 2024 </h2>
@@ -23,7 +27,7 @@ I am co-organising a reading group on Tropical Geometry, a learning seminar on C
 
 <ul style="line-height:180%">
 
-<li> <b href="https://sites.google.com/ucsc.edu/experiencesinmath/">Experiences in Mathematics</b>, <small>Mar 2024 - <em>present</em></small><br>
+<li> <b href="">Experiences in Mathematics</b>, <small>Mar 2024 - <em>present</em></small><br>
     Co-Organiser, <small>with Jennifer Guerrero and Nariel Monteiro</small></li>
 
 <li> <b>Project for Inmate Education (PIE)</b>, <small>Jul 2023 - <em>present</em></small><br>
