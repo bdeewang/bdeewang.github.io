@@ -18,7 +18,7 @@ Throughout my academic journey, I've discovered that mathematics becomes most me
 I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the proffesional world as members of underrepresented groups.
 </div>
 
-<div class="callout">
+<div class="callout" style="background-color:#300918">
 I serve as a co-director for the <b>Project for Inmate Education (PIE)</b> where we where we teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy.
 </div>
 
