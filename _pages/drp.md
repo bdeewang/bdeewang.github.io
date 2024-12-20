@@ -11,47 +11,60 @@ permalink: /travel
 
 <!-- ### UC Santa Cruz -->
 
-<h2 style="color:#e894b5">2024-25</h2>
-
-<ul>
-
-<li style="font-size:17px"> (Jul 14 - Aug 1) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
-
-<li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting, San Luis Obispo, CA</a></li>
-
-<li style="font-size:17px"> (Apr 4-5, tentative) Speaking at <a href="https://www.ustars.org/">USTARS 2025</a> in Portland, OR</li>
-
-<li style="font-size:17px"> (Mar 8-12) <a href="https://swc-math.github.io/aws/2025/index.html">Arizona Winter School</a> in Tuscon, AZ</li>
-
-<li style="font-size:17px"> (Feb 24-28, tentative) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a>, Pasadena, CA</li>
-
-<li style="font-size:17px"> (Jan 21) Seminar talk at <a href="https://sites.google.com/math.arizona.edu/panyan/algebra-and-number-theory-seminar?authuser=0">University of Arizona</a>, AZ</li>
-
-<li style="font-size:17px"> (Jan 8-11) <a href="https://jointmathematicsmeetings.org/jmm">Joint Mathematics Meetings</a> in Seattle, WA<br>
-    (Jan 10) Speaking at <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss105.html#title">Special Session on Rethinking Number Theory</a></li>
-
-<li style="font-size:17px"> (Nov 18-22) Attending <a href="http://www.davidrenshawhansen.net/workshop2024.html"><em>p</em>-adic Geometry Workshop</a> at NUS, Singapore</li>
-
-<li style="font-size:17px"> (Nov 5) Seminar talk at <a href="https://sites.google.com/view/gc-arithmetic-geometry/home">CUNY Graduate Center</a>, NY</li>
-
-<li style="font-size:17px"> (Oct 26) Speaking at <a href="https://www.ams.org/meetings/sectional/2304_progfull.html">Fall Western Sectional Meeting, Riverside, CA</a></li>
-
-<li style="font-size:17px"> (Oct 10) Seminar talk at <a href="https://www.mathdept.okstate.edu/announce/">Oklahoma State University</a>, OK</li>
-
-<li style="font-size:17px"> (Oct 7, online) Seminar talk at <a href="https://research.math.osu.edu/numbertheory/">The Ohio State University</a>, OH</li>
-
-<li style="font-size:17px"> (Sep 11) Speaking at IIT Hyderabad, India</li>
-
-</ul>
-
-<!-- --------------------------------------------------- 
-
-<details>
-    <summary><b>Spring 2024</b></summary>
-
+<h3>Directed Reading Program</h3>
 <ul style="line-height:180%">
 
-<li> MAT260 <b>Linear Algebra</b>, <small>Fall 2015</small></li>
+<li> Ethan Jones, <b>Modular Forms</b>, <small>Fall 2024</small></li>
+
+<li> Nick Van Daele, <b>Geometric Group</b>, <small>Spring 2024</small><br>
+    <small>with Yahya Bashandy</small></li>
+
+<li> Ethan Jones, <b>Primes of the Form \(x^2 + ny^2\)</b>, <small>Spring 2024</small></li>
+
+<li> August Noe, <b>Period Numbers and Contour Integrals</b>, <small>Spring 2024</small></li>
+
+<li> Chloe Watson, <b>Seifert Surfaces & Genus of Knots</b>, <small>Winter - Spring 2024</small></li>
+
+<li> Yahya Bashandy, <b>Derived Functors & Kan Extensions</b>, <small>Winter 2024</small><br>
+    <small>with David Rubinstein</small></li>
+
+<li> August Noe, <b>Model Theory and Applications</b>, <small>Fall 2023</small></li>
+
+<li> Yahya Bashandy, <b>Group Cohomology & Hilbert's 90</b>, <small>Fall 2023</small><br>
+    <small>with David Rubinstein</small></li>
+
+<li> Morea Lee, <b>Kummer Theory</b>, <small>Spring 2023</small></li>
+
+<li> Brooke Zhang, <b>Combinatorial Designs</b>, <small>Fall 2022</small></li>
+
+<li> Kenneth Gee, <b>The Lambek Correspondance</b>, <small>Summer - Fall 2022</small><br>
+    <small>with David Rubinstein</small></li>
+
+<li> Miles Mitchell, <b>Affine Algebraic Groups</b>, <small>Spring 2022</small></li>
+
+<li> Morea Lee, <b>Galois Theory of Number Fields</b>, <small>Winter 2022</small></li>
+
+<li> Yijia Sun, <b>Error Correction Codes</b>, <small>Fall 2021</small></li>
+
+<li> Anna Yoon, <b>Elliptic Curve Cryptography</b>, <small>Winter 2020</small></li>
 
 </ul>
-</details>-->
+
+<br>
+
+<h3>Twoples</h3>
+<ul style="line-height:180%">
+
+<li> Lillian Frey, <b>Linear Codes</b>, <small>Sep - Dec 2022</small><br>
+    <small>Binghamton University</small></li>
+
+<li> Lalit Sharma, <b>Class Groups</b>, <small>Feb - May 2022</small><br>
+    <small>University of Delhi</small></li>
+
+<li> Bowen Li, <b>Category Theory</b>, <small>Feb - May 2022</small><br>
+    <small>Carleton College</small></li>
+
+<li> Lalit Sharma, <b>Varieties</b>, <small>Sep - Dec 2021</small><br>
+    <small>University of Delhi</small></li>
+
+</ul>

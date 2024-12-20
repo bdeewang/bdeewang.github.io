@@ -23,7 +23,7 @@ I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-even
 </div>
 
 <div class="callout" style="background-color:#08300d">
-I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> where we pair undergraduates with graduate students to work on a reading project. I have been an organiser since Fall 2021 where I helped restart the program after a brief hiatus during the pandemic. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I worked on here</a>.
+I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> where we pair undergraduates with graduate students to work on a reading project. I have been an organiser since Fall 2021 where I helped restart the program after a brief hiatus during the pandemic. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked from my time with <a href="https://sites.google.com/view/twoples/home">Twoples</a>.
 </div>
 
 <!-- ### UC Santa Cruz -->
