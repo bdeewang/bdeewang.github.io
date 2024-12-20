@@ -9,7 +9,7 @@ custom-nav:
 permalink: /teaching
 ---
 
-<div class="callout">
+<div class="callout" style="background-color:#403500">
     <h2> Winter 2025 </h2>
 <p>I have been awarded the <a href="https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/">Chancellor’s Dissertation-Year Fellowship</a> and therefore I will not be teaching</p>
 </div>
