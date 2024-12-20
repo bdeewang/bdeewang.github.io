@@ -18,15 +18,17 @@ Throughout my academic journey, I've discovered that mathematics becomes most me
 I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> seminar series where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the proffesional world as members of minoritised and underrepresented groups.
 </div>
 
-<div class="callout" style="background-color:#082b30">
+<div class="callout" style="background-color:#231519">
 I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> where we where we teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at Santa Cruz Main Jail.
 </div>
 
-<div class="callout" style="background-color:#08300d">
-I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> where we pair undergraduates with graduate students to work on a reading project. I have been an organiser since Fall 2021 where I helped restart the program after a brief hiatus during the pandemic. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked from my time with <a href="https://sites.google.com/view/twoples/home">Twoples</a>.
+<div class="callout" style="background-color:#231519">
+I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> where we pair undergraduates with graduate students to work on a reading project. I have been an organiser since Fall 2021 when I helped restart the program after a brief hiatus during the pandemic.<br> I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.
 </div>
 
-<!-- ### UC Santa Cruz -->
+<!-- ### UC Santa Cruz 
+style="background-color:#082b30"
+style="background-color:#08300d" -->
 
 <details>
     <summary><b style="color:#addfad">Service</b></summary>

@@ -9,7 +9,7 @@ custom-nav:
 permalink: /research
 ---
 
-<div class="callout" style="background-color:#200830">
+<div class="callout">
 <a href="/travel"><b>Travel schedule of upcoming talks and events</b></a>.
 </div>
 

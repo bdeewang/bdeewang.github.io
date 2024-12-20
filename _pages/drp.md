@@ -50,8 +50,6 @@ permalink: /drp
 
 </ul>
 
-<br>
-
 <h3>Twoples</h3>
 <ul style="line-height:180%">
 
