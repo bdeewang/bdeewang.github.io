@@ -1,12 +1,12 @@
 ---
-title: Travel
-description: "Travel for talks and events"
+title: DRO
+description: "DRP, Twoples and mentorship projects"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
     <a href="/activities" title="Activities">Activities</a>
-permalink: /travel
+permalink: /drp
 ---
 
 <!-- ### UC Santa Cruz -->
