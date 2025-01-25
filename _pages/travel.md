@@ -15,11 +15,13 @@ permalink: /travel
 
 <ul>
 
-<li style="font-size:17px"> (Jul 14 - Aug 1) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
+<li style="font-size:17px"> (Jul 14 - Aug 1, tentative) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
 
 <li style="font-size:17px"> (May 16-18) Attending <a href="https://awm-math.org/meetings/awm-research-symposium/">AWM Research Symposium</a> in Madison, WI<br>
-    Co-Organising <em>Special Session on Rethinking Number Theory</em><br>
-    Co-Organising <em>Special Session on Curves and Abelian Varieties in Characteristic p</em></li>
+    <ul>
+    <li>Co-Organising <em>Special Session on Rethinking Number Theory</em></li>
+    <li>Co-Organising <em>Special Session on Curves and Abelian Varieties in Characteristic p</em></li>
+</ul></li>
 
 <li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting</a>, San Luis Obispo, CA</li>
 
@@ -28,6 +30,8 @@ permalink: /travel
 <li style="font-size:17px"> (Mar 8-12) <a href="https://swc-math.github.io/aws/2025/index.html">Arizona Winter School</a> in Tucson, AZ</li>
 
 <li style="font-size:17px"> (Feb 24-28) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a>, Pasadena, CA</li>
+
+<li style="font-size:17px"> (Feb 2-4) <em>job-search related travel</em>
 
 <li style="font-size:17px"> (Jan 21) Seminar talk at <a href="https://sites.google.com/math.arizona.edu/panyan/algebra-and-number-theory-seminar?authuser=0">University of Arizona</a>, AZ</li>
 
