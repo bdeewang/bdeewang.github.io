@@ -21,7 +21,8 @@ permalink: /travel
     <ul>
     <li>Co-Organising <em>Special Session on Rethinking Number Theory</em></li>
     <li>Co-Organising <em>Special Session on Curves and Abelian Varieties in Characteristic p</em></li>
-</ul></li>
+    </ul>
+</li>
 
 <li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting</a>, San Luis Obispo, CA</li>
 
