@@ -28,8 +28,6 @@ permalink: /travel
 
 <li style="font-size:17px"> (Apr 4-5, tentative) Speaking at <a href="https://www.ustars.org/">USTARS 2025</a> in Portland, OR</li>
 
-<li style="font-size:17px"> (Mar 8-12) <a href="https://swc-math.github.io/aws/2025/index.html">Arizona Winter School</a> in Tucson, AZ</li>
-
 <li style="font-size:17px"> (Feb 24-28) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a>, Pasadena, CA</li>
 
 <li style="font-size:17px"> (Feb 2-4) <em>job-search related travel</em>
