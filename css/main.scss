@@ -181,7 +181,8 @@ header .header-top-line {
   width: 100%;
   border-bottom: 1px solid var(--light-text-color);
   padding-bottom: calc(.25 * var(--line-height));
-a {
+  a {
+    color: var(--light-text-color);
     text-decoration: none;
   }
 }
@@ -206,7 +207,7 @@ header .veryright {
 header nav {
   margin-top: calc(.25 * var(--line-height));
   width: 100%;
-a {
+  a {
     color: var(--light-text-color);
     text-decoration: none;
   }
