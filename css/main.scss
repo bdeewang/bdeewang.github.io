@@ -171,6 +171,9 @@ header {
   margin: calc(3 * var(--line-height)) 0 calc(1.5 * var(--line-height)) 0;
   max-width: $text-width;
   width: 100%;
+  display: flex; /* Add this line */
+  justify-content: space-between;
+  
   h1 {
     border-bottom: 1px solid var(--light-text-color);
     font-size: var(--h1-font-size);
@@ -179,24 +182,28 @@ header {
     margin: 0;
     padding-bottom: calc(.25 * var(--line-height));
   }
+  
   a {
-  color: var(--main-text-color);
-  text-decoration: none;
+    color: var(--main-text-color);
+    text-decoration: none;
   }
+  
   a:hover {
-  color: var(--link-color);
-  text-decoration: none;
-  text-decoration-style: solid;
+    color: var(--link-color);
+    text-decoration: none;
+    text-decoration-style: solid;
   }
+  
   nav {
     margin-top: calc(.25 * var(--line-height));
   }
-  justify-content: space-between;
 }
 
 header .veryright {
   color: var(--main-text-color);
   font-size: var(--small-font-size);
+  text-transform: uppercase;
+  letter-spacing: .07em;
   margin-left: auto;
 }
 
