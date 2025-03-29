@@ -63,13 +63,13 @@ $text-width: 1200px;
 }
 
 ::selection {
-  background-color: #4d90fe; /* Google-blue background */
+  background-color: #0c5394;
   color: #ffffff; /* White text */
 }
 
 /* Firefox requires its own prefix */
 ::-moz-selection {
-  background-color: #4d90fe;
+  background-color: #0c5394;
   color: #ffffff;
 }
 
@@ -540,4 +540,5 @@ mark {
 
 .right-align {
        text-align: right;
+       float: right;
      }
