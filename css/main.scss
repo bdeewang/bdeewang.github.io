@@ -192,11 +192,12 @@ header h1 {
 }
 
 header .veryright {
-  color: var(--main-text-color);
+  color: var(--light-text-color);
   font-size: var(--small-font-size);
   text-transform: uppercase;
   letter-spacing: .07em;
   margin-left: auto;
+  text-decoration: none;
 }
 
 header nav {
