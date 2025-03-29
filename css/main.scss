@@ -257,6 +257,7 @@ figcaption {
   color: var(--light-text-color);
   margin-top: calc(.5 * var(--line-height));
   text-align: center;
+  text-decoration: none;
 }
 
 figcaption .btn-default {
