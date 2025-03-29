@@ -7,7 +7,7 @@
 {%- unless page.og-type == "website" -%}<article>{%- endunless -%}
 
 <header>
-	<h1 class="index-title">{{ page.title }} | <a class="plain" class="right" href="/">{{ site.title }}</a></h1>
+	<h1 class="index-title">{{ page.title }} | <a href="/">{{ site.title }}</a></h1>
 	{%- unless page.nav == false -%}
 	<nav>
 		{%- include page-nav.html -%}
