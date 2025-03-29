@@ -117,7 +117,12 @@ body {
   padding: 0 3%;
 }
 
-p, li, details, summary {
+p, details, summary {
+  font-size: var(--body-font-size);
+  line-height: 1.5; 
+}
+
+li {
   font-size: var(--body-font-size);
   line-height: 1.4; 
 }
