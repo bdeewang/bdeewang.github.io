@@ -69,6 +69,7 @@ html {
   --light-border-color: hsl(0, 0%, 90%);
   --light-text-color: hsl(240, 1%, 35%);
   --link-color: rgb(255, 215, 0);
+  --home-link-color: rgb(255, 255, 191);
   --main-background-color: white;//rgb(250, 250, 250);
   --main-text-color: hsl(0, 0%, 10%);
   --underline-color: hsl(0, 0%, 50%);
@@ -160,7 +161,13 @@ header {
     padding-bottom: calc(.25 * var(--line-height));
   }
   a {
-    text-decoration: none;
+  color: var(--main-text-color);
+  text-decoration: none;
+  }
+  a:hover {
+  color: var(--home-link-color);
+  text-decoration: none;
+  text-decoration-style: solid;
   }
   nav {
     margin-top: calc(.25 * var(--line-height));
