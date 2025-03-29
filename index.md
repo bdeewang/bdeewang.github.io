@@ -22,10 +22,9 @@ Before coming to UC Santa Cruz, I received my M.S. in Mathematics from the [High
 <!--
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>-->
 
-I am currently a Graduate Teaching Fellow, developing course material and designing for an online version of MATH 11B: Calculus with Applications. I was also awarded the [Chancellor’s Dissertation-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) for this academic year. I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro.
+I am currently a Graduate Teaching Fellow, developing course material and designing an online class for the summer. I was awarded the [Chancellor’s Dissertation-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) for this academic year. I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro.
 
-If you're thinking of asking me for a letter of recommendation, I encourage you read: 
-<a href="/letters" class="internal-link quarter-line-space">letter writing information&nbsp;→</a>
+If you're thinking of asking me for a letter of recommendation, I encourage you read to read [Letter Writing Information](/letters). 
 
 <!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 
