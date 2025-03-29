@@ -206,6 +206,9 @@ header .veryright {
 header nav {
   margin-top: calc(.25 * var(--line-height));
   width: 100%;
+a {
+    text-decoration: none;
+  }
 }
 
 time {
