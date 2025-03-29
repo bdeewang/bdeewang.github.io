@@ -5,7 +5,8 @@ nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
-    <a href="/activities" title="Activities">Activities</a>
+    <a href="/activities" title="Activities">Activities</a>&nbsp;|
+    <a href="/activities" title="Activities">Resources</a>
 permalink: /letters
 ---
 
