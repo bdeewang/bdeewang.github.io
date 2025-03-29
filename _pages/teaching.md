@@ -131,8 +131,8 @@ Learning & Academic Support Centre
 </ul>
 </details>
 
-I subscribe to the following <a href="http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">axioms by Federico Ardila</a>:
-* **Axiom 1**: Mathematical talent is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
+I subscribe to the following axioms by Federico Ardila, which first appeared <a href="http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">here</a> and have been <a href="https://fardila.com/#:~:text=Axiom%201.%20Mathematical,dignity%20and%20respect.">updated</a>:
+* **Axiom 1**: Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries.
 * **Axiom 2**: Everyone can have joyful, meaningful, and empowering mathematical experiences.
 * **Axiom 3**: Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
 * **Axiom 4**: Every student deserves to be treated with dignity and respect.
