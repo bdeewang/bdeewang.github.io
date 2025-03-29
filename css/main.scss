@@ -193,6 +193,12 @@ header {
   }
 }
 
+header .veryright {
+  color: var(--main-text-color);
+  font-size: var(--small-font-size);
+  margin-left: auto;
+}
+
 time {
   color: var(--light-text-color);
   font-size: var(--small-font-size);
@@ -226,7 +232,7 @@ footer {
   }
 }
 
-footer .copyright {
+footer .veryright {
   color: var(--main-text-color);
   margin-left: auto;
 }

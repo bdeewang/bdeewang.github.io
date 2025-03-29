@@ -7,7 +7,7 @@
 {%- unless page.og-type == "website" -%}<article>{%- endunless -%}
 
 <header>
-	<h1 class="index-title"><a href="/">Deewang</a>'s {{ page.title }}</h1>
+	<h1 class="index-title">{{ page.title }} <span class="veryright">{{ site.title }}</span></h1>
 	{%- unless page.nav == false -%}
 	<nav>
 		{%- include page-nav.html -%}
