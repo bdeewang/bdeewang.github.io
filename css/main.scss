@@ -509,3 +509,10 @@ a:hover {
 a:visited:hover {
   color: #84d2ff;//#cd9575;
 }
+
+.my-header h1 { 
+  display: inline;
+}
+.my-header span { 
+  float: right;
+}

@@ -1,5 +1,5 @@
 ---
-title: Teaching &nbsp;| <a href="/">{{ site.title }}</a>
+title: Teaching
 description: "Teaching Experience"
 nav: custom
 custom-nav: 
