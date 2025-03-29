@@ -22,11 +22,7 @@ Before coming to UC Santa Cruz, I received my M.S. in Mathematics from the [High
 <!--
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>-->
 
-For Winter I have been awarded the [Chancellor’s Dissertation-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) and therefore I will not be teaching. 
-<a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
-
-I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro, and a co-organiser of the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/) with Mike Williams and Jennifer Guerrero. 
-<a href="/activities" class="internal-link quarter-line-space">View my service&nbsp;→</a>
+I am currently a Graduate Teaching Fellow, developing course material and designing for an online version of MATH 11B: Calculus with Applications. I was also awarded the [Chancellor’s Dissertation-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) for this academic year. I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro.
 
 If you're thinking of asking me for a letter of recommendation, I encourage you read: 
 <a href="/letters" class="internal-link quarter-line-space">letter writing information&nbsp;→</a>
