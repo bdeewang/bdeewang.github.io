@@ -126,6 +126,7 @@ nav {
   color: var(--light-text-color);
   font-size: var(--small-font-size);
   text-transform: uppercase;
+  letter-spacing: .05em;
   margin: 0;
   a {
     color: var(--light-text-color);
@@ -257,7 +258,6 @@ figcaption {
   color: var(--light-text-color);
   margin-top: calc(.5 * var(--line-height));
   text-align: center;
-  text-decoration: none;
 }
 
 figcaption .btn-default {
@@ -265,7 +265,8 @@ figcaption .btn-default {
   margin-left: auto;
   margin-right: auto;
   margin-top: calc(.5 * var(--line-height));
-  padding: 0.25em 0.5em;
+  padding: 0.25em 0.25em;
+  text-decoration: none;
 }
 
 aside, .callout {
