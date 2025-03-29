@@ -194,6 +194,7 @@ header {
 }
 
 header .veryright {
+  font-family: $body-typeface;
   color: var(--main-text-color);
   font-size: var(--small-font-size);
   text-transform: uppercase;
