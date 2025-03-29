@@ -172,6 +172,7 @@ header {
   max-width: $text-width;
   width: 100%;
   display: flex
+  justify-content: space-between;
   h1 {
     border-bottom: 1px solid var(--light-text-color);
     font-size: var(--h1-font-size);
