@@ -258,6 +258,13 @@ figcaption {
   text-align: center;
 }
 
+figcaption button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: calc(.5 * var(--line-height));
+}
+
 aside, .callout {
   background-color: var(--box-background-color);
   border-left: 5px solid var(--light-border-color);
@@ -352,13 +359,6 @@ aside, .callout {
 } 
 
 .copy-buttons {
-  margin-top: calc(.5 * var(--line-height));
-}
-
-figcaption button {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   margin-top: calc(.5 * var(--line-height));
 }
 
