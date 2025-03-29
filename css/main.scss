@@ -171,32 +171,39 @@ header {
   margin: calc(3 * var(--line-height)) 0 calc(1.5 * var(--line-height)) 0;
   max-width: $text-width;
   width: 100%;
-  display: flex; /* Add this line */
+}
+
+.header-top {
+  display: flex;
   justify-content: space-between;
-  
-  h1 {
-    border-bottom: 1px solid var(--light-text-color);
-    font-size: var(--h1-font-size);
-    font-variant-numeric: normal;
-    line-height: 1.1;
-    margin: 0;
-    padding-bottom: calc(.25 * var(--line-height));
-  }
-  
-  a {
-    color: var(--main-text-color);
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: var(--link-color);
-    text-decoration: none;
-    text-decoration-style: solid;
-  }
-  
-  nav {
-    margin-top: calc(.25 * var(--line-height));
-  }
+  width: 100%;
+}
+
+header h1 {
+  border-bottom: 1px solid var(--light-text-color);
+  font-size: var(--h1-font-size);
+  font-variant-numeric: normal;
+  line-height: 1.1;
+  margin: 0;
+  padding-bottom: calc(.25 * var(--line-height));
+}
+
+header a {
+  color: var(--main-text-color);
+  text-decoration: none;
+}
+
+header a:hover {
+  color: var(--link-color);
+  text-decoration: none;
+  text-decoration-style: solid;
+}
+
+header nav {
+  margin-top: calc(.25 * var(--line-height));
+  display: block;
+  width: 100%;
+  clear: both;
 }
 
 header .veryright {
