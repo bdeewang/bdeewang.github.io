@@ -185,6 +185,10 @@ header .header-top-line {
     color: var(--light-text-color);
     text-decoration: none;
   }
+  a:hover {
+  color: var(--link-color);
+  text-decoration: none;
+  }
 }
 
 header h1 {
@@ -210,6 +214,10 @@ header nav {
   a {
     color: var(--light-text-color);
     text-decoration: none;
+  }
+  a:hover {
+  color: var(--link-color);
+  text-decoration: none;
   }
 }
 
