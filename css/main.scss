@@ -355,6 +355,13 @@ aside, .callout {
   margin-top: calc(.5 * var(--line-height));
 }
 
+figcaption button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: calc(.5 * var(--line-height));
+}
+
 .sitemap a {
   text-decoration: none;
 }
