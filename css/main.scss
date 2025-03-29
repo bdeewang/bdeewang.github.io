@@ -181,6 +181,9 @@ header .header-top-line {
   width: 100%;
   border-bottom: 1px solid var(--light-text-color);
   padding-bottom: calc(.25 * var(--line-height));
+a {
+    text-decoration: none;
+  }
 }
 
 header h1 {
