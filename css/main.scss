@@ -509,16 +509,3 @@ a:hover {
 a:visited:hover {
   color: #84d2ff;//#cd9575;
 }
-
-.goodreads-link {
-  color: var(--light-text-color);
-  display: inline-block;
-  font-size: 1.5rem;
-  margin: 0 0.5rem;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-
-.goodreads-link:hover {
-  color: var(--link-color);
-}

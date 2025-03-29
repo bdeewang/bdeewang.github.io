@@ -44,10 +44,6 @@ Email's the best way to get in touch: <code class="language-plaintext highlighte
 
 <b>Friends & Collaborators:</b> <a href="https://www.mit.edu/~NivenT/">Niven Achenjang</a>, <a href="https://sophieaiken.github.io/">Sophie Aiken</a>, <a href="https://malachialexander.com/">Malachi Alexander</a>, <a href="https://www.washcoll.edu/people_departments/faculty/estacy2.php">Emerald Anne</a>, <a href="https://sarangop1728.github.io/about/">Santiago Arango-Pineros</a>, <a href="https://sites.google.com/view/mariafox/">Maria Fox</a>, <a href="https://sites.google.com/site/heidigoodson/">Heidi Goodson</a>, <a href="https://sites.google.com/view/stevengroen">Steven Groen</a>, <a href="https://sites.google.com/view/jennifer-s-guerrero/">Jennifer Guerrero</a>, <a href="https://sites.google.com/view/aashrayajha/home">Aashraya Jha</a>, <a href="https://math.columbia.edu/~calebji/">Caleb Ji</a>, <a href="https://math.berkeley.edu/people/grad/rose-lopez">Rose Lopez</a>, <a href="https://sites.google.com/view/sandra-nair">Sandra Nair</a>, <a href="https://foothill.edu/directory/profile/pugh_ryan.html">Ryan Pugh</a>, <a href="https://drubinstein.com/">David Rubinstein</a>, <a href="https://sites.google.com/site/soumya3sankar/">Soumya Sankar</a>
 
-I am an avid reader <a href="https://www.goodreads.com/your-username" class="goodreads-link" title="Follow me on Goodreads">
-  <i class="fab fa-goodreads-g"></i>
-</a> and watcher of films.
-
 
 <!-- <div class="tag-list copy-buttons">
 
