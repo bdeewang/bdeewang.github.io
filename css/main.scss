@@ -204,6 +204,7 @@ header .veryright {
 }
 
 header nav {
+  color: var(--light-text-color);
   margin-top: calc(.25 * var(--line-height));
   width: 100%;
 a {
