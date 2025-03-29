@@ -259,10 +259,27 @@ figcaption {
 }
 
 figcaption button {
+  /* Button appearance */
+  background-color: var(--box-background-color);
+  border: 1px solid var(--light-border-color);
+  border-radius: 4px;
+  color: var(--main-text-color);
+  font-family: $body-typeface;
+  font-size: var(--small-font-size);
+  padding: 0.25em 0.75em;
+  cursor: pointer;
+  
+  /* Button centering */
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: calc(.5 * var(--line-height));
+}
+
+figcaption button:hover {
+  background-color: var(--main-background-color);
+  color: var(--link-color);
+  text-decoration: underline;
 }
 
 aside, .callout {
