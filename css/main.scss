@@ -444,8 +444,10 @@ aside, .callout {
 
 .btn-default:hover {
   background-color: var(--main-background-color);
-  color: var(--link-color);
-  text-decoration: underline;
+  color: var(--home-link-color);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: .05em;
 }
 
 .small-caps { 
@@ -510,18 +512,12 @@ mark {
 
 // link hover styles at the end so they apply to all links
 
-a:hover {
-  color: var(--link-color);
-  text-decoration: underline;
-  text-decoration-style: solid;
-}
+// a:hover {
+//  color: var(--link-color);
+//  text-decoration: underline;
+//  text-decoration-style: solid;
+//}
 
 a:visited:hover {
   color: #84d2ff;//#cd9575;
-}
-
-.right {
-float:right;
-  margin:0px;
-  padding:0px;
 }
