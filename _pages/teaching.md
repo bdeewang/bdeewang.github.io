@@ -1,12 +1,11 @@
 ---
-title: Teaching
-description: "Teaching experience"
+title: Teaching &nbsp;| <a href="/">{{ site.title }}</a>
+description: "Teaching Experience"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
-    <a href="/activities" title="Activities">Activities</a>&nbsp;|
-    <a href="/activities" title="Activities">Links</a>
+    <a href="/activities" title="Activities">Activities</a>
 permalink: /teaching
 ---
 
