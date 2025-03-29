@@ -213,6 +213,7 @@ footer {
   max-width: $text-width;
   padding: 1em 0 calc(3 * var(--line-height)) 0;
   width: 100%;
+  justify-content: space-between;
   a {
     color: var(--main-text-color);
     margin-right: 5%;
@@ -223,6 +224,10 @@ footer {
   text-decoration: none;
   text-decoration-style: solid;
   }
+}
+
+footer .copyright {
+  margin-left: auto;
 }
 
 h2, h3 {
