@@ -191,6 +191,7 @@ header {
   nav {
     margin-top: calc(.25 * var(--line-height));
   }
+  justify-content: space-between;
 }
 
 header .veryright {
