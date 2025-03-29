@@ -221,6 +221,16 @@ header nav {
   }
 }
 
+header nav a {
+  color: var(--light-text-color);
+  text-decoration: none;
+}
+
+header nav a:hover {
+  color: var(--link-color);
+  text-decoration: none; /* This explicitly removes the underline on hover */
+}
+
 time {
   color: var(--light-text-color);
   font-size: var(--small-font-size);
