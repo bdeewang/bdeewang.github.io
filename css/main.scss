@@ -181,6 +181,7 @@ header .header-top-line {
   width: 100%;
   border-bottom: 1px solid var(--light-text-color);
   padding-bottom: calc(.25 * var(--line-height));
+  min-height: var(--h1-font-size);
   a {
     color: var(--light-text-color);
     text-decoration: none;
@@ -211,6 +212,7 @@ header .veryright {
 header nav {
   margin-top: calc(.25 * var(--line-height));
   width: 100%;
+  min-height: calc(var(--body-font-size) * 1.2);
   a {
     color: var(--light-text-color);
     text-decoration: none;
