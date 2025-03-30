@@ -1,13 +1,13 @@
 ---
-title: Activities
+title: Service
 description: "Service and organising activities"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
-    <a href="/activities" title="Activities">Activities</a>&nbsp;|
-    <a href="/links" title="Links">Links</a>
-permalink: /activities
+    <a href="/service" title="Service">Service</a>&nbsp;|
+    <a href="/resources" title="Resources">Resources</a>
+permalink: /service
 ---
 
 Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted so much time to outreach and service activities.

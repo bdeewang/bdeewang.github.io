@@ -1,11 +1,12 @@
 ---
-title: DRO
+title: DRP
 description: "DRP, Twoples and mentorship projects"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
-    <a href="/activities" title="Activities">Activities</a>
+    <a href="/service" title="Service">Service</a>&nbsp;|
+    <a href="/resources" title="Resources">Resources</a>
 permalink: /drp
 ---
 
