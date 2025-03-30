@@ -359,7 +359,7 @@ aside, .callout {
   border-left: 5px solid var(--light-border-color);
   font-size: var(--small-font-size);
   margin: calc(1.25 *var(--line-height)) 0;
-  padding: calc(var(--line-height));
+  padding: calc(.5 * var(--line-height));
   * + * {
     margin: 0;
   }
@@ -381,6 +381,20 @@ aside, .callout {
   }
   li {
     margin: calc(.25 * var(--line-height)) 0 0 0; 
+  }
+  
+  // Add your collapsible functionality here
+  &.collapsible {
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+      padding: 5px;
+    }
+    
+    .callout-content {
+      padding-top: 10px;
+      border-top: 1px solid var(--light-border-color);
+    }
   }
 }
 
