@@ -22,24 +22,40 @@ I have been serving as a co-director for the **Project for Inmate Education** (P
     </div>
 </details>
 
-<div class="callout">
-I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> since July 2023. We teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at the Santa Cruz Main Jail.
-</div>
+<details class="callout-quarto note">
+    <summary class="callout-header">Project for Inmate Education (PIE)</summary>
+    <div class="callout-body">
+<p>I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> since July 2023. We teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at the Santa Cruz Main Jail.</p>
+    </div>
+</details>
 
-<details class="callout-quarto tip">
+<details class="callout-quarto important">
+    <summary class="callout-header">Head TA</summary>
+    <div class="callout-body">
+<p>Since July 2022, I have served as a <b>Head TA</b> (now <em>Teaching support and Administrative Coordinator</em>) in the Mathematics Department, where we assist the department in supporting Graduate Teaching Assistants.</p>
+    </div>
+</details>
+
+<details class="callout-quarto important">
     <summary class="callout-header">Directed Reading Program</summary>
     <div class="callout-body">
 <p>I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, where we pair undergraduates with graduate students to work on a reading project, from Fall 2021, when I helped restart the program after a brief hiatus during the pandemic, to March 2025. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.</p>
     </div>
 </details>
 
-<div class="callout">
-Since July 2022, I have served as a <b>Head TA</b> (now <em>Teaching support and Administrative Coordinator</em>) in the Mathematics Department, where we assist the department in supporting Graduate Teaching Assistants.
-</div>
+<details class="callout-quarto important">
+    <summary class="callout-header">Math Dept Peer Support Program</summary>
+    <div class="callout-body">
+<p>I've been co-organising the Math Department <b>Peer Support Program</b> since August 2021 where we support first-year graduate students in navigating the department and program milestones.</p>
+    </div>
+</details>
 
-<div class="callout">
-I've been co-organising the Math Department <b>Peer Support Program</b> since August 2021 where we support first-year graduate students in navigating the department and program milestones.
-</div>
+<details class="callout-quarto important">
+    <summary class="callout-header">Association for Women in Mathematics Chapter</summary>
+    <div class="callout-body">
+<p>I've been co-organising the Math Department <b>Peer Support Program</b> since August 2021 where we support first-year graduate students in navigating the department and program milestones.</p>
+    </div>
+</details>
 
 <!-- ### UC Santa Cruz 
 style="background-color:#082b30"
