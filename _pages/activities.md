@@ -12,8 +12,8 @@ permalink: /activities
 
 Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted so much time to outreach and service activities.
 
-<!--; I serve as a co-director for the **Project for Inmate Education** (PIE) ; 
- while serving as Co-Director of the Project for Inmate Education alongside Mikayla W. and Andy S. since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. From August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through December 2024).
+<!--
+I have been serving as a co-director for the **Project for Inmate Education** (PIE) since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. Since August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through March 2025).-->
 
 <div class="callout" style="background-color:#231519">
 I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> seminar series where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the proffesional world as members of minoritised and underrepresented groups.
@@ -25,7 +25,7 @@ I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-even
 
 <div class="callout" style="background-color:#231519">
 I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> where we pair undergraduates with graduate students to work on a reading project. I have been an organiser since Fall 2021 when I helped restart the program after a brief hiatus during the pandemic.<br> I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.
-</div>-->
+</div>
 
 <!-- ### UC Santa Cruz 
 style="background-color:#082b30"
