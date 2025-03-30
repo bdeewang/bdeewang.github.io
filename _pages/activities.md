@@ -15,9 +15,9 @@ Throughout my academic journey, I've discovered that mathematics becomes most me
 <!--
 I have been serving as a co-director for the **Project for Inmate Education** (PIE) since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. Since August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through March 2025).-->
 
-<details class="callout collapsible">
-    <summary>Experiences in Mathematics</summary>
-    <div class="callout-content">
+<details class="callout-quarto note">
+    <summary class="callout-header">Experiences in Mathematics</summary>
+    <div class="callout-body">
 I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> seminar series, since Spring 2024, where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the proffesional world as members of minoritised and underrepresented groups.
     </div>
 </details>
