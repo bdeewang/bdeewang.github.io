@@ -359,7 +359,7 @@ aside, .callout {
   border-left: 5px solid var(--light-border-color);
   font-size: var(--small-font-size);
   margin: calc(1.25 *var(--line-height)) 0;
-  padding: calc(.5 * var(--line-height));
+  padding: calc(var(--line-height));
   * + * {
     margin: 0;
   }
