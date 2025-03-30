@@ -440,6 +440,7 @@ aside, .callout {
     font-weight: bold;
     cursor: pointer;
     border-top-right-radius: 4px;
+    margin: 0;
     
     &::-webkit-details-marker {
       display: none;
