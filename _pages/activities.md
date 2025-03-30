@@ -30,9 +30,8 @@ I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/">
 <div class="callout" style="background-color:#274e13">
 Since July 2022, I have served as a <b>Head TA</b> (now called <em>Teaching support and Administrative Coordinator</em>) in the Mathematics Department, where we assist the department in supporting Graduate Teaching Assistants.
 </div>
-</div>
 
-<div class="callout" style="background-color:#274e13">
+<div class="callout">
 I've been co-organising the Math Department <b>Peer Support Program</b> since August 2021 where we support first-year graduate students in navigating the department and program milestones.
 </div>
 
