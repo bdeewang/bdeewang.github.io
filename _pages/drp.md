@@ -1,5 +1,5 @@
 ---
-title: DRP
+title: Undergraduate Mentorship
 description: "DRP, Twoples and mentorship projects"
 nav: custom
 custom-nav: 
@@ -13,14 +13,20 @@ permalink: /drp
 <!-- ### UC Santa Cruz -->
 
 <h3>Directed Reading Program</h3>
+<h2>UC Santa Cruz</h2>
 <ul style="line-height:180%">
+
+<li> August Noe, <b>Frames and Stone Duality </b>, <small>Winter 2025</small></li>
+
+<li> Chuck Naghise, <b>Topology of Surfaces</b>, <small>Winter 2025</small><br>
+    <small>with Mike Williams</small></li>
 
 <li> Ethan Jones, <b>Modular Forms</b>, <small>Fall 2024</small></li>
 
 <li> Nick Van Daele, <b>Geometric Group</b>, <small>Spring 2024</small><br>
     <small>with Yahya Bashandy</small></li>
 
-<li> Ethan Jones, <b>Primes of the Form \(x^2 + ny^2\)</b>, <small>Spring 2024</small></li>
+<li> Ethan Jones, <b>Primes of the Form x^2 + ny^2</b>, <small>Spring 2024</small></li>
 
 <li> August Noe, <b>Period Numbers and Contour Integrals</b>, <small>Spring 2024</small></li>
 
@@ -51,7 +57,7 @@ permalink: /drp
 
 </ul>
 
-<h3>Twoples</h3>
+<h3><a href="https://sites.google.com/view/twoples/home" style="text-decoration:none">Twoples</a></h3>
 <ul style="line-height:180%">
 
 <li> Lillian Frey, <b>Linear Codes</b>, <small>Sep - Dec 2022</small><br>
