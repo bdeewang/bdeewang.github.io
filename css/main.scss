@@ -459,20 +459,15 @@ aside, .callout {
   }
   
   .callout-body {
-    padding: 0 1em 1em;
+    padding: 0 1em 1em 1em;
     font-size: var(--small-font-size);
     
     p, li {
       font-size: var(--small-font-size);
-      margin-top: 0.5em; /* Keep reduced space between elements */
-    }
-    
-    > *:first-child {
-      margin-top: 0.3em; /* Small gap after header */
     }
     
     p + p {
-      margin: calc(.5 * var(--line-height)) 0 0 0; 
+      margin: calc(.25 * var(--line-height)) 0 0 0; 
     }
     
     li {
