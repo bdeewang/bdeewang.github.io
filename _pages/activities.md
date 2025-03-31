@@ -51,7 +51,7 @@ I have been serving as a co-director for the **Project for Inmate Education** (P
 </details>
 
 <details class="callout-quarto important">
-    <summary class="callout-header">Association for Women in Mathematics Chapter</summary>
+    <summary class="callout-header">Association for Women in Mathematics</summary>
     <div class="callout-body">
 <p>I helped co-found the <b><a href="sites.google.com/ucsc.edu/awm/">Association for Women in Mathematics (AWM) Chapter</a></b> with Jennier Guerrero in November 2020, and served as its president in AY 2022-23.</p>
     </div>
