@@ -359,7 +359,7 @@ aside, .callout {
   border-left: 5px solid var(--light-border-color);
   font-size: var(--small-font-size);
   margin: 0;
-  padding: calc(.25 * var(--line-height));
+  padding: calc(.5 * var(--line-height));
   * + * {
     margin: 0;
   }
@@ -377,7 +377,7 @@ aside, .callout {
     font-size: var(--small-font-size);
   }
   p + p {
-    margin: 0; 
+    margin: calc(.75 * var(--line-height)) 0 0 0; 
   }
   li {
     margin: calc(.25 * var(--line-height)) 0 0 0; 
@@ -399,7 +399,7 @@ aside, .callout {
 }
 
 .callout-quarto {
-  margin: calc(0.5 * var(--line-height)) 0;
+  margin: calc(1.25 * var(--line-height)) 0;
   padding: 0;
   border-radius: 4px;
   border-left: 5px solid;
@@ -467,7 +467,7 @@ aside, .callout {
     }
     
     p + p {
-      margin: 0; 
+      margin: calc(.75 * var(--line-height)) 0 0 0; 
     }
     
     li {
