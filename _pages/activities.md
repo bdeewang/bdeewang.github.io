@@ -23,7 +23,7 @@ I have been serving as a co-director for the **Project for Inmate Education** (P
 </details>
 
 <details class="callout-quarto note">
-    <summary class="callout-header">Project for Inmate Education (PIE)</summary>
+    <summary class="callout-header">Project for Inmate Education</summary>
     <div class="callout-body">
 <p>I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> since July 2023. We teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at the Santa Cruz Main Jail.</p>
     </div>
