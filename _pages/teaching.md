@@ -17,7 +17,7 @@ permalink: /teaching
   </div>
 </div>
 
-
+<!--
 <div class="callout-quarto note">
   <div class="callout-title">Test</div>
   <div class="callout-content">
@@ -73,6 +73,8 @@ permalink: /teaching
     <p>Test</p>
   </div>
 </div>
+
+-->
 
 <!-- ### UC Santa Cruz -->
 
