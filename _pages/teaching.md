@@ -13,9 +13,17 @@ permalink: /teaching
 <div class="callout-quarto tip">
   <div class="callout-title">Spring 2025</div>
   <div class="callout-content">
-    <p>I am a Graduate Teaching Fellow curriculum developing and course designing an online version of MATH 11B for the summer session.</p>
+    <p>I am curriculum-developing and course-designing an online version of MATH 11B for the summer session, as a Graduate Teaching Fellow.</p>
   </div>
 </div>
+
+<!--
+Tip/Green = Current
+Warning/Yellow = Instructor
+Important/Red = TA
+Note/Blue = Other
+Secondary/Grey = Tutor
+-->
 
 <!--
 Warning = Yellow
@@ -75,7 +83,7 @@ Secondary = Grey
     </div>
 </details>
 
-<details class="callout-quarto caution">
+<details class="callout-quarto important">
     <summary class="callout-header">Teaching Assistant</summary>
     <div class="callout-body">
 <ul style="line-height:180%">
@@ -205,7 +213,7 @@ Secondary = Grey
 
 ## Shiv Nadar University
 
-<details class="callout-quarto caution">
+<details class="callout-quarto important">
     <summary class="callout-header">Teaching Assistant</summary>
     <div class="callout-body">
 <ul style="line-height:180%">
@@ -256,7 +264,7 @@ Learning & Academic Support Centre
 
 -->
 
-I subscribe to the following axioms by Federico Ardila, which first appeared <a href="http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">here</a> and have been <a href="https://fardila.com/#:~:text=Axiom%201.%20Mathematical,dignity%20and%20respect.">updated</a>:
+I subscribe to the following (<a href="https://fardila.com/#:~:text=Axiom%201.%20Mathematical,dignity%20and%20respect.">updated</a>) axioms by Federico Ardila, which first appeared <a href="http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">here</a>:
 * **Axiom 1**: Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries.
 * **Axiom 2**: Everyone can have joyful, meaningful, and empowering mathematical experiences.
 * **Axiom 3**: Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.

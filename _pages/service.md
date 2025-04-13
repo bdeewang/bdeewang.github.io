@@ -13,186 +13,70 @@ permalink: /service
 Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted considerable time to outreach and service activities.
 
 <!--
-I have been serving as a co-director for the **Project for Inmate Education** (PIE) since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. Since August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through March 2025).-->
+Tip/Green = Current
+Note/Blue = Highlight/Past
+Important/Red = Other/Past
+-->
 
-<details class="callout-quarto note">
-    <summary class="callout-header">Experiences in Mathematics</summary>
-    <div class="callout-body">
+<!--
+Warning = Yellow
+Note = Blue
+Important = Red
+Tip = Green
+Caution = Orange (close to yellow)
+Info = Dark Blue
+Success = Dark Green
+Danger = Dark Red
+Secondary = Grey
+-->
+
+## UC Santa Cruz
+
+<div class="callout-quarto tip">
+  <div class="callout-title">Experiences in Mathematics</div>
+    <div class="callout-content">
 <p>I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> seminar series, since Spring 2024, where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the professional world as members of minoritised and underrepresented groups.</p>
     </div>
-</details>
+</div>
 
-<details class="callout-quarto note">
+<details class="callout-quarto tip">
     <summary class="callout-header">Project for Inmate Education</summary>
     <div class="callout-body">
 <p>I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> since July 2023. We teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at the Santa Cruz Main Jail.</p>
     </div>
 </details>
 
-<details class="callout-quarto important">
+<details class="callout-quarto tip">
     <summary class="callout-header">Head TA</summary>
     <div class="callout-body">
 <p>Since July 2022, I have served as a <b>Head TA</b> (now <em>Teaching support and Administrative Coordinator</em>) in the Mathematics Department, where we assist the department in supporting Graduate Teaching Assistants.</p>
     </div>
 </details>
 
-<details class="callout-quarto important">
-    <summary class="callout-header">Directed Reading Program</summary>
-    <div class="callout-body">
-<p>I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> - where we pair undergraduates with graduate students to work on a reading project - from Fall 2021, when I helped restart the program after a brief hiatus during the pandemic, to March 2025. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.</p>
-    </div>
-</details>
-
-<details class="callout-quarto important">
+<details class="callout-quarto tip">
     <summary class="callout-header">Math Dept Peer Support Program</summary>
     <div class="callout-body">
 <p>I've been co-organising the Math Department <b>Peer Support Program</b> since August 2021 where we support first-year graduate students in navigating the department and program milestones.</p>
     </div>
 </details>
 
-<details class="callout-quarto important">
+<div class="callout-quarto note">
+  <div class="callout-title">Directed Reading Program</div>
+    <div class="callout-body">
+<p>I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> - where we pair undergraduates with graduate students to work on a reading project - from Fall 2021, when I helped restart the program after a brief hiatus during the pandemic, to March 2025. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.</p>
+    </div>
+</div>
+
+<details class="callout-quarto note">
     <summary class="callout-header">Association for Women in Mathematics</summary>
     <div class="callout-body">
 <p>I helped co-found the <b><a href="sites.google.com/ucsc.edu/awm/">Association for Women in Mathematics (AWM) Chapter</a></b> with Jennier Guerrero in November 2020, and served as its president in AY 2022-23.</p>
     </div>
 </details>
 
-<!-- ### UC Santa Cruz 
-style="background-color:#082b30"
-style="background-color:#08300d" -->
-
-<details>
-    <summary><b style="color:#addfad">Service</b></summary>
-
-<ul style="line-height:180%">
-
-<li> <b href="">Experiences in Mathematics</b>, <small>Mar 2024 - <em>present</em></small><br>
-    Co-Organiser, <small>with Jennifer Guerrero and Nariel Monteiro</small></li>
-
-<li> <b>Project for Inmate Education (PIE)</b>, <small>Jul 2023 - <em>present</em></small><br>
-    Co-Director, <small>with Mikayla Wilson</small></li>
-
-<li> <b>Head TA</b>, Mathematics Department, <small>Jul 2022 - <em>present</em></small></li>
-
-<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - <em>present</em></small><br>
-    Co-Organiser, <small>with Mike Williams and Jennifer Guerrero</small></li>
-
-<li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
-    <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small>
-
-<ul>
-    <li><b>Prelim Study Group</b><small>(an AWM Initiative)</small>
-<ul>
-    <li><em>Study Leader for Algebra</em>, <small>Spring 2024, Summer 2023</small></li>
-    <li><em>Study Leader for Analysis</em>, <small>Winter 2022, Summer 2022</small></li>
-    <li><em>Study Leader for Geometry</em>, <small>Winter 2022, Summer 2022</small></li>
-</ul>
-</li>
-    <li><b>EmpowHER Hour</b><small>(an AWM Initiative)</small></li>
-</ul>
-
-</li>
-<li> <b>Mathematics Department Peer Support Program</b>, <small>Aug 2021 - <em>present</em></small><br>
-    Organiser, <small>co-organised with Ryan Pugh, Jennifer Guerrero, David Rubinstein, Malachi Alexander, Sophie Aiken</small></li>
-
-<li> <b>Mathematics Department DEI Committee</b>, <small>Oct 2020 - Jun 2022</small><br>
-    Graduate Student Representative</li>
-
-<li> <b>Mathematics Department GSI Support</b>, <small>Feb 2021 - Aug 2021</small><br>
-    Organiser & Convener</li>
-</ul>
-</details>
-
-<!-- --------------------------------------------------- -->
-
-<details>
-    <summary><b style="color:#addfad">Pedagogy Related</b></summary>
-
-<ul style="line-height:180%">
-
-<li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
-Teaching</b></a><br>
-    <small> Sep 2024, 2023</small></li>
-
-<li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics<br>
-    <small> Winter - Spring 2024</small></li>
-
-<li> <em>Session Leader</em>, <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a><br>
-    <small> Mar 2024</small></li>
-
-<li> <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
-    <em>Interdisciplinary Scholar,</em>, <small> Fall 2023 - Spring 2024</small><br>
-    <em>Foundations Scholar</em>, <small> Fall 2023 - Spring 2024</small></li>
-
-<li> <em>Graduate Student Researcher</em>, <b>Redisigning Calculus in the Life Sciences</b>, <small> Summer 2023, 2021</small></li>
-
-<li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a><br>
-    <small> Spring - Summer 2021</small></li>
-
-</ul>
-</details>
-
-<!-- --------------------------------------------------- -->
-
-<details>
-    <summary><b style="color:#addfad">Mentorship</b></summary>
-
-<br>
-<a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>
-<ul style="line-height:180%">
-
-<li> Yahya Bashandy, <b>TBD</b>, <small>Winter 2024</small><br>
-    <small>with David Rubinstein</small></li>
-
-<li> Chloe Watson, <b>TBD</b>, <small>Winter 2024</small></li>
-
-<li> Yahya Bashandy, <b>Group Cohomology & Hilbert's 90</b>, <small>Fall 2023</small><br>
-    <small>with David Rubinstein</small></li>
-
-<li> August Noe, <b>Model Theory</b>, <small>Fall 2023</small></li>
-
-<li> Morea Lee, <b>Kummer Theory</b>, <small>Spring 2023</small></li>
-
-<li> Brooke Zhang, <b>Combinatorial Designs</b>, <small>Fall 2022</small></li>
-
-<li> Kenneth Gee, <b>The Lambek Correspondance</b>, <small>Summer - Fall 2022</small><br>
-    <small>with David Rubinstein</small></li>
-
-<li> Miles Mitchell, <b>Affine Algebraic Groups</b>, <small>Spring 2022</small></li>
-
-<li> Morea Lee, <b>Galois Theory of Number Fields</b>, <small>Winter 2022</small></li>
-
-<li> Yijia Sun, <b>Error Correction Codes</b>, <small>Fall 2021</small></li>
-
-<li> Anna Yoon, <b>Elliptic Curve Cryptography</b>, <small>Winter 2020</small></li>
-
-</ul>
-
-<br>
-
-<a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>
-<ul style="line-height:180%">
-
-<li> Lillian Frey, <b>Linear Codes</b>, <small>Sep - Dec 2022</small><br>
-    <small>Binghamton University</small></li>
-
-<li> Lalit Sharma, <b>Class Groups</b>, <small>Feb - May 2022</small><br>
-    <small>University of Delhi</small></li>
-
-<li> Bowen Li, <b>Category Theory</b>, <small>Feb - May 2022</small><br>
-    <small>Carleton College</small></li>
-
-<li> Lalit Sharma, <b>Varieties</b>, <small>Sep - Dec 2021</small><br>
-    <small>University of Delhi</small></li>
-
-</ul>
-</details>
-
-<!-- --------------------------------------------------- -->
-
-<details>
-    <summary><b style="color:#addfad">Colloquiua and Seminars</b></summary>
-
+<details class="callout-quarto important">
+    <summary class="callout-header">Reading Groups & Seminars</summary>
+    <div class="callout-body">
 <ul style="line-height:180%">
 
 <li> <b>What are you reading?</b> <em>an informal seminar</em>, <small>Spring 2023</small><br>
@@ -208,12 +92,6 @@ Teaching</b></a><br>
 <li> <b>Undergraduate Colloquium</b>, <small>Spring 2022</small><br>
     Organiser, <small>as a member of AWM EC</small></li>
 </ul>
-</details>
-
-<!-- --------------------------------------------------- -->
-
-<details>
-    <summary><b style="color:#addfad">Reading Groups</b></summary>
 
 <ul style="line-height:150%">
 
@@ -244,9 +122,56 @@ Teaching</b></a><br>
 </ul>
 <br>
 <small>&#9733; organiser or co-organiser</small>
+</div>
 </details>
 
-<!-- --------------------------------------------------- -->
+<details class="callout-quarto secondary">
+    <summary class="callout-header">Other Departmental Service</summary>
+    <div class="callout-body">
+<ul style="line-height:180%">
+
+<li> I served as a <em>study leader</em> for the <b>Prelim Study Sessions</b>, where we supported graduate students preparing for the departmental preliminary exams. I served as a leader for all three subjects: <em>Algebra</em> (Winter 2025, Spring 2024, Summer 2023), <em>Analysis</em> (Spring 2025, Winter 2022, Summer 2022) and <em>Geometry</em> (Winter 2022, Summer 2022).</li>
+
+<li> I supported the organising of <b><a href="sites.google.com/ucsc.edu/awm/">EmpowHER Hour</a></b>, an AWM initiative (Spring 2022 - Spring 2023). This was a space where graduate students got together to hold meaningful discussions about gender equity in academia, and how one can help build a more inclusive mathematical community .</li> 
+
+<li> I served as one of the founding Graduate Student representative on the <b>Mathematics Department DEI Committee</b> from Fall 2020 - Spring 2022.</li>
+
+<li> During COVID, I hosted and lead the Mathematics Department GSI Support sessions to create a space for peer support amongst the Graduate Student Instructors, from Feb - Aug 2021.</li>
+
+</ul>
+</div>
+</details>
+
+<details class="callout-quarto important">
+    <summary class="callout-header">Pedagogy Related</summary>
+    <div class="callout-body">
+<ul style="line-height:180%">
+
+<li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
+Teaching</b></a><br>
+    <small> Sep 2024, 2023</small></li>
+
+<li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics<br>
+    <small> Winter - Spring 2024</small></li>
+
+<li> <em>Session Leader</em>, <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a><br>
+    <small> Mar 2024</small></li>
+
+<li> <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
+    <em>Interdisciplinary Scholar,</em>, <small> Fall 2023 - Spring 2024</small><br>
+    <em>Foundations Scholar</em>, <small> Fall 2023 - Spring 2024</small></li>
+
+<li> <em>Graduate Student Researcher</em>, <b>Redisigning Calculus in the Life Sciences</b>, <small> Summer 2023, 2021</small></li>
+
+<li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a><br>
+    <small> Spring - Summer 2021</small></li>
+
+</ul>
+</div>
+</details>
+
+
+<!-- 
 
 ### External
 
@@ -266,4 +191,4 @@ Teaching</b></a><br>
 </ul>
 </details>
 
-<!-- #69b2c1 -->
+#69b2c1 -->
