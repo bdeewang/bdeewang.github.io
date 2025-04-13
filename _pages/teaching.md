@@ -10,12 +10,12 @@ custom-nav:
 permalink: /teaching
 ---
 
-<details class="callout-quarto warning">
-  <summary class="callout-title">Spring 2025</summary>
+<div class="callout-quarto warning">
+  <div class="callout-title">Spring 2025</div>
   <div class="callout-content">
     <p>I am a Graduate Teaching Fellow curriculum developing and course designing an online version of MATH 11B for the summer session.</p>
   </div>
-</details>
+</div>
 
 <!-- ### UC Santa Cruz -->
 
