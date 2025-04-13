@@ -27,6 +27,8 @@ permalink: /travel
 
 <li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting</a>, San Luis Obispo, CA</li>
 
+<li style="font-size:17px"> (Apr 9-11) <em>job-search related travel</em>
+
 <li style="font-size:17px"> (Feb 24-28) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a>, Pasadena, CA</li>
 
 <li style="font-size:17px"> (Feb 2-4) <em>job-search related travel</em>
