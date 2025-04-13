@@ -383,7 +383,7 @@ aside, .callout {
     margin: calc(.25 * var(--line-height)) 0 0 0; 
   }
   
-  // Add your collapsible functionality here
+// Add your collapsible functionality here
   &.collapsible {
     summary {
       font-weight: bold;
@@ -498,10 +498,12 @@ aside, .callout {
 
  // Non-collapsible version styling
   .callout-title {
+    display: flex;
+    align-items: center;
     padding: 0.5em 1em;
     font-weight: bold;
-    margin: 0;
     border-top-right-radius: 4px;
+    margin: 0;
   }
   
   .callout-body, .callout-content {
