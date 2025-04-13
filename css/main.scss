@@ -509,11 +509,11 @@ aside, .callout {
   
   .callout-body, .callout-content {
     padding: 0em 1em 1em 1em;
-    font-size: var(--small-font-size);
+    font-size: var(--body-font-size);
     margin-top: -0.75em;
     
     p, li {
-      font-size: var(--small-font-size);
+      font-size: var(--body-font-size);
     }
     
     p + p {
