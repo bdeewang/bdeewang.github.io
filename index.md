@@ -44,6 +44,11 @@ Email's the best way to get in touch: <code class="language-plaintext highlighte
 
 <b>Friends & Collaborators:</b> <a href="https://www.mit.edu/~NivenT/">Niven Achenjang</a>, <a href="https://sophieaiken.github.io/">Sophie Aiken</a>, <a href="https://malachialexander.com/">Malachi Alexander</a>, <a href="https://www.washcoll.edu/people_departments/faculty/estacy2.php">Emerald Anne</a>, <a href="https://sarangop1728.github.io/about/">Santiago Arango-Pineros</a>, <a href="https://sites.google.com/view/mariafox/">Maria Fox</a>, <a href="https://sites.google.com/site/heidigoodson/">Heidi Goodson</a>, <a href="https://sites.google.com/view/stevengroen">Steven Groen</a>, <a href="https://sites.google.com/view/jennifer-s-guerrero/">Jennifer Guerrero</a>, <a href="https://sites.google.com/view/aashrayajha/home">Aashraya Jha</a>, <a href="https://math.columbia.edu/~calebji/">Caleb Ji</a>, <a href="https://math.berkeley.edu/people/grad/rose-lopez">Rose Lopez</a>, <a href="https://sites.google.com/view/sandra-nair">Sandra Nair</a>, <a href="https://foothill.edu/directory/profile/pugh_ryan.html">Ryan Pugh</a>, <a href="https://drubinstein.com/">David Rubinstein</a>, <a href="https://sites.google.com/site/soumya3sankar/">Soumya Sankar</a>
 
+I subscribe to the following (<a href="https://fardila.com/#:~:text=Axiom%201.%20Mathematical,dignity%20and%20respect.">updated</a>) axioms by Federico Ardila, which first appeared <a href="http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">here</a>:
+* **Axiom 1**: Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries.
+* **Axiom 2**: Everyone can have joyful, meaningful, and empowering mathematical experiences.
+* **Axiom 3**: Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
+* **Axiom 4**: Every student deserves to be treated with dignity and respect.
 
 <!-- <div class="tag-list copy-buttons">
 
