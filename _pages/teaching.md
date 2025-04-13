@@ -18,62 +18,14 @@ permalink: /teaching
 </div>
 
 <!--
-<div class="callout-quarto note">
-  <div class="callout-title">Test</div>
-  <div class="callout-content">
-    <p>Test</p>
-  </div>
-</div>
-
-<div class="callout-quarto important">
-  <div class="callout-title">Test</div>
-  <div class="callout-content">
-    <p>Test</p>
-  </div>
-</div>
-
-<div class="callout-quarto tip">
-  <div class="callout-title">Test</div>
-  <div class="callout-content">
-    <p>Test</p>
-  </div>
-</div>
-
-<div class="callout-quarto caution">
-  <div class="callout-title">Test</div>
-  <div class="callout-content">
-    <p>Test</p>
-  </div>
-</div>
-
-<div class="callout-quarto info">
-  <div class="callout-title">Test</div>
-  <div class="callout-content">
-    <p>Test</p>
-  </div>
-</div>
-
-<div class="callout-quarto success">
-  <div class="callout-title">Test</div>
-  <div class="callout-content">
-    <p>Test</p>
-  </div>
-</div>
-
-<div class="callout-quarto danger">
-  <div class="callout-title">Test</div>
-  <div class="callout-content">
-    <p>Test</p>
-  </div>
-</div>
-
-<div class="callout-quarto secondary">
-  <div class="callout-title">Test</div>
-  <div class="callout-content">
-    <p>Test</p>
-  </div>
-</div>
-
+Note = Blue
+Important = Red
+Tip = Green
+Caution = Orange (close to yellow)
+Info = Dark Blue
+Success = Dark Green
+Danger = Dark Red
+Secondary = Grey
 -->
 
 <!-- ### UC Santa Cruz -->

@@ -357,7 +357,7 @@ figcaption .btn-default {
 aside, .callout {
   background-color: var(--box-background-color);
   border-left: 5px solid var(--light-border-color);
-  font-size: var(--h1-font-size);
+  font-size: var(--small-font-size);
   margin: 0;
   padding: calc(.5 * var(--line-height));
   * + * {
@@ -501,7 +501,7 @@ aside, .callout {
     display: flex;
     align-items: center;
     padding: 0.5em 1em;
-    font-size: var(--h2-font-size);
+    font-size: var(--body-font-size);
     font-weight: bold;
     border-top-right-radius: 4px;
     margin: 0;
