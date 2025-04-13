@@ -10,6 +10,13 @@ custom-nav:
 permalink: /teaching
 ---
 
+<div class="callout-quarto warning">
+  <div class="callout-title">Spring 2025</div>
+  <div class="callout-content">
+    <p>I am a Graduate Teaching Fellow curriculum developing and course designing an online version of MATH 11B for the summer session.</p>
+  </div>
+</div>
+
 <div class="callout">
     <h2> Winter 2025 </h2>
 <p>I have been awarded the <a href="https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/">Chancellor’s Dissertation-Year Fellowship</a> and therefore I will not be teaching</p>
