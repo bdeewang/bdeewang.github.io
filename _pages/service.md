@@ -1,6 +1,6 @@
 ---
 title: Service
-description: "Service and organising activities"
+description: "Service and outreach activities"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
@@ -10,7 +10,7 @@ custom-nav:
 permalink: /service
 ---
 
-Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted so much time to outreach and service activities.
+Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted considerable time to outreach and service activities.
 
 <!--
 I have been serving as a co-director for the **Project for Inmate Education** (PIE) since July 2023. I've held the position of Head TA in the Mathematics Department since July 2022. Since August 2021, I've been co-organizing both the Math Department Peer Support Program (through June 2025) and the Directed Reading Program (through March 2025).-->
