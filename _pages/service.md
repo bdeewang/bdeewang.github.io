@@ -67,7 +67,7 @@ Secondary = Grey
 
 <li> I have been an active instructor with the <a href="https://www.xacademy.org/math"><b>Math Student Circle</b></a> in Santa Cruz, which is held at Cabrillo College. I lead activities on <em>Cryptography</em>, <em>Eulerian Circuits</em> and the <em>Four Colour Theorem</em>.</li>
 
-<li> I am an active participant of the <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle</b></a> at Santa Cruz<br>, where I lead a session on <em>Gerrymandering</em>.</li>
+<li> I am an active participant of the <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle</b></a> at Santa Cruz, where I lead a session on <em>Gerrymandering</em>.</li>
 </ul>
 </div>
 </details>
