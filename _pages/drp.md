@@ -1,5 +1,5 @@
 ---
-title: Undergraduate Mentorship
+title: Mentorship
 description: "DRP, Twoples and mentorship projects"
 nav: custom
 custom-nav: 
@@ -15,6 +15,13 @@ permalink: /drp
 <h3>Directed Reading Program</h3>
 <h2>UC Santa Cruz</h2>
 <ul style="line-height:180%">
+
+<li> Heather Doubinkine, <b>Matrix Groups as Lie Groups</b>, <small>Spring 2025</small></li>
+
+<li> Elyas Gharavi, <b>Explicit Local Class Field Theory </b>, <small>Spring 2025</small><br>
+    <small>with Yahya Bashandy</small></li>
+
+<li> Ethan Jones, <b>Curves over Finite Fields</b>, <small>Spring 2025</small></li>
 
 <li> August Noe, <b>Frames and Stone Duality </b>, <small>Winter 2025</small></li>
 

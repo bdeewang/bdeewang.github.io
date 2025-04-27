@@ -10,7 +10,9 @@ custom-nav:
 permalink: /service
 ---
 
-Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted considerable time to outreach and service activities. Below are some selected activities, a complete list can be found <a href="/service-extended"><b>here</b></a>.
+Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted considerable time to outreach and service activities. 
+
+<!--Below are some selected activities, a complete list can be found <a href="/service-extended"><b>here</b></a>.-->
 
 <!--
 Tip/Green = Current
@@ -30,14 +32,14 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-## UC Santa Cruz
-
 <div class="callout-quarto tip">
   <div class="callout-title">Experiences in Mathematics</div>
     <div class="callout-content">
 <p>I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> seminar series, since Spring 2024, where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the professional world as members of minoritised and underrepresented groups.</p>
     </div>
 </div>
+
+## UC Santa Cruz
 
 <details class="callout-quarto tip">
     <summary class="callout-header">Project for Inmate Education</summary>
@@ -96,6 +98,7 @@ Teaching</b></a><br>
 </div>
 </details>
 
+View my outreach and service activities while at <b><a href="/ucsc-service">UC Santa Cruz&nbsp;→</a></b>.
 
 <!-- 
 
