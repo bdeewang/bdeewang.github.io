@@ -278,8 +278,8 @@ h2, h3 {
   font-weight: bold;
 }
 
-h3 {
-  margin-bottom: calc(var(--line-height) * -0.5); // negative margin to pull up following elements
+h3 + ul, h3 + ol {
+  margin-top: 0;
 }
 
 h2 + p, h3 + p {
