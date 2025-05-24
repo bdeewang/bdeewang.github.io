@@ -291,10 +291,6 @@ li + li, ul li ul, ul li ul li {
   margin: calc(.5 * var(--line-height)) 0 0 0;
 }
 
-h3 + ul, h3 + ol {
-  margin-top: 0;
-}
-
 blockquote {
   margin: var(--line-height) 0;
   padding: 0 1.5em;
@@ -375,7 +371,7 @@ aside, .callout {
     text-transform: none;
   }
   h2 + *, h3 + * {
-    margin-top: calc(.25 * var(--line-height));
+    margin-top: calc(-0.25 * var(--line-height));
   }
   p, li {
     font-size: var(--small-font-size);
