@@ -10,9 +10,13 @@ custom-nav:
 permalink: /research
 ---
 
-<div class="callout">
-<a href="/travel"><b>Travel schedule of upcoming talks and events</b></a>.
+<div class="callout-quarto secondary">
+  <div class="callout-title">Travel</div>
+    <div class="callout-content">
+<p><a href="/travel"><b>Travel schedule of upcoming talks and events</b></a>.</p>
+    </div>
 </div>
+
 
 <!-- ### Articles -->
 <h3 style="color:#c783c4">Published Articles</h3>
@@ -23,20 +27,24 @@ permalink: /research
     <a href="https://doi.org/10.1093/imrn/rnae148"><code>doi:10.1093/imrn/rnae148</code></a> </li>
 </ol>
 
-<h3 style="color:#c783c4">Preprints <a href="https://arxiv.org/a/bhamidipati_d_1.html">(on arXiv)</a></h3>
+<h3 style="color:#c783c4">Preprints</h3>
 
 <ol reversed>
 <li> Ekedahl-Oort strata and the supersingular locus in the \(\mathsf{GU}(q-2,2)\) Shimura variety <small><em>(with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair)</em></small><br>
     <a href="https://arxiv.org/abs/2405.04464"><code>arXiv:2405.04464</code></a> </li>
 
-<li> The Brauer Group of \(\mathscr{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
+<li> The Brauer Group of \(\mathcal{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
     <a href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a> </li>
 </ol>
 
 <!-- --------------------------------------------------- -->
 
-<h3 style="color:#c783c4">Math Ed. Projects</h3>
+<h3 style="color:#c783c4">Math Education Projects</h3>
 <ul style="line-height:180%">
+
+<li> Proofs and Proof-writing at UC Santa Cruz <small><em>(with Jennifer Guerrero)</em></small></li>
+
+<li> Developing Online Courses at UC Santa Cruz <small><em>(with Sophie Aiken, Malachi Alexander, Cheyenne Dowd, and Pedro Morales-Almazan)</em></small></li>
 
 <li> Redesigning the Calculus for Life Sciences Courses at UC Santa Cruz <small><em>(with Sophie Aiken, Malachi Alexander, Jennifer Guerrero, Ryan Pugh, David Rubinstein, and Nandini Bhattacharya and Pedro Morales-Almazan)</em></small></li>
 

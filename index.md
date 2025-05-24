@@ -7,7 +7,7 @@ index: true
 
 {% include about-picture-img.html %}
 
-Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/). My research interests lie in arithmetic geometry and algebraic number theory. In particular, I am interested in curves and abelian varieties in characteristic <em>p</em> and their moduli spaces. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community.
+Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/). My research interests lie in arithmetic geometry and algebraic number theory. In particular, I am interested in curves and abelian varieties in characteristic <em>p</em> and their moduli spaces <a href="https://arxiv.org/a/bhamidipati_d_1.html">(arXiv)</a>. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community.
 
 <!--<a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 <div class="tag-list copy-buttons">
