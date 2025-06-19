@@ -11,9 +11,9 @@ permalink: /teaching
 ---
 
 <div class="callout-quarto tip">
-  <div class="callout-title">Spring 2025</div>
+  <div class="callout-title">Summer 2025</div>
   <div class="callout-content">
-    <p>I am curriculum-developing and course-designing an online version of MATH 11B for the summer session, as a Graduate Teaching Fellow.</p>
+    <p>I am teaching MATH 3 (Precalculus) during the first summer session and MATH 134 (Cryptography) during the second session.</p>
   </div>
 </div>
 
