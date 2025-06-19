@@ -16,7 +16,7 @@ permalink: /travel
 
 <ul>
 
-<li style="font-size:17px"> (Jul 14 - Aug 1, tentative) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
+<li style="font-size:17px"> (Jul 27 - Aug 1) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
 
 <li style="font-size:17px"> (May 16-18) Attending <a href="https://awm-math.org/meetings/awm-research-symposium/">AWM Research Symposium</a> in Madison, WI<br>
     <ul>
@@ -27,11 +27,11 @@ permalink: /travel
 
 <li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting</a>, San Luis Obispo, CA</li>
 
-<li style="font-size:17px"> (Apr 9-11) <em>job-search related travel</em>
+<li style="font-size:17px"> (Apr 9-11) <em>job-search related travel</em></li>
 
 <li style="font-size:17px"> (Feb 24-28) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a>, Pasadena, CA</li>
 
-<li style="font-size:17px"> (Feb 2-4) <em>job-search related travel</em>
+<li style="font-size:17px"> (Feb 2-4) <em>job-search related travel</em></li>
 
 <li style="font-size:17px"> (Jan 21) Seminar talk at <a href="https://sites.google.com/math.arizona.edu/panyan/algebra-and-number-theory-seminar?authuser=0">University of Arizona</a>, AZ</li>
 
@@ -51,7 +51,6 @@ permalink: /travel
 <li style="font-size:17px"> (Sep 11) Seminar talk at IIT Hyderabad, India</li>
 
 </ul>
-
 <!-- --------------------------------------------------- 
 
 <details>
