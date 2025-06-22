@@ -52,7 +52,7 @@ permalink: /travel
 
 </ul>
 
-<hr>
+<br>
 
 <details>
     <summary><b>2023-24</b></summary>
@@ -64,3 +64,31 @@ permalink: /travel
 <li> to be added</li>
 
 </ul>
+
+<br>
+
+<details>
+    <summary><b>2022-23</b></summary>
+
+<!--
+<ul style="line-height:180%">-->
+<ul style="margin-top: -1em;">
+
+<li> to be added</li>
+
+</ul>
+
+<br>
+
+<details>
+    <summary><b>2021-22</b></summary>
+
+<!--
+<ul style="line-height:180%">-->
+<ul style="margin-top: -1em;">
+
+<li> to be added</li>
+
+</ul>
+
+<br>

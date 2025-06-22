@@ -13,7 +13,7 @@ permalink: /research
 <div class="callout-quarto important">
   <div class="callout-title">Travel</div>
     <div class="callout-content">
-<p>You can view my <a href="/travel"><em>travel schedule for upcoming talks and events here</em></a>.</p>
+<p>You can view my <a href="/travel">travel schedule for upcoming talks and events here</a>.</p>
     </div>
 </div>
 
