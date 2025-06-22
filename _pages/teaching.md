@@ -76,9 +76,9 @@ Secondary = Grey
 </ul>
 
 <details>
-    <summary style="color:#8cd2e7; font-size: 1.25em;"><b>Teaching Assistant</b></summary>
+    <summary style="color:#8cd2e7; font-size: 1.17em;"><b>Teaching Assistant</b></summary>
 
-<h3 style="margin-top: 0;">UC Santa Cruz</h3>
+<h3 style="margin-top: 0.5em;">UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
 
 <li> MATH 288A <b>Pedagogy of Mathematics (for TAs)</b>, <small>Fall 2024</small></li>
@@ -110,9 +110,9 @@ Secondary = Grey
 </details>
 
 <details>
-    <summary style="color:#8cd2e7; font-size: 1.25em;"><b>Other</b></summary>
+    <summary style="color:#8cd2e7; font-size: 1.17em;"><b>Other</b></summary>
 
-<h3 style="margin-top: 0;">Course Development, UC Santa Cruz</h3>
+<h3 style="margin-top: 0.5em;">Course Development, UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
 
 <li> <b>Graduate Teaching Fellow</b>, <em>Online Course Development</em>, <small>Spring 2025, 2024</small></li>
