@@ -10,7 +10,7 @@ custom-nav:
 permalink: /research
 ---
 
-<div class="callout-quarto secondary">
+<div class="callout-quarto info">
   <div class="callout-title">Travel</div>
     <div class="callout-content">
 <p><a href="/travel"><em>Travel schedule of upcoming talks and events</em></a>.</p>
