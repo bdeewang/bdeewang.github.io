@@ -37,9 +37,14 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<h2 style="color:#8cd2e7">Instructor of Record</h2>
+<h1 style="color:#8cd2e7">Instructor of Record</h2>
 
-<h3>Carleton College</h3>
+<h3 style="margin-top: -1em;">Carleton College</h3>
+<ul style="margin-top: -1em;">
+
+<li> to be added</li>
+
+</ul>
 
 <h3>UC Santa Cruz</h3>
 
@@ -70,10 +75,11 @@ Secondary = Grey
 
 </ul>
 
+<h1 style="color:#8cd2e7">
 <details>
-    <summary style="color:#8cd2e7">Teaching Assistant</summary>
+    <summary style="color:#8cd2e7">Teaching Assistant</summary></details>
 
-<h3>UC Santa Cruz</h3>
+<h3 style="margin-top: -1em;">UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
 
 <li> MATH 288A <b>Pedagogy of Mathematics (for TAs)</b>, <small>Fall 2024</small></li>
