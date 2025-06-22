@@ -39,8 +39,8 @@ Secondary = Grey
 
 <h1 style="color:#8cd2e7">Instructor of Record</h2>
 
-<h3 style="margin-top: -1em;">Carleton College</h3>
-<ul style="margin-top: -1em;">
+<h3 style="margin-top: 0em;">Carleton College</h3>
+<ul style="margin-top: 0em;">
 
 <li> to be added</li>
 
@@ -75,9 +75,8 @@ Secondary = Grey
 
 </ul>
 
-<h1 style="color:#8cd2e7">
 <details>
-    <summary style="color:#8cd2e7">Teaching Assistant</summary></details>
+    <summary style="color:#8cd2e7"><h1>Teaching Assistant</h1></summary>
 
 <h3 style="margin-top: -1em;">UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
