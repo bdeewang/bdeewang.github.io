@@ -46,7 +46,7 @@ Secondary = Grey
 
 </ul>
 
-<h3>UC Santa Cruz</h3>
+<h3 style="margin-top: -0.25em;">UC Santa Cruz</h3>
 
 <ul style="margin-top: -1em;">
 
@@ -101,7 +101,7 @@ Secondary = Grey
 
 </ul>
 
-<h3>Shiv Nadar University</h3>
+<h3 style="margin-top: -0.25em;">Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">
 
@@ -121,7 +121,7 @@ Secondary = Grey
 
 </ul>
 
-<h3>Tutor, Shiv Nadar University</h3>
+<h3 style="margin-top: -0.25em;">Tutor, Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">
 
