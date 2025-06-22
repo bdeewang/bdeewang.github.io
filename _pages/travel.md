@@ -12,7 +12,7 @@ permalink: /travel
 
 <!-- ### UC Santa Cruz -->
 
-<h2 style="color:#E48683">2024-25</h2>
+<h2 style="color:#e89795">2024-25</h2>
 
 <ul style="margin-top: 0;">
 
