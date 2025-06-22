@@ -38,7 +38,7 @@ Secondary = Grey
 -->
 
 <div style="display: flex; flex-direction: row;">
-  <div style="width: 200px;">
+  <div style="width: 300px;">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
   <div style="flex: 1;">
@@ -55,7 +55,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 0.25em;">UC Santa Cruz</h3>
+<h3 style="margin-top: 0.5em;">UC Santa Cruz</h3>
 
 <ul style="margin-top: -1em;">
 
@@ -86,6 +86,7 @@ Secondary = Grey
   </div>
 </div>
 
+<!--
 <h3 style="color:#8cd2e7">Instructor of Record</h3>
 
 <h3 style="margin-top: 0.5em;">Carleton College</h3>
@@ -128,7 +129,7 @@ Secondary = Grey
 <a href="https://drive.google.com/file/d/17i_EQ1ncWpEZj6n9H1-J6MEkOrg8rHbt/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
 </li>
 
-</ul>
+</ul>-->
 
 <details>
     <summary style="color:#8cd2e7; font-size: 1.17em;"><b>Teaching Assistant</b></summary>
