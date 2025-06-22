@@ -14,7 +14,7 @@ permalink: /travel
 
 <h2 style="color:#e894b5">2024-25</h2>
 
-<ul>
+<ul style="margin-top: 0;">
 
 <li style="font-size:17px"> (Jul 27 - Aug 1) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
 
@@ -51,14 +51,15 @@ permalink: /travel
 <li style="font-size:17px"> (Sep 11) Seminar talk at IIT Hyderabad, India</li>
 
 </ul>
-<!-- --------------------------------------------------- 
+
 
 <details>
-    <summary><b>Spring 2024</b></summary>
+    <summary><h2>2023-24</h2></summary>
 
-<ul style="line-height:180%">
+<!--
+<ul style="line-height:180%">-->
+<ul style="margin-top: 0;">
 
-<li> MAT260 <b>Linear Algebra</b>, <small>Fall 2015</small></li>
+<li> to be added</li>
 
 </ul>
-</details>-->
