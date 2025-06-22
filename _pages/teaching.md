@@ -37,8 +37,8 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<div style="display: flex; flex-direction: row;">
-  <div style="width: 300px;">
+<div style="display: flex; flex-direction: row; margin-top:-2em">
+  <div style="width: 250px;">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
   <div style="flex: 1;">
@@ -55,7 +55,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 0.5em;">UC Santa Cruz</h3>
+<h3 style="margin-top: 1.5em;">UC Santa Cruz</h3>
 
 <ul style="margin-top: -1em;">
 
