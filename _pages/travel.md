@@ -52,9 +52,10 @@ permalink: /travel
 
 </ul>
 
+<hr>
 
 <details>
-    <summary><h2>2023-24</h2></summary>
+    <summary><b>2023-24</b></summary>
 
 <!--
 <ul style="line-height:180%">-->
