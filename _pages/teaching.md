@@ -37,9 +37,9 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<h1 style="color:#8cd2e7">Instructor of Record</h2>
+<h3 style="color:#8cd2e7">Instructor of Record</h3>
 
-<h3 style="margin-top: 0.25em;">Carleton College</h3>
+<h3 style="margin-top: 0.5em;">Carleton College</h3>
 <ul style="margin-top: -1em;">
 
 <li> to be added</li>
@@ -50,9 +50,9 @@ Secondary = Grey
 
 <ul style="margin-top: -1em;">
 
-<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025 (tentative)</small></li>
+<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small></li>
 
-<li> MATH 3 <b>Precalculus</b>, <small>Summer 2025 (tentative), Summer 2020</small></li>
+<li> MATH 3 <b>Precalculus</b>, <small>Summer 2025, Summer 2020</small></li>
 
 <li> MATH 11B <b>Calculus with Applications</b>, <small>Summer 2024, Summer 2022</small></li>
 
@@ -76,9 +76,9 @@ Secondary = Grey
 </ul>
 
 <details>
-    <summary style="color:#8cd2e7; font-size: 1.5em;"><b>Teaching Assistant</b></summary>
+    <summary style="color:#8cd2e7; font-size: 1.25em;"><b>Teaching Assistant</b></summary>
 
-<h3 style="margin-top: -0.5em;">UC Santa Cruz</h3>
+<h3 style="margin-top: 0;">UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
 
 <li> MATH 288A <b>Pedagogy of Mathematics (for TAs)</b>, <small>Fall 2024</small></li>
@@ -110,9 +110,9 @@ Secondary = Grey
 </details>
 
 <details>
-    <summary style="color:#8cd2e7; font-size: 1.5em;"><b>Other</b></summary>
+    <summary style="color:#8cd2e7; font-size: 1.25em;"><b>Other</b></summary>
 
-<h3 style="margin-top: -0.5em;">Course Development, UC Santa Cruz</h3>
+<h3 style="margin-top: 0;">Course Development, UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
 
 <li> <b>Graduate Teaching Fellow</b>, <em>Online Course Development</em>, <small>Spring 2025, 2024</small></li>
