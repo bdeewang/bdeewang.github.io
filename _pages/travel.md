@@ -52,8 +52,6 @@ permalink: /travel
 
 </ul>
 
-<br>
-
 <details>
     <summary><b>2023-24</b></summary>
 
@@ -64,8 +62,7 @@ permalink: /travel
 <li> to be added</li>
 
 </ul>
-
-<br>
+</details>
 
 <details>
     <summary><b>2022-23</b></summary>
@@ -77,8 +74,7 @@ permalink: /travel
 <li> to be added</li>
 
 </ul>
-
-<br>
+</details>
 
 <details>
     <summary><b>2021-22</b></summary>
@@ -90,5 +86,4 @@ permalink: /travel
 <li> to be added</li>
 
 </ul>
-
-<br>
+</details>

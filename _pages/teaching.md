@@ -10,7 +10,7 @@ custom-nav:
 permalink: /teaching
 ---
 
-<div class="callout-quarto tip">
+<div class="callout-quarto note">
   <div class="callout-title">Summer 2025</div>
   <div class="callout-content">
     <p>I am teaching MATH 3 (Precalculus) during the first summer session and MATH 134 (Cryptography) during the second session.</p>
@@ -37,13 +37,13 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
+<h2 style="color:#8cd2e7">Instructor of Record</h2>
 
-## UC Santa Cruz
+<h3>Carleton College</h3>
 
-<details class="callout-quarto warning">
-    <summary class="callout-header">Instructor of Record</summary>
-    <div class="callout-body">
-<ul style="line-height:150%">
+<h3>UC Santa Cruz</h3>
+
+<ul style="margin-top: -1em;">
 
 <li> MATH 134 <b>Cryptography</b>, <small>Summer 2025 (tentative)</small></li>
 
@@ -69,13 +69,12 @@ Secondary = Grey
 </li>
 
 </ul>
-    </div>
-</details>
 
-<details class="callout-quarto important">
-    <summary class="callout-header">Teaching Assistant</summary>
-    <div class="callout-body">
-<ul style="line-height:180%">
+<details>
+    <summary style="color:#8cd2e7">Teaching Assistant</summary>
+
+<h3>UC Santa Cruz</h3>
+<ul style="margin-top: -1em;">
 
 <li> MATH 288A <b>Pedagogy of Mathematics (for TAs)</b>, <small>Fall 2024</small></li>
 
@@ -95,19 +94,45 @@ Secondary = Grey
 
 <li> MATH 181 <b>History of Mathematics</b>, <small>Summer 2020, Winter 2020</small></li>
 
+</ul>
+
+<h3>Shiv Nadar University</h3>
+
+<ul style="margin-top: -1em;">
+
+<li> MAT260 <b>Linear Algebra</b>, <small>Fall 2015</small></li>
+</ul>
+</details>
+
+<details>
+    <summary style="color:#8cd2e7">Other</summary>
+
+<h3>Course Development, UC Santa Cruz</h3>
+<ul style="margin-top: -1em;">
+
+<li> <b>Graduate Student Researcher</b>, <em>Redesigning Calculus in the Life Sciences</em>, <small>Summer 2024, 2023, 2021</small></li>
+
+<li> <b>Graduate Teaching Fellow</b>, <em>Online Course Development</em>, <small>Spring 2025, 2024</small></li>
 
 </ul>
-    </div>
+
+<h3>Tutor, Shiv Nadar University</h3>
+
+<ul style="margin-top: -1em;">
+
+<li> MAT260 <b>Linear Algebra</b>, <small>Spring 2015</small></li>
+<li> MAT284 <b>Probability and Statistics</b>, <small>Spring 2015</small></li>
+<li> MAT101 <b>Calculus I</b>, <small>Fall 2014</small></li>
+</ul>
 </details>
+
 
 <details class="callout-quarto note">
     <summary class="callout-header">Course Development</summary>
     <div class="callout-body">
 <ul style="line-height:180%">
 
-<li> <b>Graduate Student Researcher</b>, <em>Redesigning Calculus in the Life Sciences</em>, <small>Summer 2024, 2023, 2021</small></li>
 
-<li> <b>Graduate Teaching Fellow</b>, <em>Online Course Development</em>, <small>Spring 2025, 2024</small></li>
 
 </ul>
     </div>
@@ -204,7 +229,7 @@ Secondary = Grey
     <div class="callout-body">
 <ul style="line-height:180%">
 
-<li> MAT260 <b>Linear Algebra</b>, <small>Fall 2015</small></li>
+
 
 </ul>
     </div>
@@ -215,9 +240,7 @@ Secondary = Grey
     <div class="callout-body">
 <ul style="line-height:180%">
 
-<li> MAT260 <b>Linear Algebra</b>, <small>Spring 2015</small></li>
-<li> MAT284 <b>Probability and Statistics</b>, <small>Spring 2015</small></li>
-<li> MAT101 <b>Calculus I</b>, <small>Fall 2014</small></li>
+
 
 </ul>
     </div>
