@@ -37,6 +37,55 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <h3 style="color:#8cd2e7">Instructor of Record</h3>
+  </div>
+  <div style="flex: 2;">
+    <h3 style="margin-top: 0.5em;">Carleton College</h3>
+<ul style="margin-top: -1em;">
+
+<li> MATH 210 <b>Calculus 3</b>, <small>Spring 2026</small></li>
+
+<li> MATH 120 <b>Calculus 2</b>, <small>Spring 2026</small></li>
+
+<li> MATH 282 <b>Number Theory</b>, <small>Winter 2026</small></li>
+
+<li> MATH 111 <b>Introduction to Calculus</b>, <small>Winter 2026, Fall 2025</small></li>
+
+</ul>
+
+<h3 style="margin-top: 0.1em;">UC Santa Cruz</h3>
+
+<ul style="margin-top: -1em;">
+
+<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small></li>
+
+<li> MATH 3 <b>Precalculus</b>, <small>Summer 2025, Summer 2020</small></li>
+
+<li> MATH 11B <b>Calculus with Applications</b>, <small>Summer 2024, Summer 2022</small></li>
+
+<li> MATH 181 <b>History of Mathematics</b>, <small>Summer 2024</small></li>
+
+<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2024, Summer 2020</small><br>
+<a href="https://drive.google.com/file/d/1wO8R17nlPOVqxrAENGtnsi0TLw29PFt7/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a></li>
+
+<li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023, Fall 2020</small><br>
+<a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
+</li>
+
+<li> MATH 103A <b>Complex Analysis</b>, <small>Spring 2023, Spring 2022</small><br>
+<a href="https://drive.google.com/file/d/1tu_HkQRio1RMExTzfMlsHvJLZF5R8cXM/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
+</li>
+
+<li> MATH 110 <b>Introduction to Number Theory</b>, <small>Fall 2021, Summer 2021</small><br>
+<a href="https://drive.google.com/file/d/17i_EQ1ncWpEZj6n9H1-J6MEkOrg8rHbt/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
+</li>
+
+</ul>
+  </div>
+</div>
+
 <h3 style="color:#8cd2e7">Instructor of Record</h3>
 
 <h3 style="margin-top: 0.5em;">Carleton College</h3>
@@ -52,7 +101,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 0;">UC Santa Cruz</h3>
+<h3 style="margin-top: 0.1em;">UC Santa Cruz</h3>
 
 <ul style="margin-top: -1em;">
 
