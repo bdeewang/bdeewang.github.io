@@ -10,7 +10,7 @@ custom-nav:
 permalink: /research
 ---
 
-<div class="callout-quarto note">
+<div class="callout-quarto important">
   <div class="callout-title">Travel</div>
     <div class="callout-content">
 <p>You can view my <a href="/travel"><em>travel schedule for upcoming talks and events here</em></a>.</p>
@@ -19,28 +19,28 @@ permalink: /research
 
 
 <!-- ### Articles -->
-<h3 style="color:#c783c4">Published Articles</h3>
+<h3 style="color:#d9534f">Published Articles</h3>
 
-<ol reversed>
+<ol reversed style="margin-top: 0;">
 <li> Frobenius distributions of low dimensional abelian varieties over finite fields <small><em>(with Santiago Arango-Pineros and Soumya Sankar)</em></small><br>
     <em>International Mathematics Research Notices. Vol. 2024, No. 16, pp. 11989-12020, August 2024</em>
     <a href="https://doi.org/10.1093/imrn/rnae148"><code>doi:10.1093/imrn/rnae148</code></a> </li>
 </ol>
 
-<h3 style="color:#c783c4">Preprints</h3>
+<h3 style="color:#d9534f">Preprints</h3>
 
-<ol reversed>
-<li> Ekedahl-Oort strata and the supersingular locus in the \(\mathsf{GU}(q-2,2)\) Shimura variety <small><em>(with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair)</em></small><br>
+<ol reversed style="margin-top: 0;">
+<li> Ekedahl-Oort strata and the supersingular locus in the GU(q-2,2) Shimura variety <small><em>(with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair)</em></small><br>
     <a href="https://arxiv.org/abs/2405.04464"><code>arXiv:2405.04464</code></a> </li>
 
-<li> The Brauer Group of \(\mathscr{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
+<li> The Brauer Group of 𝒴_0(2) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
     <a href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a> </li>
 </ol>
 
 <!-- --------------------------------------------------- -->
 
-<h3 style="color:#c783c4">Math Education Projects</h3>
-<ul style="line-height:180%">
+<h3 style="color:#d9534f">Math Education Projects</h3>
+<ul style="margin-top: 0;">
 
 <li> Proofs and Proof-writing at UC Santa Cruz <small><em>(with Jennifer Guerrero)</em></small></li>
 
@@ -65,7 +65,7 @@ permalink: /research
 -->
 
 <!-- ### Theses -->
-<h3 style="color:#c783c4">Theses</h3>
+<h3 style="color:#d9534f">Theses</h3>
 
 * [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)<br>
 <small>Master's Thesis, Higher School of Economics</small>
