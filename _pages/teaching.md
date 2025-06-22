@@ -39,8 +39,8 @@ Secondary = Grey
 
 <h1 style="color:#8cd2e7">Instructor of Record</h2>
 
-<h3 style="margin-top: 0em;">Carleton College</h3>
-<ul style="margin-top: 0em;">
+<h3 style="margin-top: 0.25em;">Carleton College</h3>
+<ul style="margin-top: -1em;">
 
 <li> to be added</li>
 
@@ -76,9 +76,9 @@ Secondary = Grey
 </ul>
 
 <details>
-    <summary style="color:#8cd2e7"><h1>Teaching Assistant</h1></summary>
+    <summary style="color:#8cd2e7; font-size: 1.5em;"><b>Teaching Assistant</b></summary>
 
-<h3 style="margin-top: -1em;">UC Santa Cruz</h3>
+<h3 style="margin-top: -0.5em;">UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
 
 <li> MATH 288A <b>Pedagogy of Mathematics (for TAs)</b>, <small>Fall 2024</small></li>
@@ -110,14 +110,14 @@ Secondary = Grey
 </details>
 
 <details>
-    <summary style="color:#8cd2e7">Other</summary>
+    <summary style="color:#8cd2e7; font-size: 1.5em;"><b>Other</b></summary>
 
-<h3>Course Development, UC Santa Cruz</h3>
+<h3 style="margin-top: -0.5em;">Course Development, UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
 
-<li> <b>Graduate Student Researcher</b>, <em>Redesigning Calculus in the Life Sciences</em>, <small>Summer 2024, 2023, 2021</small></li>
-
 <li> <b>Graduate Teaching Fellow</b>, <em>Online Course Development</em>, <small>Spring 2025, 2024</small></li>
+
+<li> <b>Graduate Student Researcher</b>, <em>Redesigning Calculus in the Life Sciences</em>, <small>Summer 2024, 2023, 2021</small></li>
 
 </ul>
 
@@ -131,7 +131,7 @@ Secondary = Grey
 </ul>
 </details>
 
-
+<!-- 
 <details class="callout-quarto note">
     <summary class="callout-header">Course Development</summary>
     <div class="callout-body">
@@ -142,7 +142,7 @@ Secondary = Grey
 </ul>
     </div>
 </details>
-<!-- 
+
 <details>
     <summary><b style="color:#ffffbf">Instructor of Record</b></summary>
 
@@ -225,7 +225,7 @@ Secondary = Grey
 
 </ul>
 </details>
--->
+
 
 ## Shiv Nadar University
 
@@ -250,6 +250,7 @@ Secondary = Grey
 </ul>
     </div>
 </details>
+-->
 
 <!--
 <details>
