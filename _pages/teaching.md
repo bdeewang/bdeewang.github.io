@@ -37,7 +37,7 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<div style="display: flex; flex-direction: row; margin-top:-3em">
+<div style="display: flex; flex-direction: row; margin-top:-3.5em">
   <div style="width: 250px;">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
@@ -131,7 +131,7 @@ Secondary = Grey
 
 </ul>-->
 
-<details>
+<details style="margin-top: 0.1em">
     <summary style="color:#8cd2e7; font-size: 1.17em;"><b>Teaching Assistant</b></summary>
 
 <h3 style="margin-top: 0.5em;">UC Santa Cruz</h3>
@@ -157,7 +157,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 1.5em;">Shiv Nadar University</h3>
+<h3 style="margin-top: 1.25em;">Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">
 
@@ -177,7 +177,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 1.5em;">Tutor, Shiv Nadar University</h3>
+<h3 style="margin-top: 1.25em;">Tutor, Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">
 
