@@ -38,11 +38,11 @@ Secondary = Grey
 -->
 
 <div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
+  <div style="width: 200px;">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
-  <div style="flex: 2;">
-    <h3 style="margin-top: 0.5em;">Carleton College</h3>
+  <div style="flex: 1;">
+    <h3>Carleton College</h3>
 <ul style="margin-top: -1em;">
 
 <li> MATH 210 <b>Calculus 3</b>, <small>Spring 2026</small></li>
@@ -55,7 +55,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 0.1em;">UC Santa Cruz</h3>
+<h3 style="margin-top: 0.25em;">UC Santa Cruz</h3>
 
 <ul style="margin-top: -1em;">
 
