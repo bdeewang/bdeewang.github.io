@@ -42,11 +42,17 @@ Secondary = Grey
 <h3 style="margin-top: 0.5em;">Carleton College</h3>
 <ul style="margin-top: -1em;">
 
-<li> to be added</li>
+<li> MATH 210 <b>Calculus 3</b>, <small>Spring 2026</small></li>
+
+<li> MATH 120 <b>Calculus 2</b>, <small>Spring 2026</small></li>
+
+<li> MATH 282 <b>Number Theory</b>, <small>Winter 2026</small></li>
+
+<li> MATH 111 <b>Introduction to Calculus</b>, <small>Winter 2026, Fall 2025</small></li>
 
 </ul>
 
-<h3 style="margin-top: -0.25em;">UC Santa Cruz</h3>
+<h3 style="margin-top: -0.1em;">UC Santa Cruz</h3>
 
 <ul style="margin-top: -1em;">
 
@@ -101,7 +107,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: -0.25em;">Shiv Nadar University</h3>
+<h3 style="margin-top: -0.1em;">Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">
 
@@ -121,7 +127,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: -0.25em;">Tutor, Shiv Nadar University</h3>
+<h3 style="margin-top: -0.1em;">Tutor, Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">
 
