@@ -14,7 +14,7 @@ permalink: /travel
 
 <h2 style="color:#e89795">2024-25</h2>
 
-<ul style="margin-top: 0;">
+<ul style="margin-top: -1em;">
 
 <li style="font-size:17px"> (Jul 27 - Aug 1) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
 
@@ -59,7 +59,7 @@ permalink: /travel
 
 <!--
 <ul style="line-height:180%">-->
-<ul style="margin-top: 0;">
+<ul style="margin-top: -1em;">
 
 <li> to be added</li>
 
