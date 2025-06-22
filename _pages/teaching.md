@@ -37,7 +37,7 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<div style="display: flex; flex-direction: row; margin-top:-2em">
+<div style="display: flex; flex-direction: row; margin-top:-3em">
   <div style="width: 250px;">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
@@ -67,7 +67,7 @@ Secondary = Grey
 
 <li> MATH 181 <b>History of Mathematics</b>, <small>Summer 2024</small></li>
 
-<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2024, Summer 2020</small><br>
+<li> MATH 100 <b>Introduction to Proof</b>, <small>Winter 2024, Summer 2020</small><br>
 <a href="https://drive.google.com/file/d/1wO8R17nlPOVqxrAENGtnsi0TLw29PFt7/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a></li>
 
 <li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023, Fall 2020</small><br>
@@ -157,7 +157,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 0;">Shiv Nadar University</h3>
+<h3 style="margin-top: 1.5em;">Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">
 
@@ -177,7 +177,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 0;">Tutor, Shiv Nadar University</h3>
+<h3 style="margin-top: 1.5em;">Tutor, Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">
 
