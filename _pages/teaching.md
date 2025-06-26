@@ -61,7 +61,7 @@ Secondary = Grey
 
 <li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small></li>
 
-<li> MATH 3 <b>Precalculus</b>, <small>Summer 2025, Summer 2020</small> <b style="color:#8cd2e7">★</b> </li>
+<li> MATH 3 <b>Precalculus</b>, <small>Summer 2025, Summer 2020</small>&nbsp;&nbsp;<b style="color:#8cd2e7">[★]</b> </li>
 
 <li> MATH 11B <b>Calculus with Applications</b>, <small>Summer 2024, Summer 2022</small></li>
 
