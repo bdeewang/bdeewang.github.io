@@ -39,7 +39,8 @@ Secondary = Grey
 
 <div style="display: flex; flex-direction: row; margin-top:-3.5em">
   <div style="width: 250px;">
-    <h3 style="color:#8cd2e7">Instructor of Record</h3>
+    <h3 style="color:#8cd2e7">Instructor of Record</h3><br>
+    <small><b style="color:#8cd2e7">[★] <em>Current</em></b></small>
   </div>
   <div style="flex: 1;">
     <h3>Carleton College</h3>
