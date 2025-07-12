@@ -664,6 +664,29 @@ aside, .callout {
   letter-spacing: .05em;
 }
 
+.btn-ghost {
+  background-color: var(--box-background-color);
+  border: 1px solid var(--light-border-color);
+  border-radius: 4px;
+  color: var(--main-text-color);
+  font-family: $body-typeface;
+  font-size: var(--small-font-size);
+  font-weight: normal;
+  margin: 0 0 0 .5em;
+  display: inline-block;
+  padding: 0 .5em;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+
+  &:hover {
+    background-color: var(--main-background-color);
+    color: var(--link-color);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+  }
+}
+
 /* Filled Button Style */
 .btn-filled {
   background-color: #0c5394; /* Using the selection color for a primary action */

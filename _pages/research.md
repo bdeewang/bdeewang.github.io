@@ -24,7 +24,7 @@ permalink: /research
 <ol reversed style="margin-top: -1em;">
 <li> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
     <small><em>with Santiago Arango-Pineros and Soumya Sankar</em></small><br>
-    <a class="btn btn-default" href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Abstract</a><br>
+    <a class="btn btn-ghost" href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Abstract</a><br>
     <a class="btn btn-filled" href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Journal</a><br>
     <a class="btn btn-filled" href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">arxiv</a><br>
     <em>International Mathematics Research Notices. Vol. 2024, No. 16, pp. 11989-12020, August 2024</em>
