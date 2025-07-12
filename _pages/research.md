@@ -24,17 +24,18 @@ permalink: /research
 <ol reversed style="margin-top: -1em;">
 <li> Ekedahl-Oort strata and the supersingular locus in the GU(q—2,2) Shimura variety<br>
     <small><em>with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair</em></small><br>
-    <a class="btn btn-ghost" href="https://arxiv.org/abs/2405.04464"><code> arXiv:2405.04464 </code></a>
+    <a class="btn btn-ghost" href="https://arxiv.org/abs/2405.04464"><code> &nbsp;arXiv:2405.04464&nbsp;</code></a>
 </li>
 
 <li> The Brauer Group of 𝒴₀(2)<br>
     <small><em>with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez</em></small><br>
-    <a class="btn btn-default" href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a>
+    <a class="btn btn-default" href="https://arxiv.org/abs/2311.18132"><code>&nbsp;arXiv:2311.18132&nbsp;</code></a>
 </li>
 
 <li> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
-    <small><em>with Santiago Arango-Pineros and Soumya Sankar</em></small><br>
-    <a class="btn btn-filled" href="https://doi.org/10.1093/imrn/rnae148">JOURNAL</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-ghost" href="https://arxiv.org/abs/2306.02237"><code>arXiv:2306.02237</code></a>
+    <small><em>with Santiago Arango-Pineros and Soumya Sankar</em><br>
+    International Mathematics Research Notices (2024), no. 16, 11989–12020 &nbsp;&nbsp;<a class="btn btn-ghost" href="https://doi.org/10.1093/imrn/rnae148">&nbsp;DOI&nbsp;</a></small><br>
+    <a class="btn btn-filled" href="https://arxiv.org/abs/2306.02237"><code>&nbsp;arXiv:2306.02237&nbsp;</code></a>
     </li>
 </ol>
 
