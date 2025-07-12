@@ -673,12 +673,12 @@ aside, .callout {
   font-size: var(--small-font-size);
   font-weight: normal;
   margin: 0 0 0 .5em;
-  padding: 0 .5em;
+  padding: 0 1em;
   letter-spacing: .05em;
 
   &:hover {
     background-color: var(--main-background-color);
-    color: #e89795;
+    color: #d8534e;
     text-decoration: none;
     letter-spacing: .05em;
   }
@@ -686,9 +686,9 @@ aside, .callout {
 
 /* Filled Button Style */
 .btn-filled {
-  background-color: #e89795;
+  background-color: #d8534e;
   color: #ffffff;
-  border: 1px solid #e89795;
+  border: 1px solid #d8534e;
   border-radius: 4px;
   font-family: $body-typeface;
   font-size: var(--small-font-size);
