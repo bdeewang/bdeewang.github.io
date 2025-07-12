@@ -666,45 +666,39 @@ aside, .callout {
 
 .btn-ghost {
   background-color: var(--box-background-color);
+  color: var(--main-text-color);
   border: 1px solid var(--light-border-color);
   border-radius: 4px;
-  color: var(--main-text-color);
   font-family: $body-typeface;
   font-size: var(--small-font-size);
   font-weight: normal;
-  margin: 0 0 0 .5em;
   padding: 0 1em;
-  letter-spacing: .05em;
+  margin: 0 0.25em;
+  text-decoration: none;
 
   &:hover {
     background-color: var(--main-background-color);
-    color: #d8534e;
+    color: #e89795;
     text-decoration: none;
-    letter-spacing: .05em;
   }
 }
 
 /* Filled Button Style */
 .btn-filled {
-  background-color: #d8534e;
+  background-color: #973A36;
   color: #ffffff;
-  border: 1px solid #d8534e;
+  border: 1px solid #973A36;
   border-radius: 4px;
   font-family: $body-typeface;
   font-size: var(--small-font-size);
-  letter-spacing: .05em;
   font-weight: normal;
-  padding: 0.2em 0.6em; /* Adjusted padding for a more compact inline feel */
-  margin: 0 0.25em; /* Adjusted margin */
+  padding: 0 1em;
+  margin: 0 0.25em;
   text-decoration: none;
-  cursor: pointer;
-  display: inline-block; /* Correct display for inline behavior with size */
-  line-height: 1.2; /* A more standard line-height for inline elements */
-  vertical-align: text-bottom; /* Aligns the button better with the text line */
 
   &:hover {
-    background-color: #0a437a; /* A slightly darker blue for hover */
-    border-color: #0a437a;
+    background-color: #6C2927;
+    border-color: #6C2927;
     color: #ffffff;
     text-decoration: none;
   }
