@@ -22,9 +22,10 @@ permalink: /research
 <h3 style="color:#e89795">Published Articles</h3>
 
 <ol reversed style="margin-top: -1em;">
-<li> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
+    <li> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
     <small><em>with Santiago Arango-Pineros and Soumya Sankar</em></small><br>
-    <a class="btn btn-filled" href="https://doi.org/10.1093/imrn/rnae148">Journal</a>&nbsp;&nbsp;<a class="btn btn-ghost" href="https://arxiv.org/abs/2306.02237"><code>arXiv:2306.02237</code></a></li>
+    <small><a class="btn btn-filled" href="https://doi.org/10.1093/imrn/rnae148">Journal</a>&nbsp;&nbsp;<a class="btn btn-ghost" href="https://arxiv.org/abs/2306.02237"><code>arXiv:2306.02237</code></a></small>
+    </li>
 </ol>
 
 <h3 style="color:#e89795">Preprints</h3>
