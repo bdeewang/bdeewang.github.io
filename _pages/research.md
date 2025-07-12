@@ -30,7 +30,7 @@ permalink: /research
             <p>This is the definition of the technical term. It appears when the user clicks.</p>
         </div>
     </details>
-    <small><a class="btn btn-ghost" href="https://arxiv.org/abs/2405.04464"><code> arXiv:2405.04464 </code></a></small>
+    <a class="btn btn-ghost" href="https://arxiv.org/abs/2405.04464"><code> arXiv:2405.04464 </code></a>
 </li>
 
 <li> The Brauer Group of 𝒴₀(2)<br>
