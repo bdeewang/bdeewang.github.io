@@ -24,7 +24,7 @@ permalink: /research
 <ol reversed style="margin-top: -1em;">
 <li> Ekedahl-Oort strata and the supersingular locus in the GU(q—2,2) Shimura variety<br>
     <small><em>with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair</em></small><br>
-    <a class="btn btn-filled" href="https://arxiv.org/abs/2405.04464"><code> &nbsp;arXiv:2405.04464&nbsp;</code></a>
+    <a class="btn btn-filled" href="https://arxiv.org/abs/2405.04464" style="margin-top: -1em;"><code> &nbsp;arXiv:2405.04464&nbsp;</code></a>
 </li>
 
 <li> The Brauer Group of 𝒴₀(2)<br>
