@@ -674,9 +674,11 @@ aside, .callout {
   font-weight: normal;
   letter-spacing: .025em;
   margin: calc(1.75 * var(--line-height)) 0 0;
-  padding: 1.3 1.8em;
+  padding: 0.2 0.5em;
   line-height: 1.2;
   text-decoration: none;
+  height: 60px;
+  width: 100px;
 
   &:hover {
     background-color: var(--main-background-color);
@@ -702,7 +704,7 @@ aside, .callout {
   font-weight: normal;
   letter-spacing: .025em;
   margin: calc(1.75 * var(--line-height)) 0 0;
-  padding: 1.3 1.8em;
+  padding: 0.2 0.5em;
   line-height: 1.2;
   text-decoration: none;
 
@@ -713,9 +715,10 @@ aside, .callout {
     text-decoration: none;
   }
 
-  &:visited:hover {
-    background-color: var(--main-background-color);
-    color: #e89795;
+  &:hover {
+    background-color: #6C2927;
+    border-color: #6C2927;
+    color: #ffffff;
     text-decoration: none;
   }
 }
