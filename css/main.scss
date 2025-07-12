@@ -666,17 +666,16 @@ aside, .callout {
 
 .btn-ghost {
   background-color: var(--box-background-color);
-  color: var(--main-text-color);
   border: 1px solid var(--light-border-color);
   border-radius: 4px;
+  color: var(--main-text-color);
   font-family: $body-typeface;
   font-size: var(--small-font-size);
   font-weight: normal;
-  letter-spacing: .025em;
-  margin: calc(1.75 * var(--line-height)) 0 0;
+  margin: 0.25 0 0 0;
   padding: 0.2 0.5em;
-  line-height: 1.2;
   text-decoration: none;
+  letter-spacing: .025em;
   
   &:hover {
     background-color: var(--main-background-color);
@@ -694,17 +693,16 @@ aside, .callout {
 /* Filled Button Style */
 .btn-filled {
   background-color: #973A36;
-  color: #ffffff;
   border: 1px solid #973A36;
   border-radius: 4px;
+  color: #ffffff;
   font-family: $body-typeface;
   font-size: var(--small-font-size);
   font-weight: normal;
-  letter-spacing: .025em;
-  margin: calc(1.75 * var(--line-height)) 0 0;
+  margin: 0.25 0 0 0;
   padding: 0.2 0.5em;
-  line-height: 1.2;
   text-decoration: none;
+  letter-spacing: .025em;
 
   &:hover {
     background-color: #6C2927;
