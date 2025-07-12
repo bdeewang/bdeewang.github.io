@@ -674,27 +674,24 @@ aside, .callout {
   font-weight: normal;
   margin: 0 0 0 .5em;
   padding: 0 .5em;
-  text-transform: uppercase;
   letter-spacing: .05em;
 
   &:hover {
     background-color: var(--main-background-color);
-    color: var(--link-color);
+    color: #e89795;
     text-decoration: none;
-    text-transform: uppercase;
     letter-spacing: .05em;
   }
 }
 
 /* Filled Button Style */
 .btn-filled {
-  background-color: #0c5394; /* Using the selection color for a primary action */
+  background-color: #e89795
   color: #ffffff;
-  border: 1px solid #0c5394;
+  border: 1px solid #e89795;
   border-radius: 4px;
   font-family: $body-typeface;
   font-size: var(--small-font-size);
-  text-transform: uppercase;
   letter-spacing: .05em;
   font-weight: normal;
   padding: 0.2em 0.6em; /* Adjusted padding for a more compact inline feel */
