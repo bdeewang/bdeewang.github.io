@@ -29,7 +29,7 @@ permalink: /research
 
 <li> The Brauer Group of 𝒴₀(2)<br>
     <small><em>with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez</em></small><br>
-    <a class="btn btn-ghost" href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a>
+    <a class="btn btn-default" href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a>
 </li>
 
 <li> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
