@@ -664,6 +664,33 @@ aside, .callout {
   letter-spacing: .05em;
 }
 
+/* Filled Button Style */
+.btn-filled {
+  background-color: #0c5394; /* Using the selection color for a primary action */
+  color: #ffffff;
+  border: 1px solid #0c5394;
+  border-radius: 4px;
+  font-family: $body-typeface;
+  font-size: var(--small-font-size);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  font-weight: normal;
+  padding: 0 1em;
+  margin: 0 0 0 .5em;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  height: calc(1.5 * var(--line-height));
+  line-height: calc(1.5 * var(--line-height)); /* Vertically centers text */
+
+  &:hover {
+    background-color: #0a437a; /* A slightly darker blue for hover */
+    border-color: #0a437a;
+    color: #ffffff;
+    text-decoration: none;
+  }
+}
+
 .small-caps { 
   letter-spacing: .07em;
 }
