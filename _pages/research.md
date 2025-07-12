@@ -24,12 +24,6 @@ permalink: /research
 <ol reversed style="margin-top: -1em;">
 <li> Ekedahl-Oort strata and the supersingular locus in the GU(q—2,2) Shimura variety<br>
     <small><em>with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair</em></small><br>
-    <details class="collapsible-inline">
-        <summary class="btn btn-ghost">Abstract</summary>
-        <div class="collapsible-content">
-            <p>This is the definition of the technical term. It appears when the user clicks.</p>
-        </div>
-    </details>
     <a class="btn btn-ghost" href="https://arxiv.org/abs/2405.04464"><code> arXiv:2405.04464 </code></a>
 </li>
 

@@ -526,45 +526,6 @@ aside, .callout {
   }
 }
 
-details.collapsible-inline {
-  display: inline-block; /* Allows the element to sit inline with text */
-  margin: 0 0.25em; /* Small margins for inline spacing */
-  vertical-align: text-bottom; /* Aligns the button better with surrounding text */
-
-  summary {
-    display: inline-flex; /* Keeps the summary content together */
-    align-items: center;
-    background-color: var(--box-background-color);
-    border: 1px solid var(--light-border-color);
-    border-radius: 4px;
-    padding: 0.2em 0.5em; /* Reduced padding for a smaller inline button */
-    cursor: pointer;
-    font-weight: bold;
-    font-size: var(--small-font-size); /* Slightly smaller font for inline */
-    margin: 0;
-    transition: background-color 0.2s;
-    line-height: 1.2;
-
-    /* Hide default marker */
-    &::-webkit-details-marker {
-      display: none;
-    }
-
-    &:hover {
-      background-color: hsl(240, 9%, 85%);
-    }
-  }
-
-  .collapsible-content {
-    display: block; /* The content will appear on a new line when expanded */
-    padding: 1em;
-    border: 1px solid var(--light-border-color);
-    border-radius: 4px;
-    margin-top: 0.5em; /* Space between the inline summary and the content block */
-    background-color: var(--main-background-color);
-  }
-}
-
 .blog-listing-link {
   color: var(--main-text-color);
   text-decoration: none;
