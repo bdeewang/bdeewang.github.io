@@ -711,7 +711,7 @@ aside, .callout {
     text-decoration: none;
   }
 
-  &:hover {
+  &:visited:hover {
     background-color: #6C2927;
     border-color: #6C2927;
     color: #ffffff;
