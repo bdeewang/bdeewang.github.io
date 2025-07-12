@@ -675,13 +675,13 @@ aside, .callout {
   text-transform: uppercase;
   letter-spacing: .05em;
   font-weight: normal;
-  padding: 0 1em;
-  margin: 0 0 0 .5em;
+  padding: 0.2em 0.6em; /* Adjusted padding for a more compact inline feel */
+  margin: 0 0.25em; /* Adjusted margin */
   text-decoration: none;
   cursor: pointer;
-  display: inline-block;
-  height: calc(1.5 * var(--line-height));
-  line-height: calc(1.5 * var(--line-height)); /* Vertically centers text */
+  display: inline-block; /* Correct display for inline behavior with size */
+  line-height: 1.2; /* A more standard line-height for inline elements */
+  vertical-align: text-bottom; /* Aligns the button better with the text line */
 
   &:hover {
     background-color: #0a437a; /* A slightly darker blue for hover */
