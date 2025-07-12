@@ -24,12 +24,12 @@ permalink: /research
 <ol reversed style="margin-top: -1em;">
 <li> Ekedahl-Oort strata and the supersingular locus in the GU(q—2,2) Shimura variety<br>
     <small><em>with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair</em></small><br>
-    <a class="btn btn-ghost" href="https://arxiv.org/abs/2405.04464"><code> &nbsp;arXiv:2405.04464&nbsp;</code></a>
+    <a class="btn btn-filled" href="https://arxiv.org/abs/2405.04464"><code> &nbsp;arXiv:2405.04464&nbsp;</code></a>
 </li>
 
 <li> The Brauer Group of 𝒴₀(2)<br>
     <small><em>with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez</em></small><br>
-    <a class="btn btn-default" href="https://arxiv.org/abs/2311.18132"><code>&nbsp;arXiv:2311.18132&nbsp;</code></a>
+    <a class="btn btn-filled" href="https://arxiv.org/abs/2311.18132"><code>&nbsp;arXiv:2311.18132&nbsp;</code></a>
 </li>
 
 <li> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
