@@ -44,7 +44,7 @@ I am a participant and supporter of the <a href="https://sites.google.com/view/r
 
 <p style="margin-top:0.5em;">I have also organised a special session on Curves and Abelian Varieties in characteristic <em>p</em> at the AWM Research Symposium (2025).</p>
 
-<h3 style="color:#9DD49C; margin-bottom:-0.75em; margin-top: -0.1em;">Archive</h3>
+<h3 style="color:#9DD49C; margin-bottom:-0.75em; margin-top: 0.75em;">Archive</h3>
 View my outreach and service activities while at <b><a href="/ucsc-service">UC Santa Cruz&nbsp;→</a></b>.
 
 <!-- 
