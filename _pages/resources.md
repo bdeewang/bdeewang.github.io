@@ -7,7 +7,7 @@ custom-nav:
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
     <a href="/service" title="Service">Service</a>&nbsp;|
     <a href="/resources" title="Resources">Resources</a>
-permalink: /service
+permalink: /resources
 ---
 
 <!--Below are some selected activities, a complete list can be found <a href="/service-extended"><b>here</b></a>.-->
