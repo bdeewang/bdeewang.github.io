@@ -39,23 +39,8 @@ Secondary = Grey
     </div>
 </div>
 
+<h3 style="color:#8CCD8C">Archive</h3>
 View my outreach and service activities while at <b><a href="/ucsc-service">UC Santa Cruz&nbsp;→</a></b>.
-
-## UC Santa Cruz
-
-<div class="callout-quarto note">
-  <div class="callout-title">Directed Reading Program</div>
-    <div class="callout-body">
-<p>I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> - where we pair undergraduates with graduate students to work on a reading project - from Fall 2021, when I helped restart the program after a brief hiatus during the pandemic, to March 2025. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.</p>
-    </div>
-</div>
-
-<details class="callout-quarto note">
-    <summary class="callout-header">Association for Women in Mathematics</summary>
-    <div class="callout-body">
-<p>I helped co-found the <b><a href="sites.google.com/ucsc.edu/awm/">Association for Women in Mathematics (AWM) Chapter</a></b> with Jennier Guerrero in November 2020, and served as its president in AY 2022-23. I actively assisted in planning and organising all activities under the AWM.</p>
-    </div>
-</details>
 
 <!-- 
 
