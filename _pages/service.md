@@ -40,11 +40,11 @@ Secondary = Grey
 </div>
 
 <h3 style="color:#9DD49C; margin-bottom:-0.75em;">Wider Community</h3>
-I am a participant and supporter of the <a href="https://sites.google.com/view/rethinkingnumbertheory/">Rethinking Number Theory (RNT)</a> program. I served as the founding Graduate Student Mentor for <a href="https://sites.google.com/view/rethinkingnumbertheory-5/projects">RNT 5 (2024)</a>. I have also organised special sessions highlighting the work done at RNT at the AWM Research Symposium (2025, 2023) and the MAA MathFest (2024).<br>
+I am a participant and supporter of the <a href="https://sites.google.com/view/rethinkingnumbertheory/">Rethinking Number Theory (RNT)</a> program. I served as the founding Graduate Student Mentor for <a href="https://sites.google.com/view/rethinkingnumbertheory-5/projects">RNT 5 (2024)</a>. I have also organised special sessions highlighting the work done at RNT at the AWM Research Symposium (2025, 2023) and the MAA MathFest (2024).
 
-I have also organised a special sessions on Curves and Abelian Varieties in characteristic <em>p</em> at the AWM Research Symposium (2025).
+I have also organised a special session on Curves and Abelian Varieties in characteristic <em>p</em> at the AWM Research Symposium (2025).
 
-<h3 style="color:#9DD49C; margin-bottom:-0.75em; margin-top:0.5em;">Archive</h3>
+<h3 style="color:#9DD49C; margin-bottom:-0.75em;">Archive</h3>
 View my outreach and service activities while at <b><a href="/ucsc-service">UC Santa Cruz&nbsp;→</a></b>.
 
 <!-- 

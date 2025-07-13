@@ -28,8 +28,6 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-## UC Santa Cruz
-
 During my time in Santa Cruz, I attempted to engage with the broader community through the following activities.
 
 <details class="callout-quarto tip">
