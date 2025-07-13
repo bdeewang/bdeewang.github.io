@@ -642,30 +642,6 @@ aside, .callout {
 	color: var(--light-text-color);
 }
 
-/* Container for the columns */
-.container {
-  display: flex;
-  flex-direction: row; /* Side-by-side by default */
-  margin-top: -3.5em;
-}
-
-/* The fixed-width left column */
-.column-fixed {
-  width: 250px;
-  margin-right: 20px; /* Adds space between columns */
-}
-
-/* The flexible right column */
-.column-flexible {
-  flex: 1; /* Takes up the remaining space */
-}
-
-  .column-fixed {
-    width: 100%; /* Allows the column to take the full width */
-    margin-right: 0;
-  }
-}
-
 .btn-default {
   background-color: var(--box-background-color);
   border: 1px solid var(--light-border-color);
@@ -758,8 +734,8 @@ aside, .callout {
 }
 
 .btn-filledb {
-  background-color: #2B5C6A;
-  border: 1px solid #2B5C6A;
+  background-color: #367385;
+  border: 1px solid #367385;
   border-radius: 4px;
   color: #ffffff;
   font-family: $body-typeface;
@@ -771,15 +747,15 @@ aside, .callout {
   letter-spacing: .025em;
 
   &:hover {
-    background-color: #20454F;
-    border-color: #20454F;
+    background-color: #25505D;
+    border-color: #25505D;
     color: #ffffff;
     text-decoration: none;
   }
 
   &:visited:hover {
-    background-color: #20454F;
-    border-color: #20454F;
+    background-color: #25505D;
+    border-color: #25505D;
     color: #ffffff;
     text-decoration: none;
   }
