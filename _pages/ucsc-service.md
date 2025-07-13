@@ -74,12 +74,12 @@ I organised and assumed the following roles in service of supporting the mathema
     </div>
 </div>
 
-<details class="callout-quarto tip">
+<div class="callout-quarto tip">
     <summary class="callout-header">Association for Women in Mathematics</summary>
     <div class="callout-body">
 <p>I helped co-found the <b><a href="sites.google.com/ucsc.edu/awm/">Association for Women in Mathematics (AWM) Chapter</a></b> with Jennier Guerrero in November 2020, and served as its president in AY 2022-23.</p>
     </div>
-</details>
+</div>
 
 <details class="callout-quarto tip">
     <summary class="callout-header">Reading Groups & Seminars</summary>
