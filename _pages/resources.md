@@ -10,8 +10,6 @@ custom-nav:
 permalink: /service
 ---
 
-Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted considerable time to outreach and service activities. 
-
 <!--Below are some selected activities, a complete list can be found <a href="/service-extended"><b>here</b></a>.-->
 
 <!--
@@ -32,21 +30,26 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<div class="callout-quarto tip">
-  <div class="callout-title">Experiences in Mathematics</div>
+<div class="callout-quarto warning">
+  <div class="callout-title">UCSC Resources</div>
     <div class="callout-content">
-<p>I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> seminar series, since Spring 2024, where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the professional world as members of minoritised and underrepresented groups.</p>
+<p>to be updated</p>
     </div>
 </div>
 
-<h3 style="color:#9DD49C; margin-bottom:-0.75em;">Wider Community</h3>
-I am a participant and supporter of the <a href="https://sites.google.com/view/rethinkingnumbertheory/">Rethinking Number Theory (RNT)</a> program. I served as the founding Graduate Student Mentor for <a href="https://sites.google.com/view/rethinkingnumbertheory-5/projects">RNT 5 (2024)</a>. I have also organised special sessions highlighting the work done at RNT at the AWM Research Symposium (2025, 2023) and the MAA MathFest (2024).
+<div style="display: flex; flex-direction: row; margin-top:-3.5em">
 
-I have also organised a special session on Curves and Abelian Varieties in characteristic <em>p</em> at the AWM Research Symposium (2025).
+  <div style="width: 250px;">
+    <h3 style="color:#8cd2e7">Instructor of Record</h3>
+  </div>
 
-<h3 style="color:#9DD49C; margin-bottom:-0.75em;">Archive</h3>
-View my outreach and service activities while at <b><a href="/ucsc-service">UC Santa Cruz&nbsp;→</a></b>.
 
+  <div style="flex: 1;">
+    <h3>Carleton College</h3>
+    <ul style="margin-top: -1em;">
+    </ul>
+  </div>
+</div>
 <!-- 
 
 ### External
