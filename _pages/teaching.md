@@ -181,6 +181,25 @@ Secondary = Grey
 
 </ul>
 
+<h3 style="margin-top: 0.5em;">Pedagogical Development, UC Santa Cruz</h3>
+<ul style="margin-top: -1em;">
+
+<li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
+Teaching</b></a><br>
+    <small> Sep 2024, 2023</small></li>
+
+<li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics<br>
+    <small> Winter - Spring 2024</small></li>
+
+<li> <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
+    <em>Interdisciplinary Scholar,</em>, <small> Fall 2024 - Spring 2025</small><br>
+    <em>Foundations Scholar</em>, <small> Fall 2023 - Spring 2024</small></li>
+
+<li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a><br>
+    <small> Spring - Summer 2021</small></li>
+
+</ul>
+
 <h3 style="margin-top: 1.25em;">Tutor, Shiv Nadar University</h3>
 
 <ul style="margin-top: -1em;">

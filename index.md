@@ -24,7 +24,7 @@ Before coming to UC Santa Cruz, I received my M.S. in Mathematics from the [High
 
 I am an Instructor of Record over the summer for Precalculus (MATH 3) and Cryptography (MATH 134). I was awarded the [Chancellor’s Dissertation-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) for this academic year. I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro.
 
-If you're thinking of asking me for a letter of recommendation, I encourage you read to read [Letter Writing Information](/letters). 
+If you're thinking of asking me for a letter of recommendation, I encourage you to read [Letter Writing Information](/letters). 
 
 <!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 

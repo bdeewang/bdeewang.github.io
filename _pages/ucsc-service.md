@@ -1,17 +1,14 @@
 ---
-title: Service (Extended)
-description: "All service and outreach activities"
+title: UCSC Service
+description: "UCSC service and outreach activities"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
     <a href="/service" title="Service">Service</a>&nbsp;|
     <a href="/resources" title="Resources">Resources</a>
-permalink: /service-ext
+permalink: /ucsc-service
 ---
-
-<b>Currently being built</b>.
-
 
 <!--
 Tip/Green = Current
@@ -33,12 +30,7 @@ Secondary = Grey
 
 ## UC Santa Cruz
 
-<div class="callout-quarto tip">
-  <div class="callout-title">Experiences in Mathematics</div>
-    <div class="callout-content">
-<p>I am a co-organiser for <a href="https://sites.google.com/ucsc.edu/experiencesinmath/"><b>Experiences in Mathematics</b></a> seminar series, since Spring 2024, where we invite mathematicians, in the broadest sense of the word, to come and discuss their experiences navigating the professional world as members of minoritised and underrepresented groups.</p>
-    </div>
-</div>
+During my time in Santa Cruz, I attempted to engage with the broader community through the following activities.
 
 <details class="callout-quarto tip">
     <summary class="callout-header">Project for Inmate Education</summary>
@@ -46,6 +38,20 @@ Secondary = Grey
 <p>I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> since July 2023. We teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at the Santa Cruz Main Jail.</p>
     </div>
 </details>
+
+<details class="callout-quarto tip">
+    <summary class="callout-header">Math Circles</summary>
+    <div class="callout-body">
+<ul style="line-height:180%">
+
+<li> I was an active instructor with the <a href="https://www.xacademy.org/math"><b>Math Student Circle</b></a> in Santa Cruz, held at Cabrillo College. I lead activities on <em>Cryptography</em>, <em>Eulerian Circuits</em> and the <em>Four Colour Theorem</em>.</li>
+
+<li> I was an active participant of the <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle</b></a> at Santa Cruz, where I lead sessions on <em>Gerrymandering</em>.</li>
+</ul>
+</div>
+</details>
+
+I organised and assumed the following roles in service of supporting the mathematics community at UCSC.
 
 <details class="callout-quarto tip">
     <summary class="callout-header">Head TA</summary>
@@ -61,21 +67,21 @@ Secondary = Grey
     </div>
 </details>
 
-<div class="callout-quarto note">
+<div class="callout-quarto tip">
   <div class="callout-title">Directed Reading Program</div>
     <div class="callout-body">
 <p>I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> - where we pair undergraduates with graduate students to work on a reading project - from Fall 2021, when I helped restart the program after a brief hiatus during the pandemic, to March 2025. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.</p>
     </div>
 </div>
 
-<details class="callout-quarto note">
+<details class="callout-quarto tip">
     <summary class="callout-header">Association for Women in Mathematics</summary>
     <div class="callout-body">
 <p>I helped co-found the <b><a href="sites.google.com/ucsc.edu/awm/">Association for Women in Mathematics (AWM) Chapter</a></b> with Jennier Guerrero in November 2020, and served as its president in AY 2022-23.</p>
     </div>
 </details>
 
-<details class="callout-quarto important">
+<details class="callout-quarto tip">
     <summary class="callout-header">Reading Groups & Seminars</summary>
     <div class="callout-body">
 <ul style="line-height:180%">
@@ -126,7 +132,7 @@ Secondary = Grey
 </div>
 </details>
 
-<details class="callout-quarto secondary">
+<details class="callout-quarto tip">
     <summary class="callout-header">Other Departmental Service</summary>
     <div class="callout-body">
 <ul style="line-height:180%">
@@ -138,34 +144,6 @@ Secondary = Grey
 <li> I served as one of the founding Graduate Student representative on the <b>Mathematics Department DEI Committee</b> from Fall 2020 - Spring 2022.</li>
 
 <li> During COVID, I hosted and lead the Mathematics Department GSI Support sessions to create a space for peer support amongst the Graduate Student Instructors, from Feb - Aug 2021.</li>
-
-</ul>
-</div>
-</details>
-
-<details class="callout-quarto important">
-    <summary class="callout-header">Pedagogy Related</summary>
-    <div class="callout-body">
-<ul style="line-height:180%">
-
-<li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
-Teaching</b></a><br>
-    <small> Sep 2024, 2023</small></li>
-
-<li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics<br>
-    <small> Winter - Spring 2024</small></li>
-
-<li> <em>Session Leader</em>, <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a><br>
-    <small> Mar 2024</small></li>
-
-<li> <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
-    <em>Interdisciplinary Scholar,</em>, <small> Fall 2023 - Spring 2024</small><br>
-    <em>Foundations Scholar</em>, <small> Fall 2023 - Spring 2024</small></li>
-
-<li> <em>Graduate Student Researcher</em>, <b>Redisigning Calculus in the Life Sciences</b>, <small> Summer 2023, 2021</small></li>
-
-<li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a><br>
-    <small> Spring - Summer 2021</small></li>
 
 </ul>
 </div>

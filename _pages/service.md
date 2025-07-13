@@ -39,14 +39,9 @@ Secondary = Grey
     </div>
 </div>
 
-## UC Santa Cruz
+View my outreach and service activities while at <b><a href="/ucsc-service">UC Santa Cruz&nbsp;→</a></b>.
 
-<details class="callout-quarto tip">
-    <summary class="callout-header">Project for Inmate Education</summary>
-    <div class="callout-body">
-<p>I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> since July 2023. We teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at the Santa Cruz Main Jail.</p>
-    </div>
-</details>
+## UC Santa Cruz
 
 <div class="callout-quarto note">
   <div class="callout-title">Directed Reading Program</div>
@@ -61,44 +56,6 @@ Secondary = Grey
 <p>I helped co-found the <b><a href="sites.google.com/ucsc.edu/awm/">Association for Women in Mathematics (AWM) Chapter</a></b> with Jennier Guerrero in November 2020, and served as its president in AY 2022-23. I actively assisted in planning and organising all activities under the AWM.</p>
     </div>
 </details>
-
-<details class="callout-quarto note">
-    <summary class="callout-header">Math Circles</summary>
-    <div class="callout-body">
-<ul style="line-height:180%">
-
-<li> I have been an active instructor with the <a href="https://www.xacademy.org/math"><b>Math Student Circle</b></a> in Santa Cruz, which is held at Cabrillo College. I lead activities on <em>Cryptography</em>, <em>Eulerian Circuits</em> and the <em>Four Colour Theorem</em>.</li>
-
-<li> I am an active participant of the <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle</b></a> at Santa Cruz, where I lead a session on <em>Gerrymandering</em>.</li>
-</ul>
-</div>
-</details>
-
-<details class="callout-quarto important">
-    <summary class="callout-header">Pedagogy Related</summary>
-    <div class="callout-body">
-
-<ul style="line-height:180%">
-
-<li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
-Teaching</b></a><br>
-    <small> Sep 2024, 2023</small></li>
-
-<li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics<br>
-    <small> Winter - Spring 2024</small></li>
-
-<li> <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
-    <em>Interdisciplinary Scholar,</em>, <small> Fall 2024 - Spring 2025</small><br>
-    <em>Foundations Scholar</em>, <small> Fall 2023 - Spring 2024</small></li>
-
-<li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a><br>
-    <small> Spring - Summer 2021</small></li>
-
-</ul>
-</div>
-</details>
-
-View my outreach and service activities while at <b><a href="/ucsc-service">UC Santa Cruz&nbsp;→</a></b>.
 
 <!-- 
 
