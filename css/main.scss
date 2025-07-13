@@ -642,6 +642,36 @@ aside, .callout {
 	color: var(--light-text-color);
 }
 
+/* Container for the columns */
+.container {
+  display: flex;
+  flex-direction: row; /* Side-by-side by default */
+  margin-top: -3.5em;
+}
+
+/* The fixed-width left column */
+.column-fixed {
+  width: 250px;
+  margin-right: 20px; /* Adds space between columns */
+}
+
+/* The flexible right column */
+.column-flexible {
+  flex: 1; /* Takes up the remaining space */
+}
+
+/* --- Media Query for Small Screens --- */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Stacks the columns vertically */
+  }
+
+  .column-fixed {
+    width: 100%; /* Allows the column to take the full width */
+    margin-right: 0;
+  }
+}
+
 .btn-default {
   background-color: var(--box-background-color);
   border: 1px solid var(--light-border-color);

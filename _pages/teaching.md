@@ -37,11 +37,11 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<div style="display: flex; flex-direction: row; margin-top:-3.5em">
-  <div style="width: 250px;">
+<div class="container" style="margin-top:-3.5em">
+  <div class="column-fixed" style="width: 250px;">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
-  <div style="flex: 1;">
+  <div class="column-flexible" style="flex: 1;">
     <h3>Carleton College</h3>
 <ul style="margin-top: -1em;">
 
