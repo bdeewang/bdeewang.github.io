@@ -37,11 +37,11 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<div class="container" style="margin-top:-3.5em">
-  <div class="column-fixed" style="width: 250px;">
+<div class="container">
+  <div class="column-fixed">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
-  <div class="column-flexible" style="flex: 1;">
+  <div class="column-flexible">
     <h3>Carleton College</h3>
 <ul style="margin-top: -1em;">
 
@@ -73,17 +73,17 @@ Secondary = Grey
 
 <li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023, Fall 2020</small>
     <p style="margin-bottom: -1.25em;"></p>
-    <a class="btn btn-filledb" href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link">&nbsp;Lecture Notes&nbsp;</a>
+    <a class="btn btn-filledb" href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link">&nbsp;Lecture Notes (X23)&nbsp;</a>
 </li>
 
 <li> MATH 103A <b>Complex Analysis</b>, <small>Spring 2023, Spring 2022</small>
     <p style="margin-bottom: -1.25em;"></p>
-    <a class="btn btn-filledb" href="https://drive.google.com/file/d/1tu_HkQRio1RMExTzfMlsHvJLZF5R8cXM/view?usp=drive_link">&nbsp;Lecture Notes&nbsp;</a>
+    <a class="btn btn-filledb" href="https://drive.google.com/file/d/1tu_HkQRio1RMExTzfMlsHvJLZF5R8cXM/view?usp=drive_link">&nbsp;Lecture Notes (S23)&nbsp;</a>
 </li>
 
 <li> MATH 110 <b>Introduction to Number Theory</b>, <small>Fall 2021, Summer 2021</small>
     <p style="margin-bottom: -1.25em;"></p>
-    <a class="btn btn-filledb" href="https://drive.google.com/file/d/17i_EQ1ncWpEZj6n9H1-J6MEkOrg8rHbt/view?usp=drive_link">&nbsp;Lecture Notes&nbsp;</a>
+    <a class="btn btn-filledb" href="https://drive.google.com/file/d/17i_EQ1ncWpEZj6n9H1-J6MEkOrg8rHbt/view?usp=drive_link">&nbsp;Lecture Notes (F21)&nbsp;</a>
 </li>
 
 </ul>
