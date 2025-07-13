@@ -68,8 +68,7 @@ Secondary = Grey
 <li> MATH 181 <b>History of Mathematics</b>, <small>Summer 2024</small></li>
 
 <li> MATH 100 <b>Introduction to Proof</b>, <small>Winter 2024, Summer 2020</small><br>
-<a class="btn btn-filledb" href="https://drive.google.com/file/d/1tqiPmwgJM5W30Qv5SPdQlHtXQ5JrbrvM/view?usp=sharing">&nbsp;Lecture Notes (W24)&nbsp;</a>
-<a class="btn btn-filledb" href="https://drive.google.com/file/d/1wO8R17nlPOVqxrAENGtnsi0TLw29PFt7/view?usp=drive_link">&nbsp;Lecture notes (X20)&nbsp;</a></li>
+<a class="btn btn-filledb" href="https://drive.google.com/file/d/1tqiPmwgJM5W30Qv5SPdQlHtXQ5JrbrvM/view?usp=sharing">&nbsp;Lecture Notes (W24)&nbsp;</a>&nbsp;&nbsp;<a class="btn btn-filledb" href="https://drive.google.com/file/d/1wO8R17nlPOVqxrAENGtnsi0TLw29PFt7/view?usp=drive_link">&nbsp;Lecture notes (X20)&nbsp;</a></li>
 
 <li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023, Fall 2020</small><br>
 <a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
