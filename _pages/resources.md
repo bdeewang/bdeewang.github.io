@@ -40,15 +40,15 @@ Secondary = Grey
 <div style="display: flex; flex-direction: row; margin-top:-3.5em">
 
   <div style="width: 350px;">
-    <h3 style="color:#F4C583">Blogs & Articles</h3>
-    <h3 style="color:#F4C583">Math Online</h3>
-    <h3 style="color:#F4C583">Forums</h3>
+    <h3 style="color:#F6CD94">Blogs & Articles</h3>
+    <h3 style="color:#F6CD94">Math Online</h3>
+    <h3 style="color:#F6CD94">Forums</h3>
   </div>
 
 
   <div style="flex: 1;">
-    <h3 style="color:#F4C583">Mathematicians</h3>
-    <h3 style="color:#F4C583">LaTeX</h3>
+    <h3 style="color:#F6CD94">Mathematicians</h3>
+    <h3 style="color:#F6CD94">LaTeX</h3>
     <ul style="margin-top: -1em;">
     </ul>
   </div>
