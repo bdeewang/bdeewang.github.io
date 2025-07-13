@@ -660,12 +660,6 @@ aside, .callout {
   flex: 1; /* Takes up the remaining space */
 }
 
-/* --- Media Query for Small Screens --- */
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column; /* Stacks the columns vertically */
-  }
-
   .column-fixed {
     width: 100%; /* Allows the column to take the full width */
     margin-right: 0;
