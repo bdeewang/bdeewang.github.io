@@ -31,7 +31,7 @@ Secondary = Grey
 -->
 
 <div class="callout-quarto warning">
-  <div class="callout-title">UCSC Resources</div>
+  <div class="callout-title">Carleton Resources</div>
     <div class="callout-content">
 <p>to be updated</p>
     </div>
@@ -39,13 +39,16 @@ Secondary = Grey
 
 <div style="display: flex; flex-direction: row; margin-top:-3.5em">
 
-  <div style="width: 250px;">
-    <h3 style="color:#8cd2e7">Instructor of Record</h3>
+  <div style="width: 350px;">
+    <h3 style="color:#F4C583">Blogs & Articles</h3>
+    <h3 style="color:#F4C583">Math Online</h3>
+    <h3 style="color:#F4C583">Forums</h3>
   </div>
 
 
   <div style="flex: 1;">
-    <h3>Carleton College</h3>
+    <h3 style="color:#F4C583">Mathematicians</h3>
+    <h3 style="color:#F4C583">LaTeX</h3>
     <ul style="margin-top: -1em;">
     </ul>
   </div>
