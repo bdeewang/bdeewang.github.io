@@ -181,7 +181,7 @@ Secondary = Grey
 
 </ul>
 
-<h3 style="margin-top: 0.5em;">Pedagogical Development, UC Santa Cruz</h3>
+<h3 style="margin-top: 1.25em;">Pedagogical Development, UC Santa Cruz</h3>
 <ul style="margin-top: -1em;">
 
 <li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
