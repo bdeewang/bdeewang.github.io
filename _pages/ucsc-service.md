@@ -59,7 +59,7 @@ I organised and assumed the following roles in service of supporting the mathema
 </details>
 
 <details class="callout-quarto tip">
-    <summary class="callout-header">Math Dept Peer Support Program</summary>
+    <summary class="callout-header">Peer Support Program</summary>
     <div class="callout-body">
 <p>I've been co-organising the Math Department <b>Peer Support Program</b> since August 2021 where we support first-year graduate students in navigating the department and program milestones.</p>
     </div>
