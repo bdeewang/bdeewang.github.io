@@ -734,6 +734,34 @@ aside, .callout {
   }
 }
 
+.btn-filledb {
+  background-color: #3F869B;
+  border: 1px solid #3F869B;
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: $body-typeface;
+  font-size: var(--small-font-size);
+  font-weight: normal;
+  margin: 0.25 0 0 0;
+  padding: 0.2 0.5em;
+  text-decoration: none;
+  letter-spacing: .025em;
+
+  &:hover {
+    background-color: #2D606F;
+    border-color: #2D606F;
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+  &:visited:hover {
+    background-color: #2D606F;
+    border-color: #2D606F;
+    color: #ffffff;
+    text-decoration: none;
+  }
+}
+
 .small-caps { 
   letter-spacing: .07em;
 }
