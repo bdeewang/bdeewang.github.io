@@ -39,7 +39,7 @@ Secondary = Grey
     </div>
 </div>
 
-<h3 style="color:#8CCD8C">Archive</h3>
+<h3 style="color:#9DD49C; margin-bottom:-0.25em;">Archive</h3>
 View my outreach and service activities while at <b><a href="/ucsc-service">UC Santa Cruz&nbsp;→</a></b>.
 
 <!-- 

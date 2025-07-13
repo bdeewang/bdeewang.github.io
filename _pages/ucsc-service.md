@@ -68,7 +68,7 @@ I organised and assumed the following roles in service of supporting the mathema
 </details>
 
 <div class="callout-quarto tip">
-  <div class="callout-title">Directed Reading Program</div>
+  <div class="callout-header">Directed Reading Program</div>
     <div class="callout-body">
 <p>I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> - where we pair undergraduates with graduate students to work on a reading project - from Fall 2021, when I helped restart the program after a brief hiatus during the pandemic, to March 2025. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.</p>
     </div>
