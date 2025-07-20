@@ -34,7 +34,7 @@ permalink: /teaching/ucsc/cryptography
   <p>Tokyo is the capital of Japan.</p>
 </div>
 
-<div class="callout-quarto note">
+<div class="callout-quarto info">
   <div class="callout-title">Summer 2025</div>
   <div class="callout-content">
     <p>I am currently teaching Precalculus (MATH 3) <b style="color:#8cd2e7">★</b>, during the first summer session.</p>
