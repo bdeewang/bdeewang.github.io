@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: UCSC/MATH 134
 description: "Teaching Experience"
 nav: custom
 custom-nav: 
@@ -7,8 +7,10 @@ custom-nav:
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
     <a href="/service" title="Service">Service</a>&nbsp;|
     <a href="/resources" title="Resources">Resources</a>
-permalink: /teaching
+permalink: /teaching/ucsc/cryptography
 ---
+
+<h2>MATH 134: Cryptography</h2>
 
 <div class="callout-quarto note">
   <div class="callout-title">Summer 2025</div>
@@ -59,9 +61,7 @@ Secondary = Grey
 
 <ul style="margin-top: -1em;">
 
-<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small>
-    <p style="margin-bottom: -1.25em;"></p>
-    <a class="btn btn-filledb" href="/teaching/ucsc/cryptography">&nbsp;&nbsp;Course Syllabus&nbsp;&nbsp;</a></li>
+<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small></li>
 
 <li> MATH 3 <b>Precalculus</b>, <small>Summer 2025, Summer 2020</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
 
