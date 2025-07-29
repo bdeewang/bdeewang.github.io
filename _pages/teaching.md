@@ -59,11 +59,9 @@ Secondary = Grey
 
 <ul style="margin-top: -1em;">
 
-<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small>
-    <p style="margin-bottom: -1.25em;"></p>
-    <a class="btn btn-filledb" href="/teaching/ucsc/cryptography">&nbsp;&nbsp;Course Syllabus&nbsp;&nbsp;</a></li>
+<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
 
-<li> MATH 3 <b>Precalculus</b>, <small>Summer 2025, Summer 2020</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
+<li> MATH 3 <b>Precalculus</b>, <small>Summer 2025, Summer 2020</small></li>
 
 <li> MATH 11B <b>Calculus with Applications</b>, <small>Summer 2024, Summer 2022</small></li>
 
