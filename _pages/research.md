@@ -22,8 +22,14 @@ permalink: /research
 <h3 style="color:#e89795">Articles</h3>
 
 <ol reversed style="margin-top: -1em;">
+<li> Traverso's Isogeny Conjecture for Some Unitary <em>p</em>-Divisible Groups<br>
+    <small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
+    <p style="margin-bottom: -1.25em;"></p>
+    <a class="btn btn-filled" href="https://arxiv.org/abs/2507.19708"><code> &nbsp;arXiv:2507.19708&nbsp;</code></a>
+</li>
+
 <li> Ekedahl-Oort strata and the supersingular locus in the GU(q — 2, 2) Shimura variety<br>
-    <small><em>with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair</em></small>
+    <small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
     <p style="margin-bottom: -1.25em;"></p>
     <a class="btn btn-filled" href="https://arxiv.org/abs/2405.04464"><code> &nbsp;arXiv:2405.04464&nbsp;</code></a>
 </li>
