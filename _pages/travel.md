@@ -10,9 +10,17 @@ custom-nav:
 permalink: /travel
 ---
 
-<!-- ### UC Santa Cruz -->
+<h2 style="color:#e89795">2025-26</h2>
 
-<h2 style="color:#e89795">2024-25</h2>
+<!-- 
+<ul style="margin-top: -1em;">
+
+<li style="font-size:17px"> </li>
+
+</ul>-->
+
+<details>
+    <summary><b>2024-25</b></summary>
 
 <ul style="margin-top: -1em;">
 
@@ -51,6 +59,7 @@ permalink: /travel
 <li style="font-size:17px"> (Sep 11) Seminar talk at IIT Hyderabad, India</li>
 
 </ul>
+</details>
 
 <details>
     <summary><b>2023-24</b></summary>
