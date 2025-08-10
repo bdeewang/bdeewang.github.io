@@ -189,9 +189,10 @@ Teaching</b></a>, <small> Sep 2024, 2023</small></li>
 
 <li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics, <small> Winter - Spring 2024</small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
-    <em>Interdisciplinary Scholar,</em>, <small> Fall 2024 - Spring 2025</small><br>
-    <em>Foundations Scholar</em>, <small> Fall 2023 - Spring 2024</small></li>
+<li> <b><a href="https://sites.google.com/ucsc.edu/edgedsprogram/">Educational Group for Enrichment in Data Science</a>(edge-DS)</b><br>
+    Participant, <em><a href="https://sites.google.com/ucsc.edu/edgedsprogram/integration-program">Integration Program</a></em>, <small> Summer 2025</small><br>
+    <em><a href="https://sites.google.com/ucsc.edu/edgedsprogram/interdisciplinary-fellows">Interdisciplinary Scholar</a></em>, <small> Fall 2024 - Spring 2025</small><br>
+    <em><a href="https://sites.google.com/ucsc.edu/edgedsprogram/foundation-scholars">Foundations Scholar</a></em>, <small> Fall 2023 - Spring 2024</small></li>
 
 <li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a>, <small> Spring - Summer 2021</small></li>
 
