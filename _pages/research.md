@@ -71,28 +71,14 @@ permalink: /research
 
 <li> Redesigning the Calculus for Life Sciences Courses at UC Santa Cruz <small><em>(with Sophie Aiken, Malachi Alexander, Jennifer Guerrero, Ryan Pugh, David Rubinstein, and Nandini Bhattacharya and Pedro Morales-Almazan)</em></small></li>
 
-<!-- <li> A \(p\)-adic analytic Brauer Group <small><em>(with Martin Weissman)</em></small></li> -->
-
 </ul>
-
-<!-- --------------------------------------------------- --
-<h3 style="color:#c783c4">In Preparation</h3>
-<ul style="line-height:180%">
-
-<li> </li>
-
-<li> A \(p\)-adic analytic Brauer Group <small><em>(with Martin Weissman)</em></small></li>
-
-</ul>
-
--->
 
 <!-- ### Theses -->
 <h3 style="color:#e89795">Theses</h3>
 <ul style="margin-top: -1em;">
 
-<!--<li> <a href="https://www.hse.ru/en/edu/vkr/296285338">A <em>p</em>-adic analytic Brauer group</a><br>
-<small>PhD Thesis, UC Santa Cruz</small></li>-->
+<li> A <em>p</em>-adic analytic Brauer group<br>
+<small>PhD Thesis, UC Santa Cruz</small></li>
 
 <li> <a href="https://www.hse.ru/en/edu/vkr/296285338">Motivic Integrals of Orbifolds</a><br>
 <small>Master's Thesis, Higher School of Economics</small></li>
