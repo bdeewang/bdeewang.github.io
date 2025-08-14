@@ -77,7 +77,7 @@ permalink: /research
 <h3 style="color:#e89795">Theses</h3>
 <ul style="margin-top: -1em;">
 
-<li> A <em>p</em>-adic analytic Brauer group<br>
+<li> A <em>p</em>-adic Analytic Brauer group<br>
 <small>PhD Thesis, UC Santa Cruz</small></li>
 
 <li> <a href="https://www.hse.ru/en/edu/vkr/296285338">Motivic Integrals of Orbifolds</a><br>
