@@ -7,7 +7,11 @@ index: true
 
 {% include about-picture-img.html %}
 
-Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/). My research interests lie in arithmetic geometry and algebraic number theory. In particular, I am interested in curves and abelian varieties in characteristic <em>p</em> and their moduli spaces <a href="https://arxiv.org/a/bhamidipati_d_1.html">(arXiv)</a>. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community.
+Hello! I am a Visiting Assistant Professor in mathematics at [Carleton College](https://www.carleton.edu/math/). My first name is pronounced as *dee-waang*.
+
+My research interests lie in arithmetic geometry and algebraic number theory. In particular, I am interested in curves and abelian varieties in characteristic <em>p</em> and their moduli spaces <a href="https://arxiv.org/a/bhamidipati_d_1.html">(arXiv)</a>. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community.
+
+Before coming to Carleton, I received my Ph.D. in Mathematics from [UC Santa Cruz](https://www.math.ucsc.edu/index.html) in California under [Martin Weissman](http://martyweissman.com/). I received my M.S. in Mathematics from the [Higher School of Economics](https://math.hse.ru/en/) in Moscow, where I wrote my [master's thesis](https://www.hse.ru/en/edu/vkr/296285338) under [Vadim Vologodsky](https://www.hse.ru/en/org/persons/160474191); and I received my B.S. in Mathematics, with a specialization in applied algebra, from [Shiv Nadar University](https://math.snu.edu.in/) in India.
 
 <!--<a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 <div class="tag-list copy-buttons">
@@ -17,12 +21,10 @@ Hey! I'm a 6th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a> 
 <code class="highlighter-rouge" style="color:#ffffbf"><b>I am on the job market in AY 2024-25!</b></code>-->
 
-Before coming to UC Santa Cruz, I received my M.S. in Mathematics from the [Higher School of Economics](https://math.hse.ru/en/) in Moscow, where I wrote my [master's thesis](https://www.hse.ru/en/edu/vkr/296285338) under [Vadim Vologodsky](https://www.hse.ru/en/org/persons/160474191); and I received my B.S. in Mathematics, with a specialization in applied algebra, from [Shiv Nadar University](https://math.snu.edu.in/) in India.
-
 <!--
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>-->
 
-I am an Instructor of Record over the summer for Precalculus (MATH 3) and Cryptography (MATH 134). I was awarded the [Chancellor’s Dissertation-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) for this academic year. I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro.
+I am a co-organiser of the [Experiences in Mathematics](https://sites.google.com/ucsc.edu/experiencesinmath/) Series with Jennifer Guerrero and Nariel Monteiro.
 
 If you're thinking of asking me for a letter of recommendation, I encourage you to read [Letter Writing Information](/letters). 
 
