@@ -33,7 +33,7 @@ During my time in Santa Cruz, I attempted to engage with the broader community t
 <details class="callout-quarto tip">
     <summary class="callout-header">Project for Inmate Education</summary>
     <div class="callout-body">
-<p>I serve as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> since July 2023. We teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at the Santa Cruz Main Jail.</p>
+<p>I served as a co-director for the <a href="https://www.physics.ucsc.edu/news-events/community-programs/index.html#:~:text=Project%20for%20Inmate%20Education%20Program%20(PIE)"><b>Project for Inmate Education (PIE)</b></a> from July 2023 to August 2025. At PIE, we teach incarcerated persons courses on Pre-algebra, College algebra and Introduction to Astronomy at the Santa Cruz Main Jail.</p>
     </div>
 </details>
 
@@ -54,21 +54,21 @@ I organised and assumed the following roles in service of supporting the mathema
 <details class="callout-quarto tip">
     <summary class="callout-header">Head TA</summary>
     <div class="callout-body">
-<p>Since July 2022, I have served as a <b>Head TA</b> (now <em>Teaching support and Administrative Coordinator</em>) in the Mathematics Department, where we assist the department in supporting Graduate Teaching Assistants.</p>
+<p>From July 2022 to June 2025, I served as a <b>Head TA</b> (now <em>Teaching support and Administrative Coordinator</em>) in the Mathematics Department, where we assisted the department in supporting Graduate Teaching Assistants.</p>
     </div>
 </details>
 
 <details class="callout-quarto tip">
     <summary class="callout-header">Peer Support Program</summary>
     <div class="callout-body">
-<p>I've been co-organising the Math Department <b>Peer Support Program</b> since August 2021 where we support first-year graduate students in navigating the department and program milestones.</p>
+<p>I helped co-found and co-organised the Math Department <b>Peer Support Program</b> since August 2021 until June 2025. The program supports first-year graduate students in navigating the department and program milestones.</p>
     </div>
 </details>
 
 <details class="callout-quarto tip">
-  <summary class="callout-header">Directed Reading Program</summary>
+  <summary class="callout-header">Directed Reading Program (<a href="\drp">mentee topics</a>)</summary>
     <div class="callout-body">
-<p>I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> - where we pair undergraduates with graduate students to work on a reading project - from Fall 2021, when I helped restart the program after a brief hiatus during the pandemic, to March 2025. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>.</p>
+<p>I was an organiser of the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a> - where we pair undergraduates with graduate students to work on a reading project - from Fall 2021, when I helped restart the program after a brief hiatus during the pandemic, to March 2025. I have participated as a mentor myself several times, and you can <a href="\drp">view the interesting topics my mentees and I have worked on here</a>. You will also find my mentees and the topics they worked on from my time with <a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>, an online program inspired by DRP.</p>
     </div>
 </details>
 
@@ -99,6 +99,10 @@ I organised and assumed the following roles in service of supporting the mathema
 </ul>
 
 <ul style="line-height:150%">
+
+<li> <em>p</em>-adic Hodge Theory &#9733;, <small>Fall 2024</small></li>
+
+<li> Tropical Geometry &#9733;, <small>Spring 2024</small></li>
 
 <li> Abelian Varieties over Finite Fields &#9733;, <small>Fall 2023</small></li>
 
