@@ -10,7 +10,8 @@ custom-nav:
 permalink: /letters
 ---
 
-If you are requesting a letter of recommendation for a graduate program from me because I've been your instructor in the past, I should mention that it will be better for your application if faculty members write your main three letters of recommendation. I am currently a graduate student, and having a graduate student write a letter of recommendation may carry less weight and may contribute to your application not being the strongest. I am happy to be a fourth/fifth letter writer if the school allows more letters. <em> But if you don't have enough faculty members to turn to, I am happy to be one of the three letter writers.</em><br>
+<!--
+If you are requesting a letter of recommendation for a graduate program from me because I've been your instructor in the past, I should mention that it will be better for your application if faculty members write your main three letters of recommendation. I am currently a graduate student, and having a graduate student write a letter of recommendation may carry less weight and may contribute to your application not being the strongest. I am happy to be a fourth/fifth letter writer if the school allows more letters. <em> But if you don't have enough faculty members to turn to, I am happy to be one of the three letter writers.</em><br>-->
 
 Below is a list of things I strongly prefer having when I write a letter; not everything may be relevant for you!
 <ul>
