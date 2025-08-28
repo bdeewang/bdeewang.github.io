@@ -29,11 +29,11 @@ I leave it up to the applicant to make sure that I don't miss the deadline (some
 
 Finally, on the application page, please use the following for my personal information.<br>
 <b>Name:</b> Deewang Bhamidipati<br>
-<b>Affiliation:</b> University of California, Santa Cruz<br>
+<b>Affiliation:</b> Carleton College<br>
 <b>Department:</b> Mathematics<br>
-<b>Position/title:</b> Graduate Student<br>
-<b>Phone:</b> (831) 459-2400<br>
-<b>Email:</b> dbhamidi@ucsc.edu<br>
-<b>Address:</b> 1156 High Street, Santa Cruz, CA 95064<br>
+<b>Position/title:</b> Visiting Assistant Professor<br>
+<b>Phone:</b> 507-222-4578<br>
+<b>Email:</b> bdeewang@carleton.edu<br>
+<b>Address:</b> One North College St., Northfield, MN 55057<br>
 
 Information on this page is <em>heavily</em> inspired by <a href="https://dmzb.github.io/">DZB's</a> <a href="https://dmzb.github.io/recommendations.html">letter of recommendation information</a> page (that is, at the moment, it does not differ from his information at all).
