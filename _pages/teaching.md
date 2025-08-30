@@ -13,7 +13,7 @@ permalink: /teaching
 <div class="callout-quarto note">
   <div class="callout-title">Summer 2025</div>
   <div class="callout-content">
-    <p>I am currently teaching Cryptography (MATH 134) <b style="color:#8cd2e7">★</b>, during the second summer session.</p>
+    <p>I am currently teaching two sections of Calculus 1 (MATH 111) <b style="color:#8cd2e7">★</b>.</p>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ Secondary = Grey
 
 <li> MATH 282 <b>Number Theory</b>, <small>Winter 2026</small></li>
 
-<li> MATH 111 <b>Introduction to Calculus</b>, <small>Winter 2026, Fall 2025</small></li>
+<li> MATH 111 <b>Introduction to Calculus</b>, <small>Winter 2026, Fall 2025</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
 
 </ul>
 
@@ -59,7 +59,7 @@ Secondary = Grey
 
 <ul style="margin-top: -1em;">
 
-<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
+<li> MATH 134 <b>Cryptography</b>, <small>Summer 2025</small></li>
 
 <li> MATH 3 <b>Precalculus</b>, <small>Summer 2025, Summer 2020</small></li>
 
