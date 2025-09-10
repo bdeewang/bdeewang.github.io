@@ -13,23 +13,7 @@ permalink: /teaching
 <div class="callout-quarto note">
   <div class="callout-title">Summer 2025</div>
   <div class="callout-content">
-    <p>I am currently teaching two sections of Calculus 1 (MATH 111) <b style="color:#8cd2e7">★</b>.<br>
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2yJnYnTvEqCPtB1ZPju1PtAKcJ3PFzKv-vk-6-trm2rNWLR8KUzzGMlyqr92-m9GG5eaGmfP8d?gv=true',
-      color: '#039BE5',
-      label: 'Book an appointment',
-      target,
-    });
-  });
-})();
-</script>
-    </p>
+    <p>I am currently teaching two sections of Calculus 1 (MATH 111) <b style="color:#8cd2e7">★</b>. </p>
   </div>
 </div>
 
