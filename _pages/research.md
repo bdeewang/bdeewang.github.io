@@ -31,7 +31,7 @@ permalink: /research
 <li> The Ekedahl-Oort and Newton stratification of the GU(3,2) Shimura variety<br>
     <small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
     <p style="margin-bottom: -1.25em;"></p>
-    (in preparation)
+    <a class="btn btn-filled" href="https://arxiv.org/abs/2510.01090"><code> &nbsp;arXiv:2510.01090&nbsp;</code></a>
 </li>
 
 <li> Traverso's Isogeny Conjecture for Some Unitary <em>p</em>-Divisible Groups<br>
