@@ -59,14 +59,13 @@ Secondary = Grey
     
     .instructor-label {
       width: 100%;
-      margin-bottom: 1em;
     }
   }
 </style>
 
 <div class="instructor-section">
   <div class="instructor-label">
-    <h3 style="color:#8cd2e7 margin-bottom: -1.5em;">Instructor of Record</h3>
+    <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
 <div class="instructor-content">
     <h3>Carleton College</h3>
