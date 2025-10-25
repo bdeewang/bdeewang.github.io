@@ -37,7 +37,7 @@ Danger = Dark Red
 Secondary = Grey
 -->
 
-<div style="display: flex; flex-direction: row; margin-top:-3.5em">
+<div style="display: flex; flex-wrap: wrap; margin-top:-3.5em">
   <div style="width: 250px;">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
