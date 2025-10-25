@@ -36,12 +36,39 @@ Success = Dark Green
 Danger = Dark Red
 Secondary = Grey
 -->
+<style>
+  .instructor-section {
+    display: flex;
+    flex-direction: row;
+    margin-top: -3.5em;
+  }
+  
+  .instructor-label {
+    width: 250px;
+  }
+  
+  .instructor-content {
+    flex: 1;
+  }
+  
+  /* Stack vertically on screens smaller than 768px */
+  @media (max-width: 768px) {
+    .instructor-section {
+      flex-direction: column;
+    }
+    
+    .instructor-label {
+      width: 100%;
+      margin-bottom: 1em;
+    }
+  }
+</style>
 
-<div style="display: flex; flex-wrap: wrap; margin-top:-3.5em">
-  <div style="width: 250px;">
+<div class="instructor-section">
+  <div class="instructor-label">
     <h3 style="color:#8cd2e7">Instructor of Record</h3>
   </div>
-  <div style="flex: 1;">
+<div class="instructor-content">
     <h3>Carleton College</h3>
 <ul style="margin-top: -1em;">
 
