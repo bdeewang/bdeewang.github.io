@@ -59,7 +59,7 @@ Secondary = Grey
     
     .instructor-label {
       width: 100%;
-      margin-bottom: -2em;
+      margin-bottom: -2.5em;
     }
   }
 </style>
