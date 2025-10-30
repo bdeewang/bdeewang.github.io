@@ -48,7 +48,7 @@ Email's the best way to get in touch: <code class="language-plaintext highlighte
 <br>
 I subscribe to the following (<a href="https://fardila.com/#:~:text=Axiom%201.%20Mathematical,dignity%20and%20respect.">updated</a>) axioms by <a href="https://fardila.com/">Federico Ardila</a>, which first appeared <a href="http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">here</a>:
 
-<ul style="margin-top: -1em;" align="justify">
+<ul style="margin-top: -1em;">
 
 <li> <b>Axiom 1.</b> Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries. </li>
 
@@ -62,7 +62,7 @@ I subscribe to the following (<a href="https://fardila.com/#:~:text=Axiom%201.%2
 
 <br>
 
-<em>These statements should not sound revolutionary, and considering the current practices of the mathematical society, they are a pressing call to action.</em> - Prof. Ardila.
+<i style="font-size: inherit;">These statements should not sound revolutionary, and considering the current practices of the mathematical society, they are a pressing call to action.</em> - Prof. Ardila.
 
 </p>
 
