@@ -60,7 +60,9 @@ I subscribe to the following (<a href="https://fardila.com/#:~:text=Axiom%201.%2
 
 </ul>
 
-<em> These statements should not sound revolutionary, and considering the current practices of the mathematical society, they are a pressing call to action.</em> - Prof. Ardila.
+<br>
+
+<em>These statements should not sound revolutionary, and considering the current practices of the mathematical society, they are a pressing call to action.</em> - Prof. Ardila.
 
 </p>
 
