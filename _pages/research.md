@@ -75,7 +75,7 @@ permalink: /research
 
 <!-- ### Theses -->
 <h3 style="color:#e89795">Theses</h3>
-<ul style="margin-top: -1em;">
+<ul style="margin-top: -1.25em;">
 
 <li> <a href="https://escholarship.org/uc/item/0v35d5nr">A <em>p</em>-adic Analytic Brauer group</a><br>
 <small>PhD Thesis, UC Santa Cruz</small></li>

@@ -46,16 +46,21 @@ Email's the best way to get in touch: <code class="language-plaintext highlighte
 <br>
 <b>Friends & Collaborators.</b><br> <a href="https://www.mit.edu/~NivenT/">Niven Achenjang</a>, <a href="https://sophieaiken.github.io/">Sophie Aiken</a>, <a href="https://malachialexander.com/">Malachi Alexander</a>, <a href="https://www.washcoll.edu/people_departments/faculty/estacy2.php">Emerald Anne</a>, <a href="https://sarangop1728.github.io/about/">Santiago Arango-Pineros</a>, <a href="https://sites.google.com/view/mariafox/">Maria Fox</a>, <a href="https://sites.google.com/site/heidigoodson/">Heidi Goodson</a>, <a href="https://sites.google.com/view/stevengroen">Steven Groen</a>, <a href="https://sites.google.com/view/jennifer-s-guerrero/">Jennifer Guerrero</a>, <a href="https://sites.google.com/view/aashrayajha/home">Aashraya Jha</a>, <a href="https://math.columbia.edu/~calebji/">Caleb Ji</a>, <a href="https://math.berkeley.edu/people/grad/rose-lopez">Rose Lopez</a>, <a href="https://www.narielmonteiro.com/">Nariel Monteiro</a>, <a href="https://sites.google.com/view/sandra-nair">Sandra Nair</a>, <a href="https://foothill.edu/directory/profile/pugh_ryan.html">Ryan Pugh</a>, <a href="https://drubinstein.com/">David Rubinstein</a>, <a href="https://sites.google.com/site/soumya3sankar/">Soumya Sankar</a><br>
 <br>
-I subscribe to the following (<a href="https://fardila.com/#:~:text=Axiom%201.%20Mathematical,dignity%20and%20respect.">updated</a>) axioms by Federico Ardila, which first appeared <a href="http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">here</a>:
+I subscribe to the following (<a href="https://fardila.com/#:~:text=Axiom%201.%20Mathematical,dignity%20and%20respect.">updated</a>) axioms by <a href="https://fardila.com/">Federico Ardila</a>, which first appeared <a href="http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">here</a>:
 
 <ul style="margin-top: -1em;" align="justify">
 
 <li> <b>Axiom 1.</b> Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries. </li>
+
 <li> <b>Axiom 2.</b> Everyone can have joyful, meaningful, and empowering mathematical experiences.</li>
+
 <li> <b>Axiom 3.</b> Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.</li>
+
 <li> <b>Axiom 4.</b> Every student deserves to be treated with dignity and respect.</li>
 
 </ul>
+
+<em> These statements should not sound revolutionary, and considering the current practices of the mathematical society, they are a pressing call to action.</em> - Prof. Ardila.
 
 </p>
 
