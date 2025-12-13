@@ -13,7 +13,7 @@ permalink: /teaching
 <div class="callout-quarto note">
   <div class="callout-title">Summer 2025</div>
   <div class="callout-content">
-    <p>I am currently teaching two sections of Calculus 1 (MATH 111) <b style="color:#8cd2e7">★</b>. </p>
+    <p>Currently teaching: one section each of Calculus 1 (MATH 111) and Number Theory (MATH 282) <b style="color:#8cd2e7">★</b> </p>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ Secondary = Grey
 
 <li> MATH 120 <b>Calculus 2</b>, <small>Spring 2026</small></li>
 
-<li> MATH 282 <b>Number Theory</b>, <small>Winter 2026</small>
+<li> MATH 282 <b>Number Theory</b>, <small>Winter 2026</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button>
     <p style="margin-bottom: -1.25em;"></p>
     <a class="btn btn-filledb" href="https://drive.google.com/file/d/1xjB15Sf-XLFVR1nyQnMl56aRMmRQbnLP/view?usp=drive_link">&nbsp;&nbsp;Lecture Notes (W26)&nbsp;&nbsp;</a>
 </li>

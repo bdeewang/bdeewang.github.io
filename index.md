@@ -27,7 +27,6 @@ I received my Ph.D. in Mathematics from <a href="https://www.math.ucsc.edu/index
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>-->
 I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/experiencesinmath/">Experiences in Mathematics</a> series with Jennifer Guerrero and Nariel Monteiro.<br>
 <br>
-If you're thinking of asking me for a letter of recommendation, I encourage you to read <a href="\letters">Letter Writing Information</a>.<br>
 <br>
 <!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 

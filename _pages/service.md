@@ -9,6 +9,16 @@ custom-nav:
     <a href="/resources" title="Resources">Resources</a>
 permalink: /service
 ---
+<div class="callout-quarto tip">
+  <div class="callout-title">Letters of Recommendation</div>
+    <div class="callout-content">
+<p>If you're thinking of asking me for a letter of recommendation, I encourage you to read <a href="\letters">Letter Writing Information</a></p>
+    </div>
+</div>
+
+<br>
+
+<h2 style="color:#9DD49C; margin-bottom:-0.75em; margin-top:-0.25em;">Outreach and Service</h3>
 
 Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted considerable time to outreach and service activities. 
 
