@@ -10,7 +10,7 @@ index: true
 <p>
 Hello, this is Deewang (<em>dee-waang</em>)! I am a Visiting Assistant Professor of Mathematics at <a href="https://www.carleton.edu/math/">Carleton College</a>.<br>
 <br>
-My research interests lie in arithmetic geometry and algebraic number theory (<a href="https://arxiv.org/a/bhamidipati_d_1.html">arXiv</a>). My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, equity, justice and diversity in the mathematics community.<br>
+My research interests lie in arithmetic geometry and algebraic number theory. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, equity, justice and diversity in the mathematics community.<br>
 <br>
 <!--Before coming to Carleton,-->
 I received my Ph.D. in Mathematics from <a href="https://www.math.ucsc.edu/index.html">UC Santa Cruz</a> in California under <a href="http://martyweissman.com/">Martin Weissman</a>. I received my M.S. in Mathematics from the <a href="https://math.hse.ru/en/">Higher School of Economics</a> in Moscow, where I wrote my master's thesis under <a href="https://www.hse.ru/en/org/persons/160474191">Vadim Vologodsky</a>; and I received my B.S. in Mathematics, with a specialization in applied algebra, from <a href="https://math.snu.edu.in/">Shiv Nadar University</a> in India.<br>
@@ -26,7 +26,6 @@ I received my Ph.D. in Mathematics from <a href="https://www.math.ucsc.edu/index
 <!--
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>-->
 I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/experiencesinmath/">Experiences in Mathematics</a> series with Jennifer Guerrero and Nariel Monteiro.<br>
-<br>
 <br>
 <!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 
