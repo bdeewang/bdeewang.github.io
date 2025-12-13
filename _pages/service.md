@@ -18,7 +18,7 @@ permalink: /service
 
 <br>
 
-<h2 style="color:#9DD49C; margin-bottom:-0.75em; margin-top:-0.25em;">Outreach and Service</h3>
+<h2 style="color:#9DD49C; margin-bottom:-0.75em; margin-top:-0.25em;">Outreach and Service</h2>
 
 Throughout my academic journey, I've discovered that mathematics becomes most meaningful when shared with others. Moments of connection and growth fuel my passion for mathematics. I believe deeply in making mathematics more accessible and inclusive, which is why I've devoted considerable time to outreach and service activities. 
 
