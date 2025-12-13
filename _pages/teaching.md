@@ -11,9 +11,9 @@ permalink: /teaching
 ---
 
 <div class="callout-quarto note">
-  <div class="callout-title">Summer 2025</div>
+  <div class="callout-title">Currently Teaching: Winter 2026</div>
   <div class="callout-content">
-    <p>Currently teaching: one section each of Calculus 1 (MATH 111) and Number Theory (MATH 282) <b style="color:#8cd2e7">★</b> </p>
+    <p>One section each of Calculus 1 (MATH 111) and Number Theory (MATH 282) <b style="color:#8cd2e7">★</b> </p>
   </div>
 </div>
 
