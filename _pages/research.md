@@ -47,7 +47,8 @@ permalink: /research
 </li>
 
 <li> The Brauer Group of 𝒴₀(2)<br>
-    <small><em>with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez</em></small>
+    <small><em>with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez</em><br>
+    to appear in <b style="color:#F1C0BF">Épijournal de Géométrie Algébrique</b></small>
     <p style="margin-bottom: -1.25em;"></p>
     <a class="btn btn-filled" href="https://arxiv.org/abs/2311.18132"><code>&nbsp;arXiv:2311.18132&nbsp;</code></a>
 </li>
