@@ -12,12 +12,15 @@ permalink: /travel
 
 <h2 style="color:#e89795">2025-26</h2>
 
-<!-- 
 <ul style="margin-top: -1em;">
 
-<li style="font-size:17px"> </li>
+<li style="font-size:17px"> (Aug 5 - 8) Attending (tentatively) <a href="https://maa.org/event/mathfest/">MAA MathFest</a> Boston, MA</li>
 
-</ul>-->
+<li style="font-size:17px"> (Jul 27 - 31) Attending (tentatively) <a href="https://reuf.aimath.org/">REUF</a> at AIM in Pasadena, CA</li>
+
+<li style="font-size:17px"> (Jul 13 - 17) Attending (tentatively) <a href="http://emiliano-ambrosi.perso.math.cnrs.fr/Cavaret2page/Cavaret2main.html">CAVARET2</a> in Barcelona, Spain </li>
+
+</ul>
 
 <details>
     <summary><b>2024-25</b></summary>
