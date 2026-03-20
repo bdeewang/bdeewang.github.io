@@ -61,12 +61,24 @@ permalink: /research
     </li>
 </ol>
 
+
+<!-- ### SOTL Articles -->
+<h3 style="color:#e89795">SOTL Articles</h3>
+
+<ol reversed style="margin-top: -1em;">
+<li>Designing for the Digital Student Experience: Addressing Pedagogical and Social Challenges in Synchronous Online STEM Courses<br>
+    <small><em>with Pedro Morales-Almazan, Sophie Aiken, Malachi Alexander, and Cheyenne Dowd</em></small>
+    <p style="margin-bottom: -1.25em;"></p>
+    (in preparation)
+</li>
+</ol>
+
 <!-- --------------------------------------------------- -->
 
 <h3 style="color:#e89795">Math Education Projects</h3>
 <ul style="margin-top: -1em;">
 
-<li> Proofs and Proof-writing at UC Santa Cruz <small><em>(with Jennifer Guerrero)</em></small></li>
+<li>Proofs and Proof-writing at UC Santa Cruz <small><em>(with Jennifer Guerrero)</em></small></li>
 
 <li> Developing Online Courses at UC Santa Cruz <small><em>(with Sophie Aiken, Malachi Alexander, Cheyenne Dowd, and Pedro Morales-Almazan)</em></small></li>
 
