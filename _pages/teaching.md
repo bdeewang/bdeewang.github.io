@@ -11,7 +11,7 @@ permalink: /teaching
 ---
 
 <div class="callout-quarto note">
-  <div class="callout-title">Currently Teaching: Winter 2026</div>
+  <div class="callout-title">Currently Teaching: Spring 2026</div>
   <div class="callout-content">
     <p>One section each of Calculus 2 (MATH 120) and Calculus 3 (MATH 210) <b style="color:#8cd2e7">★</b> </p>
   </div>
