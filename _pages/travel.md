@@ -18,8 +18,6 @@ permalink: /travel
 
 <li style="font-size:17px"> (Jul 27 - 31) Attending (tentatively) <a href="https://reuf.aimath.org/">REUF</a> at AIM in Pasadena, CA</li>
 
-<li style="font-size:17px"> (Jul 13 - 17) Attending (tentatively) <a href="http://emiliano-ambrosi.perso.math.cnrs.fr/Cavaret2page/Cavaret2main.html">CAVARET2</a> in Barcelona, Spain </li>
-
 </ul>
 
 <details>
