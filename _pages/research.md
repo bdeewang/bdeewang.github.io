@@ -25,7 +25,7 @@ permalink: /research
 <li> Indecomposable Ekedahl-Oort strata of Unitary Shimura varieties<br>
     <small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
     <p style="margin-bottom: -1.25em;"></p>
-    (in preparation)
+    <a class="btn btn-filled" href="https://arxiv.org/abs/2606.16882"><code> &nbsp;arXiv:2606.16882&nbsp;</code></a>
 </li>
 
 <li> The Ekedahl-Oort and Newton stratification of the GU(3,2) Shimura variety<br>
