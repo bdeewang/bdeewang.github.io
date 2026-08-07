@@ -25,7 +25,9 @@ I obtained my Ph.D. in Mathematics from <a href="https://www.math.ucsc.edu/index
 
 <!--
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a><a href="/travel" class="internal-link quarter-line-space">View my travel schedule&nbsp;→</a>-->
-I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/experiencesinmath/">Experiences in Mathematics</a> series with Jennifer Guerrero and Nariel Monteiro.<br>
+I am a member of the Silver '26 cohort of Project NExT. I was <a href="https://www.carleton.edu/news/stories/curricular-innovation-grants-2026/">awarded a Curricular Innovation Grant</a> at Carleton College to develop a course on Error-correcting Code for the Winter 2027 term.
+<!-- I am a co-organiser of the <a href="https://sites.google.com/ucsc.edu/experiencesinmath/">Experiences in Mathematics</a> series with Jennifer Guerrero and Nariel Monteiro. -->
+<br>
 <br>
 <!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 
