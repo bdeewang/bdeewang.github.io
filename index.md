@@ -10,7 +10,9 @@ index: true
 <p>
 Hello, this is Deewang (<em>dee-waang</em>)! I am a Visiting Assistant Professor of Mathematics at <a href="https://www.carleton.edu/math/">Carleton College</a>.<br>
 <br>
-My research interests lie in arithmetic geometry and algebraic number theory. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, equity, justice and diversity in the mathematics community.<br>
+My research interests lie in arithmetic geometry and algebraic number theory. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. 
+<!-- I am committed to promoting inclusivity, equity, justice and diversity in the mathematics community. -->
+<br>
 <br>
 <!--Before coming to Carleton,-->
 I obtained my Ph.D. in Mathematics from <a href="https://www.math.ucsc.edu/index.html">UC Santa Cruz</a> in California under <a href="http://martyweissman.com/">Martin Weissman</a>, <a href="https://math.ucsc.edu/newsposts/2024/09/two-dissertation-year-fellowships/">receiving a</a> <a href="https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/">Dissertation-Year Fellowship</a>. I obtained my M.S. in Mathematics from the <a href="https://math.hse.ru/en/">Higher School of Economics</a> in Moscow, where I wrote my master's thesis under <a href="https://www.hse.ru/en/org/persons/160474191">Vadim Vologodsky</a>; and I obtained my B.S. in Mathematics, with a specialization in applied algebra, from <a href="https://math.snu.edu.in/">Shiv Nadar University</a> in India.<br>
