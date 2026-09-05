@@ -8,7 +8,7 @@ index: true
 {% include about-picture-img.html %}
 
 <p>
-Hello, this is Deewang (<em>dee-waang</em>)! I am a Visiting Assistant Professor of Mathematics at <a href="https://www.carleton.edu/math/">Carleton College</a>.<br>
+Hello, this is Deewang (<em><a href="https://drive.google.com/file/d/1LiHvj0pwEpcv65rLTDq3kt4q4jIGs58D/view?usp=sharing">pronunciation</a></em>)! I am a <a href="https://www.carleton.edu/directory/bdeewang/">Visiting Assistant Professor</a> of Mathematics at <a href="https://www.carleton.edu/math/">Carleton College</a>.<br>
 <br>
 My research interests lie in arithmetic geometry and algebraic number theory. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. 
 <!-- I am committed to promoting inclusivity, equity, justice and diversity in the mathematics community. -->
