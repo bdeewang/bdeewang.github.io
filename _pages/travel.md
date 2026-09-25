@@ -14,11 +14,11 @@ permalink: /travel
 
 <ul style="margin-top: -1em;">
 
-<li style="font-size:17px"> (Aug 4–7) Attending (tentatively) <a href="https://maa.org/event/mathfest/">MAA MathFest</a> in New Orleans, LA</li>
+<li style="font-size:17px"> (Aug 4–7) Attending <a href="https://maa.org/event/mathfest/">MAA MathFest</a> in New Orleans, LA</li>
 
 <li style="font-size:17px"> (Feb 9) Seminar talk in <a href="https://dmzb.github.io/FCNTS.github.io/">Five College Number Theory Seminar</a> at Amherst College, MA</li>
 
-<li style="font-size:17px"> (Jan 12–14) Attending (tentatively) <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meetings</a> in Chicago, IL<br>
+<li style="font-size:17px"> (Jan 12–14) Attending <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meetings</a> in Chicago, IL<br>
     <ul>
     <li>(Jan 12) Speaking in <a href="https://jointmathematicsmeetings.org/jmm">Special Session on Arithmetic Geometry & Algebraic Groups</a></li>
     <li>(Jan 14) Speaking in <a href="https://jointmathematicsmeetings.org/jmm">USTARS at JMM: A Special Session on Algebra and Topology</a></li>
@@ -26,7 +26,7 @@ permalink: /travel
     </ul>
 </li>
 
-<li style="font-size:17px"> (Oct 19-22) Attending (tentatively) <a href="https://icerm.brown.edu/program/semester_research_cluster/sp-f26-rc1">K3 Surfaces over Finite Fields</a> at ICERM in Providence, RI<br>
+<li style="font-size:17px"> (Oct 19-22) Attending <a href="https://icerm.brown.edu/program/semester_research_cluster/sp-f26-rc1">K3 Surfaces over Finite Fields</a> at ICERM in Providence, RI<br>
 </li>
 
 </ul>
