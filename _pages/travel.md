@@ -18,7 +18,7 @@ permalink: /travel
 
 <li style="font-size:17px"> (Feb 9) Seminar talk in <a href="https://dmzb.github.io/FCNTS.github.io/">Five College Number Theory Seminar</a> at Amherst College, MA</li>
 
-<li style="font-size:17px"> (Jan 12–15) Attending (tentatively) <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meetings</a> in Chicago, IL<br>
+<li style="font-size:17px"> (Jan 12–14) Attending (tentatively) <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meetings</a> in Chicago, IL<br>
     <ul>
     <li>(Jan 12) Speaking in <a href="https://jointmathematicsmeetings.org/jmm">Special Session on Arithmetic Geometry & Algebraic Groups</a></li>
     <li>(Jan 14) Speaking in <a href="https://jointmathematicsmeetings.org/jmm">USTARS at JMM: A Special Session on Algebra and Topology</a></li>
