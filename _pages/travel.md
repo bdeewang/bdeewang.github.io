@@ -16,10 +16,15 @@ permalink: /travel
 
 <li style="font-size:17px"> (Aug 4-7) Attending (tentatively) <a href="https://maa.org/event/mathfest/">MAA MathFest</a> New Orleans, LA</li>
 
+<li style="font-size:17px"> (Feb 9) Seminar talk at <a href="https://dmzb.github.io/FCNTS.github.io/">Five College Number Theory Seminar, Amherst College</a>, MA</li>
+
 <li style="font-size:17px"> (Jan 12-15) Attending (tentatively) <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meetings</a> in Chicago, IL<br>
     <!-- <ul>
     <li>(Jan 5) Speaking at <a href="https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/27988">Contributed Session on Number Theory</a></li>
     </ul> -->
+</li>
+
+<li style="font-size:17px"> (Oct 19-22) Attending (tentatively) <a href="https://icerm.brown.edu/program/semester_research_cluster/sp-f26-rc1">K3 Surfaces over Finite Fields</a> at ICERM in Providence, RI<br>
 </li>
 
 </ul>
@@ -41,6 +46,51 @@ permalink: /travel
 NEW GROUP
 ======================
 ===================-->
+
+<details>
+    <summary><b>2024-25</b></summary>
+
+<ul style="margin-top: -1em;">
+
+<li style="font-size:17px"> (Jul 27 - Aug 1) Attending <a href="https://sites.google.com/view/2025summerinstitute">Algebraic Geometry SRI 2025</a> in Fort Collins, CO </li>
+
+<li style="font-size:17px"> (May 16-18) Attending <a href="https://awm-math.org/meetings/awm-research-symposium/2025-schedule/">AWM Research Symposium</a> in Madison, WI<br/>
+    <ul>
+    <li>Co-Organising <em>Special Session on Rethinking Number Theory</em></li>
+    <li>Co-Organising <em>Special Session on Curves and Abelian Varieties in Characteristic p</em></li>
+    </ul>
+</li>
+
+<li style="font-size:17px"> (May 3-4) Speaking at <a href="https://www.ams.org/meetings/sectional/2325_program.html">Spring Western Sectional Meeting</a>, San Luis Obispo, CA</li>
+
+<li style="font-size:17px"> (Apr 9-11) <em>job-search related travel</em></li>
+
+<li style="font-size:17px"> (Feb 24-28) <a href="https://aimath.org/programs/squares/">SQuaREs, AIM</a>, Pasadena, CA</li>
+
+<li style="font-size:17px"> (Feb 2-4) <em>job-search related travel</em></li>
+
+<li style="font-size:17px"> (Jan 21) Seminar talk at <a href="https://sites.google.com/math.arizona.edu/panyan/algebra-and-number-theory-seminar?authuser=0">University of Arizona</a>, AZ</li>
+
+<li style="font-size:17px"> (Jan 8-11) Attending <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program.html">Joint Mathematics Meetings</a> in Seattle, WA<br/>
+    <ul>
+    <li>(Jan 10) Speaking at <a href="https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41852">Special Session on Rethinking Number Theory</a></li>
+    </ul>
+</li>
+
+<li style="font-size:17px"> (Nov 18-22) Attending <a href="http://www.davidrenshawhansen.net/workshop2024.html"><em>p</em>-adic Geometry Workshop</a> at NUS, Singapore</li>
+
+<li style="font-size:17px"> (Nov 5) Seminar talk at <a href="https://sites.google.com/view/gc-arithmetic-geometry/home">CUNY Graduate Center</a>, NY</li>
+
+<li style="font-size:17px"> (Oct 26) Speaking at <a href="https://www.ams.org/meetings/sectional/2304_progfull.html">Fall Western Sectional Meeting</a>, Riverside, CA</li>
+
+<li style="font-size:17px"> (Oct 10) Seminar talk at <a href="https://www.mathdept.okstate.edu/announce/">Oklahoma State University</a>, OK</li>
+
+<li style="font-size:17px"> (Oct 7; online) Seminar talk at <a href="https://research.math.osu.edu/numbertheory/">The Ohio State University</a>, OH</li>
+
+<li style="font-size:17px"> (Sep 11) Seminar talk at IIT Hyderabad, India</li>
+
+</ul>
+</details>
 
 <details>
     <summary><b>2023-24</b></summary>
