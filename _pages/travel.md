@@ -26,6 +26,8 @@ permalink: /travel
     </ul>
 </li>
 
+<li style="font-size:17px"> (Nov 30) Colloquium talk at St. Olaf College, MN</li>
+
 <li style="font-size:17px"> (Oct 19-22) Attending <a href="https://icerm.brown.edu/program/semester_research_cluster/sp-f26-rc1">K3 Surfaces over Finite Fields</a> at ICERM in Providence, RI<br>
 </li>
 
