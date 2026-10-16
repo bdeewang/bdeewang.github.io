@@ -12,7 +12,7 @@ permalink: /service
 <div class="callout-quarto tip">
   <div class="callout-title">Letters of Recommendation</div>
     <div class="callout-content">
-<p>If you're thinking of asking me for a letter of recommendation, I encourage you to read <a href="\letters">Letter Writing Information</a></p>
+<p>If you're thinking of asking me for a letter of recommendation, I encourage you to read <a href="/letters">Letter Writing Information</a></p>
     </div>
 </div>
 
