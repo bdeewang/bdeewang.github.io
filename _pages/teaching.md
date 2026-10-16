@@ -11,9 +11,9 @@ permalink: /teaching
 ---
 
 <div class="callout-quarto note">
-  <div class="callout-title">Currently Teaching: Spring 2026</div>
+  <div class="callout-title">Currently Teaching: Fall 2026</div>
   <div class="callout-content">
-    <p>One section each of Calculus 2 (MATH 120) and Calculus 3 (MATH 210) <b style="color:#8cd2e7">★</b> </p>
+    <p>One section each of Calculus 2 (MATH 120) and Linear Algebra (MATH 232) <b style="color:#8cd2e7">★</b> </p>
   </div>
 </div>
 
@@ -72,17 +72,19 @@ Secondary = Grey
     <h3>Carleton College</h3>
 <ul style="margin-top: -1em;">
 
-<li> MATH 232 <b>Linear Algebra</b>, <small>Spring 2027, Fall 2026</small> (tentatively)</li>
+<li> MATH 232 <b>Linear Algebra</b>, <small>Spring 2027</small></li>
 
-<li> MATH 210 <b>Calculus 3</b>, <small>Spring 2027, Winter 2027</small> (tentatively)</li>
+<li> MATH 210 <b>Calculus 3</b>, <small>Spring 2027, Winter 2027</small></li>
 
-<li> MATH 295 <b>Error-correcting Codes</b>, <small>Winter 2027</small> (tentatively)</li>
+<li> MATH 295 <b>Error-correcting Codes</b>, <small>Winter 2027</small></li>
 
-<li> MATH 120 <b>Calculus 2</b>, <small>Fall 2026</small> (tentatively)</li>
+<li> MATH 232 <b>Linear Algebra</b>, <small>Fall 2026</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
 
-<li> MATH 210 <b>Calculus 3</b>, <small>Spring 2026</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
+<li> MATH 120 <b>Calculus 2</b>, <small>Fall 2026</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
 
-<li> MATH 120 <b>Calculus 2</b>, <small>Spring 2026</small>&nbsp;&nbsp;<button class="btn btn-static"><b style="color:#8cd2e7" title="currently teaching">&nbsp;★&nbsp;</b></button></li>
+<li> MATH 210 <b>Calculus 3</b>, <small>Spring 2026</small></li>
+
+<li> MATH 120 <b>Calculus 2</b>, <small>Spring 2026</small></li>
 
 <li> MATH 282 <b>Number Theory</b>, <small>Winter 2026</small>
     <p style="margin-bottom: -1.25em;"></p>
