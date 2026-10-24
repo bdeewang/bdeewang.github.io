@@ -1,0 +1,28 @@
+<!-- Rotating homepage photo: picks a different picture on each visit; click the photo to switch.
+     Add or remove pictures in the list below (they live in static/about-pictures/). -->
+<script>
+(function () {
+  const photos = [
+    "static/about-pictures/bdeewang-pro.jpg",
+    "static/about-pictures/bdeewang-look.jpg",
+    "static/about-pictures/bdeewang-smile.jpg",
+    "static/about-pictures/bdeewang-thumbsup.jpg",
+    "static/about-pictures/bdeewang.jpg",
+  ];
+  const img = document.querySelector("img.about-image");
+  if (!img) return;
+
+  function nextPhoto() {
+    let current = null;
+    try { current = sessionStorage.getItem("currentPhoto"); } catch (e) {}
+    const choices = photos.filter(p => p !== current);
+    const pick = choices[Math.floor(Math.random() * choices.length)];
+    img.setAttribute("src", pick);
+    try { sessionStorage.setItem("currentPhoto", pick); } catch (e) {}
+  }
+
+  img.style.cursor = "pointer";
+  img.addEventListener("click", nextPhoto);
+  nextPhoto();
+})();
+</script>

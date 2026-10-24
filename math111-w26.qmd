@@ -1,0 +1,448 @@
+---
+title: "MATH 111 Syllabus"
+description: "Introduction to Calculus at Carleton College"
+---
+
+<div align="center">
+<h1 style="color:#8cd2e7;">(just a test, not formal)</h1>
+<h1 style="color:#8cd2e7; margin-bottom:-1.25em;">Introduction to Calculus</h1>
+<h2 style="color:#8cd2e7;">Winter 2026 | Carleton College</h2>
+</div>
+
+<div class="callout-quarto note">
+<div class="callout-title" style="font-size: 20px">Instructor &amp; Contact</div>
+<div class="callout-content">
+<p><strong>Instructor:</strong> Deewang Bhamidipati (he/him/his)<br>
+<em style="font-size: 16px">You can call me by my first name, pronounced <a href="https://drive.google.com/file/d/1LiHvj0pwEpcv65rLTDq3kt4q4jIGs58D/view?usp=sharing">thee-waang</a>, or Professor B.</em></p>
+<p><strong>Email:</strong> <a href="mailto:bdeewang@carleton.edu">bdeewang@carleton.edu</a><br>
+<strong>Office:</strong> CMC 219</p>
+<br>
+<div class="callout" style="font-size: 16px">
+<strong style="margin-top:-1.5em;">Email Communication</strong><br>
+<p style="margin-bottom:-0.5em;">You can always email me if you wish to chat about anything! Please provide as much information as you can about what you'd like to discuss. I check email during work hours (Mon–Fri, 8:30 AM – 5:30 PM) and will respond within 1 working day.
+<br>
+<em>Never hesitate to reach out — I always want to hear from you.</em></p>
+</div>
+</div>
+</div>
+
+<div class="callout-quarto note">
+<div class="callout-title" style="font-size: 20px">Office Hours</div>
+<div class="callout-content">
+
+<p><em>This is when you can come talk to me about anything and everything!</em> For math conversations, my first question will always be "what have you tried so far?" So come prepared with some self-reflection on the work you've done!<br>
+<br>
+<strong>Drop-in Office Hours</strong></p>
+<table>
+<thead>
+<tr>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2:15 – 3:15 PM<br><small>CMC 206</small></td>
+<td>10:30 – 11:30 AM<br><small>CMC 206</small></td>
+<td>4:00 – 5:00 PM<br><small>CMC 209</small></td>
+<td>2:15 – 3:15 PM<br><small>CMC 206</small></td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>By appointment:</strong> You can schedule a 15-minute one-on-one by emailing me (no Thursday appointments).</p>
+
+<br>
+<div class="callout" style="font-size: 16px">
+<strong style="margin-top:-1.5em;">Office Door Policy</strong>
+<ul>
+<li><strong>Wide open</strong> — I'm available to chat!</li>
+<li><strong>Slightly ajar</strong> — Knock and ask about availability</li>
+<li><strong>Closed</strong> — Not available; please email me</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 style="color:#8cd2e7; margin-bottom:-0.5em;">Fostering a Welcoming Environment</h2>
+
+<p>I strive to create an inclusive space where everyone—regardless of background or identities—can discover, define, and develop their mathematical voice, and feel welcome and valued.</p>
+
+<p>To achieve this, I ask that you engage fully with your peers and the material by reflecting on challenges, asking questions, and encouraging one another. We will all experience struggles as we learn together, and that's a normal part of the process.</p>
+
+<p>When we cause harm, I expect us to listen thoughtfully, apologise sincerely, and commit to growth. Behaviour that undermines another person's sense of belonging has no place in our learning environment. Please speak with me or university officials if you experience or witness discrimination or harassment.</p>
+
+<br>
+
+<h2 style="color:#8cd2e7; margin-bottom:-0.5em;">Course Information</h2>
+
+<details>
+<summary><b>Course Description &amp; Learning Goals</b></summary>
+<p>The main goal in this course is to build your understanding of calculus as the study of <strong>change</strong>, <strong>accumulation</strong>, and the <strong>infinite</strong> (both infinitely big and infinitesimally small).</p>
+<p>By the end of this course, you will:</p>
+<ul>
+<li><em>Learn</em> the language of limits and grasp how functions behave as they approach specific values</li>
+<li><em>Know</em> how to use derivatives to capture instantaneous rates of change and <em>calculate</em> derivatives using different techniques</li>
+<li><em>Know</em> how to use derivatives to graph functions and <em>apply</em> your skills to solve optimization problems</li>
+<li>Have a firm grasp on integrals and antiderivatives and <em>know</em> how to calculate definite and indefinite integrals</li>
+<li><em>Connect</em> derivatives and integrals through the Fundamental Theorem of Calculus</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Textbook</b></summary>
+<p><strong><em>Essential Calculus: Early Transcendentals</em></strong> (9th Edition) by James Stewart</p>
+<div class="callout-quarto tip">
+<div class="callout-title">Textbook Cost Support</div>
+<div class="callout-content">
+<p>If the price of your textbook is an obstacle, there are campus resources available:</p>
+<ul>
+<li>Dean of Students Office</li>
+<li>TRIO lending library (for TRIO students)</li>
+<li>Math/Stats department lending library (limited copies available)</li>
+</ul>
+<p>Contact Sue Jandro (<a href="mailto:sjandro@carleton.edu">sjandro@carleton.edu</a>) to reserve a book.</p>
+</div>
+</div>
+</details>
+
+<details>
+<summary><b>Class Time &amp; Sections</b></summary>
+<ul>
+<li><strong>Math 111.01</strong> — MWF during 2a in CMC 206</li>
+<li><strong>Math 111.02</strong> — MWF during 4a in CMC 206</li>
+</ul>
+<p>Attendance is encouraged as it's the primary place where you'll see new content and get an immediate opportunity to engage with it. Class time will almost always be a mixture of short lectures and group work.</p>
+<p><em>I encourage limiting the use of technology in class (laptops, phones) unless a class activity requires it.</em></p>
+</details>
+
+<details>
+<summary><b>Course Platforms</b></summary>
+<p><strong>Moodle</strong> — Primary course repository for announcements, homework, and course materials. <a href="https://moodle.carleton.edu/">Log in here</a> with your Carleton ID.</p>
+<p><strong>Gradescope</strong> — All assessments that need to be turned in will be uploaded here. Links available on Moodle.</p>
+</details>
+
+<br>
+
+<h2 style="color:#8cd2e7; margin-bottom:-0.5em;">Assessment</h2>
+
+<p>Our course has the following assessment components:</p>
+
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Weight</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Homework</strong></td>
+<td>10%</td>
+<td>9 assignments (2 lowest dropped)</td>
+</tr>
+<tr>
+<td><strong>Quizzes</strong></td>
+<td>10%</td>
+<td>7 check-in quizzes (2 lowest dropped)</td>
+</tr>
+<tr>
+<td><strong>Reflections</strong></td>
+<td>5%</td>
+<td>9 weekly surveys</td>
+</tr>
+<tr>
+<td><strong>Midterms</strong></td>
+<td>50%</td>
+<td>3 exams (Top 2: 18% each, Lowest: 14%)</td>
+</tr>
+<tr>
+<td><strong>Final Exam</strong></td>
+<td>25%</td>
+<td>Comprehensive</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Assessment Details</b></summary>
+
+<p><strong>Homework (10%)</strong><br>
+9 homeworks due on Wednesdays at 11:59 PM starting Week 2. Problems are assigned for each class as "daily homework"; Wednesday's assignment covers problems from Mon/Wed/Fri of the previous week. Two lowest scores dropped.</p>
+
+<p><strong>Check-in Quizzes (10%)</strong><br>
+7 take-home quizzes with 3 questions each. If handed out on Day N, due on Day N+1 of class. Questions are heavily motivated by homework problems. No make-ups, but two lowest scores dropped.<br>
+<em>Purpose: Help you track your progress and practice working in an exam setting.</em></p>
+
+<p><strong>Reflections (5%)</strong><br>
+9 weekly reflection surveys to help me understand how the class is progressing for you.</p>
+
+<p><strong>Midterms (50%)</strong><br>
+3 midterms during Weeks 3, 6, and 9 on Fridays during class time. Midterm corrections opportunity available (details shared before first midterm).</p>
+
+<p><strong>Final Exam (25%)</strong><br>
+Comprehensive final exam covering all course material.</p>
+</details>
+
+<details>
+<summary><b>Grading Scale</b></summary>
+<table>
+<tbody>
+<tr>
+<td><strong>A</strong></td><td>≥93%</td>
+<td><strong>A−</strong></td><td>90–92%</td>
+</tr>
+<tr>
+<td><strong>B+</strong></td><td>87–89%</td>
+<td><strong>B</strong></td><td>83–86%</td>
+<td><strong>B−</strong></td><td>80–82%</td>
+</tr>
+<tr>
+<td><strong>C+</strong></td><td>77–79%</td>
+<td><strong>C</strong></td><td>73–76%</td>
+<td><strong>C−</strong></td><td>70–72%</td>
+</tr>
+<tr>
+<td><strong>D+</strong></td><td>67–69%</td>
+<td><strong>D</strong></td><td>63–66%</td>
+<td><strong>D−</strong></td><td>60–62%</td>
+</tr>
+<tr>
+<td><strong>F</strong></td><td>&lt;60%</td>
+<td></td><td></td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<br>
+
+<h2 style="color:#8cd2e7; margin-bottom:-0.5em;">Course Schedule</h2>
+
+<p><em>Tentative plan—sections from the textbook are indicated, along with assessments.</em></p>
+
+<table>
+<thead>
+<tr>
+<th>Week</th>
+<th>Monday</th>
+<th>Wednesday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td>1.1</td>
+<td>1.3</td>
+<td>1.4, 1.5</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>2.1, 2.2</td>
+<td>2.3, 2.6 | <strong>Quiz 1</strong></td>
+<td>2.5, 2.7</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>2.8 | <strong>Quiz 2</strong></td>
+<td>3.1</td>
+<td><em>Midterm 1</em></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>3.2</td>
+<td>3.3 | <strong>Quiz 3</strong></td>
+<td>3.4</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>3.5</td>
+<td>3.6</td>
+<td>3.9 | <strong>Quiz 4</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td><em>Midterm Break</em></td>
+<td>5.1</td>
+<td><em>Midterm 2</em></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td>5.2</td>
+<td>4.9</td>
+<td>5.3 | <strong>Quiz 5</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td>5.5</td>
+<td>3.8, 3.10</td>
+<td>4.1 | <strong>Quiz 6</strong></td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td>4.3, 4.5, 4.6</td>
+<td>4.7</td>
+<td><em>Midterm 3</em></td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td>6.1 | <strong>Quiz 7</strong></td>
+<td><em>Review</em></td>
+<td><em>Reading Day</em></td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+<div class="callout-quarto success">
+<div class="callout-title">Keys to Success</div>
+<div class="callout-content">
+<p style="text-align:center; font-size:1.2em;"><strong>practice, discuss, ask</strong></p>
+<ul>
+<li><em>practice</em> problems</li>
+<li><em>discuss</em> problems with your peers</li>
+<li><em>ask</em> me questions—more importantly: ask <em>follow-up</em> questions</li>
+</ul>
+</div>
+</div>
+
+<br>
+
+<h2 style="color:#8cd2e7; margin-bottom:-0.5em;">Policies &amp; Guidelines</h2>
+
+<details>
+<summary><b>Homework Guidelines</b></summary>
+<p>Please turn in homework on the due date via Gradescope.</p>
+<p><strong>Extensions:</strong> If you need an extension (including late work), please ask <strong>before 7 PM on the due date</strong>. You can receive up to a one-day extension when asked.</p>
+<p><strong>Collaboration:</strong> You're encouraged to work on homework with peers, in the MSSC, and during Office Hours—but what you turn in should be in your own words.</p>
+<p>You may consult other textbooks or online sources for clarification of concepts, but <strong>do not seek out solutions</strong> to assigned problems in other texts, materials from previous semesters, or online sources. Using sites like Chegg and Slader is considered academic dishonesty.</p>
+<div class="callout-quarto tip">
+<div class="callout-title">If You're Tempted to Seek Solutions</div>
+<div class="callout-content">
+<p>Email me or come to office hours to chat, and/or go to MSSC and work with a friend!</p>
+</div>
+</div>
+</details>
+
+<details>
+<summary><b>Generative AI Usage Policy</b></summary>
+
+<p><strong>My Philosophy on AI and Learning</strong><br>
+In mathematics, learning comes through practice, productive struggle, and developing your own problem-solving abilities. I want to see your authentic work and thinking process, not AI-generated solutions, because I'm excited to be part of your mathematical journey!</p>
+
+<p><strong>Limitations of AI Tools</strong><br>
+AI tools like ChatGPT, Claude, and Gemini can sometimes be useful, but their output contains biases, inaccuracies, and incomplete information. Think of them as that overconfident friend who didn't actually do well in this course. You're responsible for ensuring accuracy, and relying on AI won't prepare you for exams.</p>
+
+<p><strong>Permitted Uses</strong><br>
+<em>I would prefer you email me or visit MSSC before using AI, but these uses are allowed:</em></p>
+<ul>
+<li><strong>Conceptual tutoring:</strong> Asking AI to help understand difficult concepts (exercise critical thinking—AI can be oversimplified or wrong)</li>
+<li><strong>Vocabulary clarification:</strong> Looking up individual mathematical terms (you must be able to explain any concept you use)</li>
+</ul>
+<p><strong>You must acknowledge AI use in your submission by including specific prompts used.</strong></p>
+
+<p><strong>Prohibited Uses</strong></p>
+<ul>
+<li><strong>Problem solving:</strong> Do not use AI to solve homework, provide solutions, or give step-by-step guidance</li>
+<li><strong>Writing assistance:</strong> Do not use AI to brainstorm, outline, draft, or edit your mathematical writing</li>
+<li><strong>Recording/transcription:</strong> Do not use AI tools (like Otter.ai) to record or summarize class meetings, office hours, or lectures</li>
+</ul>
+
+<p><strong>If You Suspect You've Violated This Policy</strong><br>
+Please reach out to me immediately. I value honesty and will work with you constructively, focusing on your learning rather than punishment.</p>
+</details>
+
+<br>
+
+<h2 style="color:#8cd2e7; margin-bottom:-0.5em;">Resources</h2>
+
+<div class="callout-quarto tip">
+<div class="callout-title">Math/Stats Skills Center (MSSC)</div>
+<div class="callout-content">
+<p><strong>Location:</strong> CMC 231 | <a href="https://www.carleton.edu/math-stats-skills-center/">Website</a></p>
+<p>Tutors assist students with math questions, and it's a great place to study, do homework, and meet for tutoring. All visits are drop-ins—no appointments necessary.</p>
+<p><em>MSSC opens Tuesday (9/16) of Week 1.</em></p>
+<table>
+<thead>
+<tr><th>Mon–Thu</th><th>Fri</th><th>Sat</th><th>Sun</th></tr>
+</thead>
+<tbody>
+<tr><td>2–10 PM</td><td>2–6 PM</td><td>—</td><td>2–10 PM</td></tr>
+</tbody>
+</table>
+<p><small>Doors open at 8:30 AM on open days for quiet study space.</small></p>
+<p><strong>Upcoming:</strong> Workshop on Functions — Mon (9/22), 4:30–5:30 PM (Week 2)</p>
+</div>
+</div>
+
+<div class="callout-quarto note">
+<div class="callout-title">Quantitative Resource Center (QRC)</div>
+<div class="callout-content">
+<p><a href="https://www.carleton.edu/quantitative-resource-center/">Visit their website</a> for more information.</p>
+<p><strong>Logs + Exponents Refresher Workshop:</strong></p>
+<ul>
+<li><a href="https://www.carleton.edu/quantitative-resource-center/events/?eventId=ep156j5m4h19u1ue9k6cccndig">Thu (9/18), 5:30–6:30 PM</a></li>
+<li><a href="https://www.carleton.edu/quantitative-resource-center/events/?eventId=6s2p2qg511rc7pr0rq4ksloeds">Fri (9/19), 4–5 PM</a></li>
+</ul>
+</div>
+</div>
+
+<br>
+
+<h2 style="color:#8cd2e7; margin-bottom:-0.5em;">Important Information</h2>
+
+<details>
+<summary><b>Land Acknowledgement</b></summary>
+<p>We stand on the homelands of the Wahpekute and Mdewakanton bands of the Dakota Nation. We honor with gratitude the people who've stewarded the land through the generations and their ongoing contributions to this region. We acknowledge the ongoing injustices that we have committed against the Dakota Nation, and we wish to interrupt this legacy, beginning with acts of healing and honest storytelling about this place.</p>
+</details>
+
+<details>
+<summary><b>Accommodations for Students with Disabilities</b></summary>
+<p>The <a href="https://www.carleton.edu/accessibility-resources/">Office of Accessibility Resources (OAR)</a> promotes access and equity for all students of Carleton. OAR collaborates with students who have disabilities to provide and/or arrange reasonable accommodations.</p>
+<p>If you have, or think you may have, a disability (e.g., mental health, attentional, learning, autism spectrum disorders, chronic health, traumatic brain injury and concussions, vision, hearing, mobility, or speech impairments), please contact <a href="mailto:oar@carleton.edu">oar@carleton.edu</a> to arrange a confidential discussion regarding equitable access and reasonable accommodations.</p>
+</details>
+
+<details>
+<summary><b>Religious Accommodations</b></summary>
+<p>Carleton College welcomes diversity of religious beliefs and practices. As your instructor, I am committed to providing equivalent educational opportunities to students of all belief systems.</p>
+<p>If at all possible, please contact me during the first week of classes to discuss any potential conflicts between academic requirements and religious observances. We can work together to determine a reasonable accommodation.</p>
+</details>
+
+<details>
+<summary><b>Student Well-Being</b></summary>
+<p>These are stressful times. Your health and well-being should always be your first priority. At Carleton, we have a wide array of resources to support students.</p>
+<p>It's important to recognize stressors you may be facing—personal, emotional, physical, financial, mental, or academic. Sleep, exercise, and connecting with others can be strategies to help you flourish.</p>
+<p><strong>Resources:</strong></p>
+<ul>
+<li><a href="https://www.carleton.edu/student-health/">Student Health and Counseling (SHAC)</a></li>
+<li><a href="https://www.carleton.edu/health-promotion/">Office of Health Promotion</a></li>
+<li><a href="https://www.carleton.edu/chaplain/">Office of the Chaplain</a></li>
+</ul>
+</details>
+
+<details>
+<summary><b>Title IX</b></summary>
+<p>Carleton is committed to fostering an environment free of sexual misconduct. Please be aware all Carleton faculty and staff members, with the exception of Chaplains and SHAC staff, are "responsible employees" required to share information regarding incidents of sexual misconduct with the Title IX Coordinator.</p>
+<p>If you have questions, please contact Carleton's Title IX Coordinator at <a href="mailto:titleix@carleton.edu">titleix@carleton.edu</a>, or visit the <a href="https://www.carleton.edu/title-ix/">Title IX website</a>.</p>
+</details>
+
+<details>
+<summary><b>Academic Integrity</b></summary>
+<p>Academic integrity is the cornerstone of a college education. All members of the Carleton community have an explicit responsibility to foster an environment of trust, honesty, fairness, respect, and responsibility.</p>
+<p>All members are expected to present as their original work only that which is truly their own. Students must acknowledge all outside resources, collaboration, and external materials used in their work.</p>
+<p>Academic dishonesty cases are handled by the Academic Standing Committee. For the full policy, refer to the section on <a href="https://www.carleton.edu/handbook/academics/?policy=329">Academic Integrity</a> in the Campus Handbook.</p>
+</details>
+
+<br>
+
+<div class="callout-quarto warning">
+<div class="callout-title">Syllabus Updates</div>
+<div class="callout-content">
+<p>Subsequent addendums, if any, will be made via Moodle announcements. I reserve the right to change any particular of this syllabus—<strong>any changes will be to your advantage</strong>, and you will be informed promptly via Moodle.</p>
+</div>
+</div>

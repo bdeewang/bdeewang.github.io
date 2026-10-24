@@ -1,0 +1,9 @@
+---
+title: "Not Found (404)"
+---
+
+
+Hey, sorry, but the page you're trying to access doesn't exist.
+
+Try the search icon in the menu bar, or go back to [Home](/) to find what you're looking for.
+<!-- - [Blog index](/blog) -->
