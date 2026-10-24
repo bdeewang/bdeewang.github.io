@@ -28,7 +28,7 @@ website:
       - text: Service
         href: service.qmd
     right:
-      - text: "(^_^)"
+      - text: "(&#94;_&#94;)"     # carets written as &#94; so Quarto doesn't read ^_^ as superscript
         href: https://www.youtube.com/watch?v=z9Ug-3qhrwY
   page-footer:
     left: "[Top ↑](#)"
