@@ -39,3 +39,9 @@ format:
       dark: [cosmo, theme.scss, theme-dark.scss]
     respect-user-color-scheme: true   # follow the visitor's system light/dark setting; the toggle still works
     toc: false
+    callout-icon: false      # no ⓘ/⚠ symbols in front of callout titles
+    include-in-header:
+      - text: '<script>document.documentElement.classList.add("js-header-title");</script>'
+    include-after-body:
+      - _header-title.html     # page title into the header
+      - _about-photo.html      # rotating homepage photo (does nothing on other pages)

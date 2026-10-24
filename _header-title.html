@@ -1,0 +1,11 @@
+<!-- Puts the page title into the header: "DEEWANG BHAMIDIPATI – RESEARCH".
+     The homepage has no title, so it shows just the name. Change SEPARATOR to taste. -->
+<script>
+(function () {
+  const SEPARATOR = " – ";
+  const title = document.querySelector("#title-block-header h1.title");
+  const brand = document.querySelector("#quarto-header .navbar-title");
+  if (!title || !brand) return;
+  brand.textContent = brand.textContent.trim() + SEPARATOR + title.textContent.trim();
+})();
+</script>

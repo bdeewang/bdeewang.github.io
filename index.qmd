@@ -1,6 +1,5 @@
 ---
 pagetitle: "Deewang Bhamidipati"
-include-after-body: _about-photo.html
 ---
 
 <!-- Photo (click to switch) with the CV button underneath; the text below wraps around it.

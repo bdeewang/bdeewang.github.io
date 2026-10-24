@@ -4,10 +4,13 @@
 // Colours follow the old site's dark scheme.
 $body-bg: #1e1f20;
 $body-color: #d9d9d9;
-$link-color: #7fb8ec;
+$link-color: #d9d9d9;
+$link-hover-color: #ffd700;
+$link-underline-color: #8c8c8c;
 $navbar-bg: #1e1f20;
 $navbar-fg: #a6a6a6;
 $muted-color: #a6a6a6;
+$box-bg: #333333;
 $footer-bg: #1e1f20;
 $selection-bg: #3d7cc9;
 
@@ -33,4 +36,9 @@ $input-color: #d9d9d9;
 // Page titles and plain headings
 h1, h3, .title {
   color: #ececec;
+}
+
+// Homepage CV button: bright white text in dark mode
+.about-picture .btn {
+  color: #ffffff;
 }

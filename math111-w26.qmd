@@ -1,9 +1,10 @@
 ---
 title: "MATH 111: Introduction to Calculus"
-subtitle: "Winter 2026 | Carleton College"
 description: "Introduction to Calculus at Carleton College"
 body-classes: section-teaching
 ---
+
+## Winter 2026 | Carleton College
 
 *(just a test, not formal)*
 
