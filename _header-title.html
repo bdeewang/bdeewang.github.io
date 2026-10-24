@@ -1,11 +1,17 @@
-<!-- Puts the page title into the header: "DEEWANG BHAMIDIPATI – RESEARCH".
-     The homepage has no title, so it shows just the name. Change SEPARATOR to taste. -->
+<!-- On every page except the homepage, the header shows the page title (e.g. RESEARCH)
+     instead of the name, and the (^_^) link on the right becomes "← Home" — as on the old site. -->
 <script>
 (function () {
-  const SEPARATOR = " – ";
   const title = document.querySelector("#title-block-header h1.title");
   const brand = document.querySelector("#quarto-header .navbar-title");
-  if (!title || !brand) return;
-  brand.textContent = brand.textContent.trim() + SEPARATOR + title.textContent.trim();
+  if (!title || !brand) return;           // homepage: leave the name and (^_^) as they are
+  brand.textContent = title.textContent.trim();
+
+  const right = document.querySelector("#quarto-header .navbar-nav.ms-auto .nav-link");
+  const home = document.querySelector("#quarto-header .navbar-brand");
+  if (right && home) {
+    right.setAttribute("href", home.getAttribute("href"));
+    right.innerHTML = '<span class="menu-text">&#8592; Home</span>';
+  }
 })();
 </script>
