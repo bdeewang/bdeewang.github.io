@@ -1,16 +1,15 @@
 ---
-title: "Deewang Bhamidipati"
-image: static/about-pictures/bdeewang-pro.jpg
-image-alt: "Deewang beaming"
-about:
-  template: trestles
-  image-width: 200px
-  image-shape: rounded
-  links:
-    - text: Curriculum Vitae
-      href: https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing
+pagetitle: "Deewang Bhamidipati"
 include-after-body: _about-photo.html
 ---
+
+<!-- Photo (click to switch) with the CV button underneath; the text below wraps around it.
+     The list of rotating photos is in _about-photo.html. -->
+::: {.about-picture}
+![Deewang beaming](static/about-pictures/bdeewang-pro.jpg){#aboutImg}\ 
+
+[Curriculum Vitae](https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing){.btn .btn-sm}
+:::
 
 Hello, this is Deewang (*[pronunciation](https://drive.google.com/file/d/1LiHvj0pwEpcv65rLTDq3kt4q4jIGs58D/view?usp=sharing)*)! I am a [Visiting Assistant Professor](https://go.carleton.edu/bdeewang) of Mathematics at [Carleton College](https://www.carleton.edu/math/).
 

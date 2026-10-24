@@ -15,6 +15,7 @@ website:
   favicon: static/favicon/bdeewang-favicon.png
   search: true
   navbar:
+    collapse: false     # never fold the menu into a ☰ button; it wraps like the old site
     left:
       - text: Research
         href: research.qmd

@@ -9,7 +9,7 @@
     "static/about-pictures/bdeewang-thumbsup.jpg",
     "static/about-pictures/bdeewang.jpg",
   ];
-  const img = document.querySelector("img.about-image");
+  const img = document.querySelector(".about-picture img");
   if (!img) return;
 
   function nextPhoto() {
@@ -21,7 +21,6 @@
     try { sessionStorage.setItem("currentPhoto", pick); } catch (e) {}
   }
 
-  img.style.cursor = "pointer";
   img.addEventListener("click", nextPhoto);
   nextPhoto();
 })();

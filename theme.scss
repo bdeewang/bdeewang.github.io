@@ -17,7 +17,9 @@ $h3-font-size: 1.2rem;
 $body-bg: #ffffff !default;
 $body-color: #1a1a1a !default;
 $link-color: #0c5394 !default;
-$navbar-bg: #f8f9fa !default;
+$navbar-bg: #ffffff !default;     // header blends into the page, like the old site
+$navbar-fg: #58585c !default;     // grey menu links
+$muted-color: #58585c !default;   // grey rules / small header text
 $selection-bg: #0c5394 !default;
 
 // Section accent colours (headings), and a darker shade of each (buttons).
@@ -128,4 +130,173 @@ details > summary {
 }
 details[open] > summary {
   margin-bottom: 0.5rem;
+}
+
+// ---------------------------------------------------------------------------
+// Header in the old site's style:
+//   Deewang Bhamidipati                         (^_^)  ◐  🔍
+//   ─────────────────────────────────────────────────────
+//   RESEARCH | TEACHING | SERVICE | RESOURCES
+// Lined up with the page text, not a full-width bar, and it scrolls away.
+// ---------------------------------------------------------------------------
+
+#quarto-header {
+  position: static !important;
+  transform: none !important;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+body.nav-fixed {
+  padding-top: 0 !important;
+}
+
+#quarto-header .navbar {
+  background: transparent !important;
+  border: 0;
+  box-shadow: none;
+  padding: 0;
+}
+
+// Same width as the page text (matches Quarto's article column)
+#quarto-header .navbar-container {
+  width: min(796px, 100% - 108px);
+  margin: 3rem auto 1.25rem;
+  padding: 0 !important;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+@media (max-width: 767.98px) {
+  #quarto-header .navbar-container {
+    width: calc(100% - 54px);
+    margin-top: 1.75rem;
+  }
+}
+
+// Let the menu's pieces sit directly in the header row so they can be arranged
+#quarto-header .navbar-collapse {
+  display: contents !important;
+}
+#quarto-header .navbar-toggler {
+  display: none !important;
+}
+
+// Line 1: name on the left …
+#quarto-header .navbar-brand-container {
+  order: 1;
+  margin: 0 auto 0 0 !important;
+}
+#quarto-header .navbar-brand {
+  padding: 0;
+  margin: 0;
+  white-space: normal;    // wrap long names on phones instead of cutting them off
+  overflow: visible;
+}
+#quarto-header .navbar-title {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: $body-color;
+  letter-spacing: 0;
+}
+
+// … and (^_^), dark-mode toggle and search on the right
+#quarto-header .navbar-nav.ms-auto { order: 2; }
+#quarto-header .quarto-navbar-tools { order: 3; }
+#quarto-header #quarto-search { order: 4; margin-left: 0.25rem; }
+#quarto-header .navbar-nav.ms-auto .nav-link,
+#quarto-header .quarto-navbar-tools a,
+#quarto-header #quarto-search .aa-DetachedSearchButton {
+  color: $muted-color;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+// Line 2: a thin rule, then RESEARCH | TEACHING | SERVICE | RESOURCES
+#quarto-header .navbar-nav.me-auto {
+  order: 5;
+  flex-basis: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-top: 1px solid $muted-color;
+  margin-top: 0.35rem;
+  padding-top: 0.35rem;
+  max-height: none;
+  overflow: visible;
+}
+#quarto-header .navbar-nav .nav-link {
+  padding: 0 !important;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: $muted-color;
+}
+#quarto-header .navbar-nav .nav-link:hover,
+#quarto-header .navbar-nav .nav-link.active {
+  color: $link-color;
+}
+#quarto-header .navbar-nav.me-auto .nav-item {
+  display: flex;
+  align-items: baseline;
+}
+#quarto-header .navbar-nav.me-auto .nav-item + .nav-item::before {
+  content: "|";
+  padding: 0 0.6em;
+  font-size: 0.85rem;
+  color: $muted-color;
+}
+
+// Phones: slightly tighter menu so all four items fit on one line
+@media (max-width: 575.98px) {
+  #quarto-header .navbar-nav .nav-link,
+  #quarto-header .navbar-nav.me-auto .nav-item + .nav-item::before {
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+  }
+  #quarto-header .navbar-nav.me-auto .nav-item + .nav-item::before {
+    padding: 0 0.4em;
+  }
+}
+
+// Page titles sit a little closer to the header
+#title-block-header {
+  margin-top: 0.5rem;
+}
+
+// Footer: thin rule above, small grey text (as on the old site)
+.nav-footer {
+  border-top: 1px solid $muted-color;
+  color: $muted-color;
+  font-size: 0.85rem;
+  a { color: $muted-color; }
+}
+
+// ---------------------------------------------------------------------------
+// Homepage photo: floats on the right with the CV button under it,
+// and the text wraps around it (see index.qmd and _about-photo.html)
+// ---------------------------------------------------------------------------
+.about-picture {
+  float: right;
+  width: min(200px, 40%);
+  margin: 0.3rem 0 1rem 1.5rem;
+  text-align: center;
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+    cursor: pointer;
+    margin: 0;
+  }
+  p { margin: 0; }
+  .btn {
+    margin-top: 0.6rem;
+    white-space: nowrap;
+    font-size: 0.8rem;
+    color: $muted-color;
+    border-color: $muted-color;
+    &:hover { color: $body-bg; background-color: $muted-color; }
+  }
 }
