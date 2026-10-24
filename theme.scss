@@ -402,12 +402,12 @@ div.callout {
     background-color: transparent !important;
     font-size: 1rem !important;
   }
-  // Text area: tight padding (about a quarter of Quarto's default)
+  // Text area: 75% of the default spacing above and below the text
   .callout-body-container {
     padding: 0 1em 0 !important;
-    > :first-child { padding-top: 0.2rem !important; margin-top: 0 !important; }
+    > :first-child { padding-top: 0.7rem !important; margin-top: 0 !important; }
     > :last-child,
-    > div > :last-child { padding-bottom: 0.2rem !important; margin-bottom: 0 !important; }
+    > div > :last-child { padding-bottom: 0.9rem !important; margin-bottom: 0 !important; }
   }
 }
 @each $name, $color in $callout-colors {
