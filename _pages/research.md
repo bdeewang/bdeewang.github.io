@@ -40,7 +40,7 @@ permalink: /research
     <a class="btn btn-filled" href="https://arxiv.org/abs/2510.01090"><code> &nbsp;arXiv:2510.01090&nbsp;</code></a>
 </li>
 
-<li> Traverso's Isogeny Conjecture for Some Unitary <em>p</em>-Divisible Groups<br>
+<li> Analogues of Traverso's Isogeny Conjecture for Some Unitary <em>p</em>-Divisible Groups<br>
     <small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
     <p style="margin-bottom: -1.25em;"></p>
     <a class="btn btn-filled" href="https://arxiv.org/abs/2507.19708"><code> &nbsp;arXiv:2507.19708&nbsp;</code></a>
