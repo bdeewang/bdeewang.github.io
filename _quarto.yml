@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"          # only .qmd files, so the old Jekyll .md files are ignored for now
+  resources:
+    - CNAME
+    - robots.txt
+    - "static/**"
+
+website:
+  title: "Deewang Bhamidipati"
+  description: "Deewang, a mathematician"
+  site-url: https://bdeewang.com
+  favicon: static/favicon/bdeewang-favicon.png
+  search: true
+  navbar:
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Service
+        href: service.qmd
+      - text: Resources
+        href: resources.qmd
+    right:
+      - text: "(^_^)"
+        href: https://www.youtube.com/watch?v=z9Ug-3qhrwY
+  page-footer:
+    left: "[Top ↑](#)"
+    right: "© Deewang Bhamidipati 2026"
+
+format:
+  html:
+    theme: cosmo       # becomes [cosmo, theme.scss] in step 6
+    toc: false
