@@ -2,6 +2,8 @@
 title: "Mentorship"
 description: "DRP, Twoples and mentorship projects"
 body-classes: section-service
+aliases:
+  - drp.html        # old address bdeewang.com/drp redirects here
 ---
 
 ## Directed Reading Program

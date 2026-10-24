@@ -1,7 +1,24 @@
-<!-- On every page except the homepage, the header shows the page title (e.g. RESEARCH)
-     instead of the name, and the (^_^) link on the right becomes "Deewang Bhamidipati" (links home). -->
+<!-- Header tweaks, run on every page:
+     1. Drop-down menus (e.g. Research): on one of their pages the menu reads "Research > Articles".
+     2. Every page except the homepage shows its own title in the header (e.g. TEACHING) instead of the
+        name, and the (^_^) link on the right becomes "Deewang Bhamidipati" (links home). -->
 <script>
 (function () {
+  // 1. Drop-down breadcrumb
+  const here = (location.pathname.split("/").pop() || "index.html").replace(/\.html$/, "");
+  document.querySelectorAll("#quarto-header .nav-item.dropdown").forEach(function (dd) {
+    const item = Array.from(dd.querySelectorAll(".dropdown-item")).find(function (a) {
+      return (a.getAttribute("href") || "").split("/").pop().replace(/\.html$/, "") === here;
+    });
+    if (!item) return;
+    const toggle = dd.querySelector(".dropdown-toggle");
+    const label = toggle.querySelector(".menu-text");
+    label.textContent = label.textContent.trim() + " > " + item.textContent.trim();
+    toggle.classList.add("active");
+    item.classList.add("active");
+  });
+
+  // 2. Page title in the header
   const title = document.querySelector("#title-block-header h1.title");
   const brand = document.querySelector("#quarto-header .navbar-title");
   if (!title || !brand) return;           // homepage: leave the name and (^_^) as they are

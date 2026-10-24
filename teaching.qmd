@@ -34,7 +34,7 @@ One section each of Calculus 2 (MATH 120) and Linear Algebra (MATH 232) [★]{.a
 - MATH 3 **Precalculus**, [Summer 2025, Summer 2020]{.small}
 - MATH 11B **Calculus with Applications**, [Summer 2024, Summer 2022]{.small}
 - MATH 181 **History of Mathematics**, [Summer 2024]{.small}
-- MATH 100 **Introduction to Proof**, [Winter 2024, Summer 2020]{.small}\
+- MATH 100 **Introduction to Proof**, [Winter 2024, Summer 2022]{.small}\
   [Lecture Notes (W24)](https://drive.google.com/file/d/1tqiPmwgJM5W30Qv5SPdQlHtXQ5JrbrvM/view?usp=sharing){.btn .btn-accent}
   [Lecture Notes (X20)](https://drive.google.com/file/d/1wO8R17nlPOVqxrAENGtnsi0TLw29PFt7/view?usp=drive_link){.btn .btn-accent}
 - MATH 105A **Real Analysis**, [Summer 2023, Fall 2020]{.small}\

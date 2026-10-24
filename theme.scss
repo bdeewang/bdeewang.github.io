@@ -301,6 +301,35 @@ body.nav-fixed {
   }
 }
 
+// Research drop-down (Articles / Travel), styled like the rest of the menu
+#quarto-header .dropdown-toggle::after {
+  vertical-align: 0.15em;
+  margin-left: 0.35em;
+  border-top-width: 0.3em;
+  border-left-width: 0.28em;
+  border-right-width: 0.28em;
+}
+#quarto-header .dropdown-menu {
+  background-color: $box-bg;
+  border: 1px solid $muted-color;
+  border-radius: 4px;
+  padding: 0.3rem 0;
+  margin-top: 0.4rem !important;
+  min-width: 9rem;
+}
+#quarto-header .dropdown-item {
+  font-size: 0.889rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: $muted-color;
+  padding: 0.3rem 0.9rem;
+  background: transparent !important;
+}
+#quarto-header .dropdown-item:hover,
+#quarto-header .dropdown-item.active {
+  color: $link-hover-color;
+}
+
 // Page titles go in the header ("RESEARCH" with "← HOME" on the right, see _header-title.html),
 // so the title/description block at the top of each page is hidden.
 // (Only when JavaScript runs; otherwise the normal title stays visible.)
@@ -317,6 +346,10 @@ html.js-header-title #title-block-header {
 }
 #title-block-header + * {
   margin-top: 0.5rem !important;
+}
+// Pages that open with a heading (Travel, Mentoring) start at the same height as the rest
+#title-block-header + section > :is(h2, h3):first-child {
+  margin-top: 0 !important;
 }
 
 // Footer: thin rule above, small grey text (as on the old site)
@@ -339,10 +372,13 @@ footer.footer {
 // Homepage photo: floats on the right with the CV button under it,
 // and the text wraps around it (see index.qmd and _about-photo.html)
 // ---------------------------------------------------------------------------
+.about-picture + p {
+  margin-top: 0.6rem;              // first paragraph starts level with the photo
+}
 .about-picture {
   float: right;
   width: clamp(165px, 40%, 200px);   // wide enough for the CV button on phones
-  margin: 0.3rem 0 1rem 1.5rem;
+  margin: 0.6rem 0 1rem 1.5rem;     // top: same starting height as other pages
   text-align: center;
   img {
     width: 100%;

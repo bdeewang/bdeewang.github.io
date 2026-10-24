@@ -17,8 +17,12 @@ website:
   navbar:
     collapse: false     # never fold the menu into a ☰ button; it wraps like the old site
     left:
-      - text: Research
-        href: research.qmd
+      - text: Research          # drop-down; on these pages it reads "Research > Articles" etc.
+        menu:
+          - text: Articles
+            href: research.qmd
+          - text: Travel
+            href: travel.qmd
       - text: Teaching
         href: teaching.qmd
       - text: Service
