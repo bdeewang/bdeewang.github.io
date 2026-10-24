@@ -347,3 +347,19 @@ html.js-header-title #title-block-header {
     &:hover { color: $link-hover-color; background-color: $body-bg; border-color: $muted-color; }
   }
 }
+
+// ---------------------------------------------------------------------------
+// Tighter spacing under headings (half of Quarto's default)
+// ---------------------------------------------------------------------------
+main.content h2 {
+  margin-bottom: 0.5rem;   // heading → list: 18px → 9px
+  padding-bottom: 0;
+}
+main.content h3 {
+  margin-bottom: 0.25rem;  // sub-heading → list: 9px → 4.5px
+}
+main.content h2 + section > h3:first-child,
+main.content h2 + h3 {
+  margin-top: 0;           // "Instructor of Record" → "Carleton College": 27px → ~13px
+  padding-top: 0.25rem;
+}
