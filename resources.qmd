@@ -1,69 +1,28 @@
 ---
 title: "Resources"
 description: "Resources and links"
+body-classes: section-resources
 ---
 
-<!--Below are some selected activities, a complete list can be found <a href="/service-extended"><b>here</b></a>.-->
+::: {.callout-warning}
+## Carleton Resources
+to be updated
+:::
 
-<!--
-Tip/Green = Current
-Note/Blue = Highlight/Past
-Important/Red = Other/Past
--->
+:::: {.grid}
 
-<!--
-Warning = Yellow
-Note = Blue
-Important = Red
-Tip = Green
-Caution = Orange (close to yellow)
-Info = Dark Blue
-Success = Dark Green
-Danger = Dark Red
-Secondary = Grey
--->
+::: {.g-col-12 .g-col-md-6}
+## Blogs & Articles
 
-<div class="callout-quarto warning">
-<div class="callout-title">Carleton Resources</div>
-<div class="callout-content">
-<p>to be updated</p>
-</div>
-</div>
+## Math Online
 
-<div style="display: flex; flex-direction: row; margin-top:-3.5em">
+## Forums
+:::
 
-<div style="width: 350px;">
-<h3 style="color:#F6CD94">Blogs & Articles</h3>
-<h3 style="color:#F6CD94">Math Online</h3>
-<h3 style="color:#F6CD94">Forums</h3>
-</div>
+::: {.g-col-12 .g-col-md-6}
+## Mathematicians
 
+## LaTeX
+:::
 
-<div style="flex: 1;">
-<h3 style="color:#F6CD94">Mathematicians</h3>
-<h3 style="color:#F6CD94">LaTeX</h3>
-<ul style="margin-top: -1em;">
-</ul>
-</div>
-</div>
-<!-- 
-
-### External
-
-<details>
-<summary><b style="color:#69b2c1">Conference Sessions</b></summary>
-
-<ul style="line-height:180%">
-
-<li> Invited Paper Session on <b>Rethinking Number Theory</b><br>
-<em>MAA MathFest</em><br>
-Organiser, <small>co-organised with Tyler Billingsley and Sandra Nair</small></li>
-
-<li> Special Session on <b>Rethinking Number Theory</b><br>
-<em>AWM Research Symposium</em><br>
-Organiser, <small>co-organised with Eva Goedhart and Amita Malik</small></li>
-
-</ul>
-</details>
-
-#69b2c1 -->
+::::

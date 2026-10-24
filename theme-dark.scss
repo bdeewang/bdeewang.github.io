@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+// Dark mode: layered on top of theme.scss (see _quarto.yml).
+// Colours follow the old site's dark scheme.
+$body-bg: #1e1f20;
+$body-color: #d9d9d9;
+$link-color: #7fb8ec;
+$navbar-bg: #262829;
+$navbar-fg: #d9d9d9;
+$footer-bg: #1e1f20;
+$selection-bg: #3d7cc9;
+
+$border-color: #3a3c3e;
+$table-border-color: #3a3c3e;
+$code-color: #e0a3ff;
+$code-bg: #2a2c2e;
+$input-bg: #2a2c2e;
+$input-color: #d9d9d9;
+
+/*-- scss:rules --*/
+
+// The pastel section colours read well on dark backgrounds as they are.
+// Outline buttons (e.g. DOI) use the brighter accent so they stay visible.
+.btn-outline-accent {
+  --bs-btn-color: var(--accent);
+  --bs-btn-border-color: var(--accent);
+  --bs-btn-hover-color: #1e1f20;
+  --bs-btn-hover-bg: var(--accent);
+  --bs-btn-hover-border-color: var(--accent);
+}
+
+// Page titles and plain headings
+h1, h3, .title {
+  color: #ececec;
+}

@@ -1,0 +1,131 @@
+/*-- scss:defaults --*/
+
+// Fonts: self-hosted IBM Plex (files in static/fonts/); don't load Cosmo's Google font
+$web-font-path: false;
+$font-family-sans-serif: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-family-monospace: "IBM Plex Mono", SFMono-Regular, Menlo, monospace;
+
+// Typography: slightly larger, airier text, like the old site
+$font-size-root: 18px;
+$line-height-base: 1.6;
+$headings-font-weight: 600;
+$h1-font-size: 2rem;
+$h2-font-size: 1.5rem;
+$h3-font-size: 1.2rem;
+
+// Colours (light mode). `!default` lets theme-dark.scss override them in dark mode.
+$body-bg: #ffffff !default;
+$body-color: #1a1a1a !default;
+$link-color: #0c5394 !default;
+$navbar-bg: #f8f9fa !default;
+$selection-bg: #0c5394 !default;
+
+// Section accent colours (headings), and a darker shade of each (buttons).
+// Each page picks its section with `body-classes:` in its front matter.
+$research:       #e89795;
+$research-dark:  #973A36;
+$teaching:       #8cd2e7;
+$teaching-dark:  #367385;
+$service:        #9DD49C;
+$service-dark:   #3E7A3D;
+$resources:      #F6CD94;
+$resources-dark: #8A6420;
+
+/*-- scss:rules --*/
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("/static/fonts/IBMPlexSans-Regular.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("/static/fonts/IBMPlexSans-Italic.woff2") format("woff2");
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("/static/fonts/IBMPlexSans-Bold.woff2") format("woff2");
+  font-weight: 500 700; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("/static/fonts/IBMPlexSans-BoldItalic.woff2") format("woff2");
+  font-weight: 500 700; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("/static/fonts/IBMPlexMono-Regular-Latin1.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+
+::selection {
+  background-color: $selection-bg;
+  color: #fff;
+}
+
+.btn:hover { text-decoration: none; }
+
+// Default accent (pages without a section class)
+body {
+  --accent: #{$teaching};
+  --accent-dark: #{$teaching-dark};
+}
+body.section-research  { --accent: #{$research};  --accent-dark: #{$research-dark}; }
+body.section-teaching  { --accent: #{$teaching};  --accent-dark: #{$teaching-dark}; }
+body.section-service   { --accent: #{$service};   --accent-dark: #{$service-dark}; }
+body.section-resources { --accent: #{$resources}; --accent-dark: #{$resources-dark}; }
+
+// Section headings (##) take the page's accent colour
+body[class*="section-"] main h2 {
+  color: var(--accent);
+  border-bottom: none;
+}
+
+// Accent text, e.g. the ★ "currently teaching" marker
+.accent {
+  color: var(--accent);
+  font-weight: bold;
+}
+
+// Buttons for links like arXiv / DOI / lecture notes:
+//   [arXiv:2306.02237](https://...){.btn .btn-accent}
+//   [DOI](https://...){.btn .btn-outline-accent}
+.btn-accent,
+.btn-outline-accent {
+  --bs-btn-padding-y: 0.1rem;
+  --bs-btn-padding-x: 0.5rem;
+  --bs-btn-font-size: 0.85rem;
+  margin: 0.3rem 0.4rem 0.2rem 0;
+  text-decoration: none;
+}
+.btn-accent {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: var(--accent-dark);
+  --bs-btn-border-color: var(--accent-dark);
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: color-mix(in srgb, var(--accent-dark) 80%, black);
+  --bs-btn-hover-border-color: color-mix(in srgb, var(--accent-dark) 80%, black);
+}
+.btn-outline-accent {
+  --bs-btn-color: var(--accent-dark);
+  --bs-btn-border-color: var(--accent-dark);
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: var(--accent-dark);
+  --bs-btn-hover-border-color: var(--accent-dark);
+}
+
+// Fold-open lists (<details>) used for past years, TA work, syllabus sections.
+// Note: don't put #-headings inside <details>; use **bold** lines instead.
+details {
+  margin: 0.75rem 0;
+}
+details > summary {
+  font-weight: 600;
+  font-size: 1.15rem;
+  color: var(--accent);
+  cursor: pointer;
+}
+details[open] > summary {
+  margin-bottom: 0.5rem;
+}

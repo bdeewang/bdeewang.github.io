@@ -33,5 +33,8 @@ website:
 
 format:
   html:
-    theme: cosmo       # becomes [cosmo, theme.scss] in step 6
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme.scss, theme-dark.scss]
+    respect-user-color-scheme: true   # follow the visitor's system light/dark setting; the toggle still works
     toc: false

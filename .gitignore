@@ -13,8 +13,13 @@ _site/
 # jekyll cahce
 .jekyll-cache/
 
-# Google Drive sync 
+# Google Drive sync
 .tmp.driveupload/
 # Quarto
 /.quarto/
 _site/
+
+**/*.quarto_ipynb
+
+# Screenshots saved by Claude (not part of the site)
+Claude outputs/

@@ -1,103 +1,73 @@
 ---
 title: "Research"
 description: "Ongoing and published research and related activities"
+body-classes: section-research
 ---
 
-<div class="callout-quarto important">
-<div class="callout-title">Travel</div>
-<div class="callout-content">
-<p>You can view my <a href="travel.qmd">travel schedule for upcoming talks and events here</a>.</p>
-</div>
-</div>
+::: {.callout-important}
+## Travel
+You can view my [travel schedule for upcoming talks and events here](travel.qmd).
+:::
 
+## Articles
 
-<!-- ### Articles -->
-<h3 style="color:#e89795">Articles</h3>
+::: {.reversed}
+<!-- Newest paper first: add new papers at the top as another "1." item; numbering counts down automatically. -->
+1.  Ekedahl-Oort strata with a superspecial factor in unitary Shimura varieties\
+    [*with Emerald Andrews, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
+    [arXiv:2610.22036](https://arxiv.org/abs/2610.22036){.btn .btn-accent}
 
-<ol reversed style="margin-top: -1em;">
-<li> Ekedahl-Oort strata with a superspecial factor in unitary Shimura varieties<br>
-<small><em>with Emerald Andrews, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
-<p style="margin-bottom: -1.25em;"></p>
-<a class="btn btn-filled" href="https://arxiv.org/abs/2610.22036"><code> &nbsp;arXiv:2610.22036&nbsp;</code></a>
-</li>
+1.  On the classification of indecomposable Ekedahl-Oort strata in unitary Shimura varieties, and related Newton polygons\
+    [*with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
+    [arXiv:2606.16882](https://arxiv.org/abs/2606.16882){.btn .btn-accent}
 
-<li> On the classification of indecomposable Ekedahl-Oort strata in unitary Shimura varieties, and related Newton polygons<br>
-<small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
-<p style="margin-bottom: -1.25em;"></p>
-<a class="btn btn-filled" href="https://arxiv.org/abs/2606.16882"><code> &nbsp;arXiv:2606.16882&nbsp;</code></a>
-</li>
+1.  The Ekedahl-Oort and Newton stratification of the GU(3,2) Shimura variety\
+    [*with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
+    [arXiv:2510.01090](https://arxiv.org/abs/2510.01090){.btn .btn-accent}
 
-<li> The Ekedahl-Oort and Newton stratification of the GU(3,2) Shimura variety<br>
-<small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
-<p style="margin-bottom: -1.25em;"></p>
-<a class="btn btn-filled" href="https://arxiv.org/abs/2510.01090"><code> &nbsp;arXiv:2510.01090&nbsp;</code></a>
-</li>
+1.  Analogues of Traverso's Isogeny Conjecture for Some Unitary *p*-Divisible Groups\
+    [*with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
+    [arXiv:2507.19708](https://arxiv.org/abs/2507.19708){.btn .btn-accent}
 
-<li> Analogues of Traverso's Isogeny Conjecture for Some Unitary <em>p</em>-Divisible Groups<br>
-<small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
-<p style="margin-bottom: -1.25em;"></p>
-<a class="btn btn-filled" href="https://arxiv.org/abs/2507.19708"><code> &nbsp;arXiv:2507.19708&nbsp;</code></a>
-</li>
+1.  Ekedahl-Oort strata in the GU(q — 2, 2) Shimura variety\
+    [*with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
+    [arXiv:2405.04464](https://arxiv.org/abs/2405.04464){.btn .btn-accent}
 
-<li> Ekedahl-Oort strata in the GU(q — 2, 2) Shimura variety<br>
-<small><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></small>
-<p style="margin-bottom: -1.25em;"></p>
-<a class="btn btn-filled" href="https://arxiv.org/abs/2405.04464"><code> &nbsp;arXiv:2405.04464&nbsp;</code></a>
-</li>
+1.  The Brauer Group of 𝒴₀(2)\
+    [*with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez*]{.small}\
+    [**Épijournal de Géométrie Algébrique (2026), no. 10**]{.small .accent}\
+    [arXiv:2311.18132](https://arxiv.org/abs/2311.18132){.btn .btn-accent}
+    [DOI](https://doi.org/10.46298/epiga.2026.13916){.btn .btn-outline-accent}
 
-<li> The Brauer Group of 𝒴₀(2)<br>
-<small><em>with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez</em><br>
-<b style="color:#F1C0BF">Épijournal de Géométrie Algébrique (2026), no. 10</b></small>
-<p style="margin-bottom: -1.25em;"></p>
-<a class="btn btn-filled" href="https://arxiv.org/abs/2311.18132"><code>&nbsp;arXiv:2311.18132&nbsp;</code></a> &nbsp;&nbsp;<a class="btn btn-ghost" href="https://doi.org/10.46298/epiga.2026.13916">&nbsp;DOI&nbsp;</a>
-</li>
+1.  Frobenius distributions of low dimensional abelian varieties over finite fields\
+    [*with Santiago Arango-Pineros and Soumya Sankar*]{.small}\
+    [**International Mathematics Research Notices (2024), no. 16, 11989–12020**]{.small .accent}\
+    [arXiv:2306.02237](https://arxiv.org/abs/2306.02237){.btn .btn-accent}
+    [DOI](https://doi.org/10.1093/imrn/rnae148){.btn .btn-outline-accent}
+:::
 
-<li> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
-<small><em>with Santiago Arango-Pineros and Soumya Sankar</em><br>
-<b style="color:#F1C0BF">International Mathematics Research Notices (2024), no. 16, 11989–12020</b></small>
-<p style="margin-bottom: -1.25em;"></p>
-<a class="btn btn-filled" href="https://arxiv.org/abs/2306.02237"><code>&nbsp;arXiv:2306.02237&nbsp;</code></a> &nbsp;&nbsp;<a class="btn btn-ghost" href="https://doi.org/10.1093/imrn/rnae148">&nbsp;DOI&nbsp;</a>
-</li>
-</ol>
+## SOTL Articles
 
+1.  Designing for the Digital Student Experience: Addressing Pedagogical and Social Challenges in Synchronous Online STEM Courses\
+    [*with Pedro Morales-Almazan, Sophie Aiken, Malachi Alexander, and Cheyenne Dowd*]{.small}\
+    (in preparation)
 
-<!-- ### SOTL Articles -->
-<h3 style="color:#e89795">SOTL Articles</h3>
+## Math Education Projects
 
-<ol reversed style="margin-top: -1em;">
-<li>Designing for the Digital Student Experience: Addressing Pedagogical and Social Challenges in Synchronous Online STEM Courses<br>
-<small><em>with Pedro Morales-Almazan, Sophie Aiken, Malachi Alexander, and Cheyenne Dowd</em></small>
-<p style="margin-bottom: -1.25em;"></p>
-(in preparation)
-</li>
-</ol>
+- Proofs and Proof-writing at UC Santa Cruz [*(with Jennifer Guerrero)*]{.small}
+- Developing Online Courses at UC Santa Cruz [*(with Sophie Aiken, Malachi Alexander, Cheyenne Dowd, and Pedro Morales-Almazan)*]{.small}
+- Redesigning the Calculus for Life Sciences Courses at UC Santa Cruz [*(with Sophie Aiken, Malachi Alexander, Jennifer Guerrero, Ryan Pugh, David Rubinstein, and Nandini Bhattacharya and Pedro Morales-Almazan)*]{.small}
 
-<!-- --------------------------------------------------- -->
+## Theses
 
-<h3 style="color:#e89795">Math Education Projects</h3>
-<ul style="margin-top: -1em;">
+- [A *p*-adic Analytic Brauer group](https://escholarship.org/uc/item/0v35d5nr)\
+  [PhD Thesis, UC Santa Cruz]{.small}
+- [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)\
+  [Master's Thesis, Higher School of Economics]{.small}
 
-<li>Proofs and Proof-writing at UC Santa Cruz <small><em>(with Jennifer Guerrero)</em></small></li>
-
-<li> Developing Online Courses at UC Santa Cruz <small><em>(with Sophie Aiken, Malachi Alexander, Cheyenne Dowd, and Pedro Morales-Almazan)</em></small></li>
-
-<li> Redesigning the Calculus for Life Sciences Courses at UC Santa Cruz <small><em>(with Sophie Aiken, Malachi Alexander, Jennifer Guerrero, Ryan Pugh, David Rubinstein, and Nandini Bhattacharya and Pedro Morales-Almazan)</em></small></li>
-
-</ul>
-
-<!-- ### Theses -->
-<h3 style="color:#e89795">Theses</h3>
-<ul style="margin-top: -1.25em;">
-
-<li> <a href="https://escholarship.org/uc/item/0v35d5nr">A <em>p</em>-adic Analytic Brauer group</a><br>
-<small>PhD Thesis, UC Santa Cruz</small></li>
-
-<li> <a href="https://www.hse.ru/en/edu/vkr/296285338">Motivic Integrals of Orbifolds</a><br>
-<small>Master's Thesis, Higher School of Economics</small></li>
-
-</ul>
-
-<!-- --------------------------------------------------- -->
-
-
-<!-- c885b9 -->
+```{=html}
+<script>
+  // Number the Articles list newest-first (7, 6, 5, …) like the old site
+  document.querySelectorAll(".reversed ol").forEach(ol => ol.reversed = true);
+</script>
+```
