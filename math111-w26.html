@@ -1,0 +1,1334 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.19">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="Introduction to Calculus at Carleton College">
+
+<title>MATH 111: Introduction to Calculus – Deewang Bhamidipati</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./static/favicon/bdeewang-favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-b69cdfea92a009afcacc485072a09b74.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-747ecf44de2768fe38211f31bee95df7.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-b69cdfea92a009afcacc485072a09b74.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-cf509177d3461a5a7082e4b819433c5d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-88cccd9cd70acdd816ed42a397711b9b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-cf509177d3461a5a7082e4b819433c5d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>document.documentElement.classList.add("js-header-title");</script>
+
+
+</head>
+
+<body class="nav-fixed section-teaching fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+    const darkModeDefault = queryPrefersDark.matches;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    queryPrefersDark.addEventListener("change", e => {
+      if(window.localStorage.getItem("quarto-color-scheme") !== null)
+        return;
+      const alternate = e.matches
+      toggleColorMode(alternate);
+      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
+      toggleGiscusIfUsed(alternate, darkModeDefault);
+    });
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Deewang Bhamidipati</span>
+    </a>
+  </div>
+          <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./service.html"> 
+<span class="menu-text">Service</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./resources.html"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+</ul>
+          <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.youtube.com/watch?v=z9Ug-3qhrwY"> 
+<span class="menu-text">(<sup>_</sup>)</span></a>
+  </li>  
+</ul>
+          <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+            <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">MATH 111: Introduction to Calculus</h1>
+</div>
+
+<div>
+  <div class="description">
+    Introduction to Calculus at Carleton College
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="winter-2026-carleton-college" class="level2">
+<h2 class="anchored" data-anchor-id="winter-2026-carleton-college">Winter 2026 | Carleton College</h2>
+<p><em>(just a test, not formal)</em></p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Instructor &amp; Contact
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Instructor:</strong> Deewang Bhamidipati (he/him/his)<br>
+<em>You can call me by my first name, pronounced <a href="https://drive.google.com/file/d/1LiHvj0pwEpcv65rLTDq3kt4q4jIGs58D/view?usp=sharing">thee-waang</a>, or Professor B.</em></p>
+<p><strong>Email:</strong> <a href="mailto:bdeewang@carleton.edu" class="email">bdeewang@carleton.edu</a><br>
+<strong>Office:</strong> CMC 219</p>
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Email Communication
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You can always email me if you wish to chat about anything! Please provide as much information as you can about what you’d like to discuss. I check email during work hours (Mon–Fri, 8:30 AM – 5:30 PM) and will respond within 1 working day.<br>
+<em>Never hesitate to reach out — I always want to hear from you.</em></p>
+</div>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Office Hours
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>This is when you can come talk to me about anything and everything!</em> For math conversations, my first question will always be “what have you tried so far?” So come prepared with some self-reflection on the work you’ve done!<br>
+<strong>Drop-in Office Hours</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 24%">
+<col style="width: 24%">
+<col style="width: 24%">
+<col style="width: 24%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Monday</th>
+<th style="text-align: left;">Tuesday</th>
+<th style="text-align: left;">Wednesday</th>
+<th style="text-align: left;">Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">2:15 – 3:15 PM<br>
+<span class="small">CMC 206</span></td>
+<td style="text-align: left;">10:30 – 11:30 AM<br>
+<span class="small">CMC 206</span></td>
+<td style="text-align: left;">4:00 – 5:00 PM<br>
+<span class="small">CMC 209</span></td>
+<td style="text-align: left;">2:15 – 3:15 PM<br>
+<span class="small">CMC 206</span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>By appointment:</strong> You can schedule a 15-minute one-on-one by emailing me (no Thursday appointments).</p>
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Office Door Policy
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Wide open</strong> — I’m available to chat!</li>
+<li><strong>Slightly ajar</strong> — Knock and ask about availability</li>
+<li><strong>Closed</strong> — Not available; please email me</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fostering-a-welcoming-environment" class="level2">
+<h2 class="anchored" data-anchor-id="fostering-a-welcoming-environment">Fostering a Welcoming Environment</h2>
+<p>I strive to create an inclusive space where everyone—regardless of background or identities—can discover, define, and develop their mathematical voice, and feel welcome and valued.</p>
+<p>To achieve this, I ask that you engage fully with your peers and the material by reflecting on challenges, asking questions, and encouraging one another. We will all experience struggles as we learn together, and that’s a normal part of the process.</p>
+<p>When we cause harm, I expect us to listen thoughtfully, apologise sincerely, and commit to growth. Behaviour that undermines another person’s sense of belonging has no place in our learning environment. Please speak with me or university officials if you experience or witness discrimination or harassment.</p>
+</section>
+<section id="course-information" class="level2">
+<h2 class="anchored" data-anchor-id="course-information">Course Information</h2>
+<details>
+<summary>
+Course Description &amp; Learning Goals
+</summary>
+<p>The main goal in this course is to build your understanding of calculus as the study of <strong>change</strong>, <strong>accumulation</strong>, and the <strong>infinite</strong> (both infinitely big and infinitesimally small).</p>
+<p>By the end of this course, you will:</p>
+<ul>
+<li><em>Learn</em> the language of limits and grasp how functions behave as they approach specific values</li>
+<li><em>Know</em> how to use derivatives to capture instantaneous rates of change and <em>calculate</em> derivatives using different techniques</li>
+<li><em>Know</em> how to use derivatives to graph functions and <em>apply</em> your skills to solve optimization problems</li>
+<li>Have a firm grasp on integrals and antiderivatives and <em>know</em> how to calculate definite and indefinite integrals</li>
+<li><em>Connect</em> derivatives and integrals through the Fundamental Theorem of Calculus</li>
+</ul>
+</details>
+<details>
+<summary>
+Textbook
+</summary>
+<p><strong><em>Essential Calculus: Early Transcendentals</em></strong> (9th Edition) by James Stewart</p>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Textbook Cost Support
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If the price of your textbook is an obstacle, there are campus resources available:</p>
+<ul>
+<li>Dean of Students Office</li>
+<li>TRIO lending library (for TRIO students)</li>
+<li>Math/Stats department lending library (limited copies available)</li>
+</ul>
+<p>Contact Sue Jandro (<a href="mailto:sjandro@carleton.edu" class="email">sjandro@carleton.edu</a>) to reserve a book.</p>
+</div>
+</div>
+</details>
+<details>
+<summary>
+Class Time &amp; Sections
+</summary>
+<ul>
+<li><strong>Math 111.01</strong> — MWF during 2a in CMC 206</li>
+<li><strong>Math 111.02</strong> — MWF during 4a in CMC 206</li>
+</ul>
+<p>Attendance is encouraged as it’s the primary place where you’ll see new content and get an immediate opportunity to engage with it. Class time will almost always be a mixture of short lectures and group work.</p>
+<p><em>I encourage limiting the use of technology in class (laptops, phones) unless a class activity requires it.</em></p>
+</details>
+<details>
+<summary>
+Course Platforms
+</summary>
+<p><strong>Moodle</strong> — Primary course repository for announcements, homework, and course materials. <a href="https://moodle.carleton.edu/">Log in here</a> with your Carleton ID.</p>
+<p><strong>Gradescope</strong> — All assessments that need to be turned in will be uploaded here. Links available on Moodle.</p>
+</details>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Our course has the following assessment components:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Weight</th>
+<th style="text-align: left;">Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Homework</strong></td>
+<td style="text-align: left;">10%</td>
+<td style="text-align: left;">9 assignments (2 lowest dropped)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Quizzes</strong></td>
+<td style="text-align: left;">10%</td>
+<td style="text-align: left;">7 check-in quizzes (2 lowest dropped)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Reflections</strong></td>
+<td style="text-align: left;">5%</td>
+<td style="text-align: left;">9 weekly surveys</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Midterms</strong></td>
+<td style="text-align: left;">50%</td>
+<td style="text-align: left;">3 exams (Top 2: 18% each, Lowest: 14%)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Final Exam</strong></td>
+<td style="text-align: left;">25%</td>
+<td style="text-align: left;">Comprehensive</td>
+</tr>
+</tbody>
+</table>
+<details>
+<summary>
+Assessment Details
+</summary>
+<p><strong>Homework (10%)</strong><br>
+9 homeworks due on Wednesdays at 11:59 PM starting Week 2. Problems are assigned for each class as “daily homework”; Wednesday’s assignment covers problems from Mon/Wed/Fri of the previous week. Two lowest scores dropped.</p>
+<p><strong>Check-in Quizzes (10%)</strong><br>
+7 take-home quizzes with 3 questions each. If handed out on Day N, due on Day N+1 of class. Questions are heavily motivated by homework problems. No make-ups, but two lowest scores dropped.<br>
+<em>Purpose: Help you track your progress and practice working in an exam setting.</em></p>
+<p><strong>Reflections (5%)</strong><br>
+9 weekly reflection surveys to help me understand how the class is progressing for you.</p>
+<p><strong>Midterms (50%)</strong><br>
+3 midterms during Weeks 3, 6, and 9 on Fridays during class time. Midterm corrections opportunity available (details shared before first midterm).</p>
+<p><strong>Final Exam (25%)</strong><br>
+Comprehensive final exam covering all course material.</p>
+</details>
+<details>
+<summary>
+Grading Scale
+</summary>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">≥93%</td>
+<td style="text-align: right;"><strong>A−</strong></td>
+<td style="text-align: right;">90–92%</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>B+</strong></td>
+<td style="text-align: center;">87–89%</td>
+<td style="text-align: right;"><strong>B</strong></td>
+<td style="text-align: right;">83–86%</td>
+<td><strong>B−</strong></td>
+<td>80–82%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>C+</strong></td>
+<td style="text-align: center;">77–79%</td>
+<td style="text-align: right;"><strong>C</strong></td>
+<td style="text-align: right;">73–76%</td>
+<td><strong>C−</strong></td>
+<td>70–72%</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>D+</strong></td>
+<td style="text-align: center;">67–69%</td>
+<td style="text-align: right;"><strong>D</strong></td>
+<td style="text-align: right;">63–66%</td>
+<td><strong>D−</strong></td>
+<td>60–62%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>F</strong></td>
+<td style="text-align: center;">&lt;60%</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</details>
+</section>
+<section id="course-schedule" class="level2">
+<h2 class="anchored" data-anchor-id="course-schedule">Course Schedule</h2>
+<p><em>Tentative plan—sections from the textbook are indicated, along with assessments.</em></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Week</th>
+<th style="text-align: left;">Monday</th>
+<th style="text-align: left;">Wednesday</th>
+<th style="text-align: left;">Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>1</strong></td>
+<td style="text-align: left;">1.1</td>
+<td style="text-align: left;">1.3</td>
+<td style="text-align: left;">1.4, 1.5</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>2</strong></td>
+<td style="text-align: left;">2.1, 2.2</td>
+<td style="text-align: left;">2.3, 2.6 | <strong>Quiz 1</strong></td>
+<td style="text-align: left;">2.5, 2.7</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>3</strong></td>
+<td style="text-align: left;">2.8 | <strong>Quiz 2</strong></td>
+<td style="text-align: left;">3.1</td>
+<td style="text-align: left;"><em>Midterm 1</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>4</strong></td>
+<td style="text-align: left;">3.2</td>
+<td style="text-align: left;">3.3 | <strong>Quiz 3</strong></td>
+<td style="text-align: left;">3.4</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>5</strong></td>
+<td style="text-align: left;">3.5</td>
+<td style="text-align: left;">3.6</td>
+<td style="text-align: left;">3.9 | <strong>Quiz 4</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>6</strong></td>
+<td style="text-align: left;"><em>Midterm Break</em></td>
+<td style="text-align: left;">5.1</td>
+<td style="text-align: left;"><em>Midterm 2</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>7</strong></td>
+<td style="text-align: left;">5.2</td>
+<td style="text-align: left;">4.9</td>
+<td style="text-align: left;">5.3 | <strong>Quiz 5</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>8</strong></td>
+<td style="text-align: left;">5.5</td>
+<td style="text-align: left;">3.8, 3.10</td>
+<td style="text-align: left;">4.1 | <strong>Quiz 6</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>9</strong></td>
+<td style="text-align: left;">4.3, 4.5, 4.6</td>
+<td style="text-align: left;">4.7</td>
+<td style="text-align: left;"><em>Midterm 3</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>10</strong></td>
+<td style="text-align: left;">6.1 | <strong>Quiz 7</strong></td>
+<td style="text-align: left;"><em>Review</em></td>
+<td style="text-align: left;"><em>Reading Day</em></td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Keys to Success
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>practice, discuss, ask</strong></p>
+<ul>
+<li><em>practice</em> problems</li>
+<li><em>discuss</em> problems with your peers</li>
+<li><em>ask</em> me questions—more importantly: ask <em>follow-up</em> questions</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="policies-guidelines" class="level2">
+<h2 class="anchored" data-anchor-id="policies-guidelines">Policies &amp; Guidelines</h2>
+<details>
+<summary>
+Homework Guidelines
+</summary>
+<p>Please turn in homework on the due date via Gradescope.</p>
+<p><strong>Extensions:</strong> If you need an extension (including late work), please ask <strong>before 7 PM on the due date</strong>. You can receive up to a one-day extension when asked.</p>
+<p><strong>Collaboration:</strong> You’re encouraged to work on homework with peers, in the MSSC, and during Office Hours—but what you turn in should be in your own words.</p>
+<p>You may consult other textbooks or online sources for clarification of concepts, but <strong>do not seek out solutions</strong> to assigned problems in other texts, materials from previous semesters, or online sources. Using sites like Chegg and Slader is considered academic dishonesty.</p>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>If You’re Tempted to Seek Solutions
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Email me or come to office hours to chat, and/or go to MSSC and work with a friend!</p>
+</div>
+</div>
+</details>
+<details>
+<summary>
+Generative AI Usage Policy
+</summary>
+<p><strong>My Philosophy on AI and Learning</strong><br>
+In mathematics, learning comes through practice, productive struggle, and developing your own problem-solving abilities. I want to see your authentic work and thinking process, not AI-generated solutions, because I’m excited to be part of your mathematical journey!</p>
+<p><strong>Limitations of AI Tools</strong><br>
+AI tools like ChatGPT, Claude, and Gemini can sometimes be useful, but their output contains biases, inaccuracies, and incomplete information. Think of them as that overconfident friend who didn’t actually do well in this course. You’re responsible for ensuring accuracy, and relying on AI won’t prepare you for exams.</p>
+<p><strong>Permitted Uses</strong><br>
+<em>I would prefer you email me or visit MSSC before using AI, but these uses are allowed:</em></p>
+<ul>
+<li><strong>Conceptual tutoring:</strong> Asking AI to help understand difficult concepts (exercise critical thinking—AI can be oversimplified or wrong)</li>
+<li><strong>Vocabulary clarification:</strong> Looking up individual mathematical terms (you must be able to explain any concept you use)</li>
+</ul>
+<p><strong>You must acknowledge AI use in your submission by including specific prompts used.</strong></p>
+<p><strong>Prohibited Uses</strong></p>
+<ul>
+<li><strong>Problem solving:</strong> Do not use AI to solve homework, provide solutions, or give step-by-step guidance</li>
+<li><strong>Writing assistance:</strong> Do not use AI to brainstorm, outline, draft, or edit your mathematical writing</li>
+<li><strong>Recording/transcription:</strong> Do not use AI tools (like Otter.ai) to record or summarize class meetings, office hours, or lectures</li>
+</ul>
+<p><strong>If You Suspect You’ve Violated This Policy</strong><br>
+Please reach out to me immediately. I value honesty and will work with you constructively, focusing on your learning rather than punishment.</p>
+</details>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Math/Stats Skills Center (MSSC)
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Location:</strong> CMC 231 | <a href="https://www.carleton.edu/math-stats-skills-center/">Website</a></p>
+<p>Tutors assist students with math questions, and it’s a great place to study, do homework, and meet for tutoring. All visits are drop-ins—no appointments necessary.</p>
+<p><em>MSSC opens Tuesday (9/16) of Week 1.</em></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Mon–Thu</th>
+<th style="text-align: left;">Fri</th>
+<th style="text-align: left;">Sat</th>
+<th style="text-align: left;">Sun</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">2–10 PM</td>
+<td style="text-align: left;">2–6 PM</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;">2–10 PM</td>
+</tr>
+</tbody>
+</table>
+<p><span class="small">Doors open at 8:30 AM on open days for quiet study space.</span></p>
+<p><strong>Upcoming:</strong> Workshop on Functions — Mon (9/22), 4:30–5:30 PM (Week 2)</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Quantitative Resource Center (QRC)
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="https://www.carleton.edu/quantitative-resource-center/">Visit their website</a> for more information.</p>
+<p><strong>Logs + Exponents Refresher Workshop:</strong></p>
+<ul>
+<li><a href="https://www.carleton.edu/quantitative-resource-center/events/?eventId=ep156j5m4h19u1ue9k6cccndig">Thu (9/18), 5:30–6:30 PM</a></li>
+<li><a href="https://www.carleton.edu/quantitative-resource-center/events/?eventId=6s2p2qg511rc7pr0rq4ksloeds">Fri (9/19), 4–5 PM</a></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="important-information" class="level2">
+<h2 class="anchored" data-anchor-id="important-information">Important Information</h2>
+<details>
+<summary>
+Land Acknowledgement
+</summary>
+<p>We stand on the homelands of the Wahpekute and Mdewakanton bands of the Dakota Nation. We honor with gratitude the people who’ve stewarded the land through the generations and their ongoing contributions to this region. We acknowledge the ongoing injustices that we have committed against the Dakota Nation, and we wish to interrupt this legacy, beginning with acts of healing and honest storytelling about this place.</p>
+</details>
+<details>
+<summary>
+Accommodations for Students with Disabilities
+</summary>
+<p>The <a href="https://www.carleton.edu/accessibility-resources/">Office of Accessibility Resources (OAR)</a> promotes access and equity for all students of Carleton. OAR collaborates with students who have disabilities to provide and/or arrange reasonable accommodations.</p>
+<p>If you have, or think you may have, a disability (e.g., mental health, attentional, learning, autism spectrum disorders, chronic health, traumatic brain injury and concussions, vision, hearing, mobility, or speech impairments), please contact <a href="mailto:oar@carleton.edu" class="email">oar@carleton.edu</a> to arrange a confidential discussion regarding equitable access and reasonable accommodations.</p>
+</details>
+<details>
+<summary>
+Religious Accommodations
+</summary>
+<p>Carleton College welcomes diversity of religious beliefs and practices. As your instructor, I am committed to providing equivalent educational opportunities to students of all belief systems.</p>
+<p>If at all possible, please contact me during the first week of classes to discuss any potential conflicts between academic requirements and religious observances. We can work together to determine a reasonable accommodation.</p>
+</details>
+<details>
+<summary>
+Student Well-Being
+</summary>
+<p>These are stressful times. Your health and well-being should always be your first priority. At Carleton, we have a wide array of resources to support students.</p>
+<p>It’s important to recognize stressors you may be facing—personal, emotional, physical, financial, mental, or academic. Sleep, exercise, and connecting with others can be strategies to help you flourish.</p>
+<p><strong>Resources:</strong></p>
+<ul>
+<li><a href="https://www.carleton.edu/student-health/">Student Health and Counseling (SHAC)</a></li>
+<li><a href="https://www.carleton.edu/health-promotion/">Office of Health Promotion</a></li>
+<li><a href="https://www.carleton.edu/chaplain/">Office of the Chaplain</a></li>
+</ul>
+</details>
+<details>
+<summary>
+Title IX
+</summary>
+<p>Carleton is committed to fostering an environment free of sexual misconduct. Please be aware all Carleton faculty and staff members, with the exception of Chaplains and SHAC staff, are “responsible employees” required to share information regarding incidents of sexual misconduct with the Title IX Coordinator.</p>
+<p>If you have questions, please contact Carleton’s Title IX Coordinator at <a href="mailto:titleix@carleton.edu" class="email">titleix@carleton.edu</a>, or visit the <a href="https://www.carleton.edu/title-ix/">Title IX website</a>.</p>
+</details>
+<details>
+<summary>
+Academic Integrity
+</summary>
+<p>Academic integrity is the cornerstone of a college education. All members of the Carleton community have an explicit responsibility to foster an environment of trust, honesty, fairness, respect, and responsibility.</p>
+<p>All members are expected to present as their original work only that which is truly their own. Students must acknowledge all outside resources, collaboration, and external materials used in their work.</p>
+<p>Academic dishonesty cases are handled by the Academic Standing Committee. For the full policy, refer to the section on <a href="https://www.carleton.edu/handbook/academics/?policy=329">Academic Integrity</a> in the Campus Handbook.</p>
+</details>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Syllabus Updates
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Subsequent addendums, if any, will be made via Moodle announcements. I reserve the right to change any particular of this syllabus—<strong>any changes will be to your advantage</strong>, and you will be informed promptly via Moodle.</p>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<!-- Puts the page title into the header: "DEEWANG BHAMIDIPATI – RESEARCH".
+     The homepage has no title, so it shows just the name. Change SEPARATOR to taste. -->
+<script>
+(function () {
+  const SEPARATOR = " – ";
+  const title = document.querySelector("#title-block-header h1.title");
+  const brand = document.querySelector("#quarto-header .navbar-title");
+  if (!title || !brand) return;
+  brand.textContent = brand.textContent.trim() + SEPARATOR + title.textContent.trim();
+})();
+</script>
+<!-- Rotating homepage photo: picks a different picture on each visit; click the photo to switch.
+     Add or remove pictures in the list below (they live in static/about-pictures/). -->
+<script>
+(function () {
+  const photos = [
+    "static/about-pictures/bdeewang-pro.jpg",
+    "static/about-pictures/bdeewang-look.jpg",
+    "static/about-pictures/bdeewang-smile.jpg",
+    "static/about-pictures/bdeewang-thumbsup.jpg",
+    "static/about-pictures/bdeewang.jpg",
+  ];
+  const img = document.querySelector(".about-picture img");
+  if (!img) return;
+
+  function nextPhoto() {
+    let current = null;
+    try { current = sessionStorage.getItem("currentPhoto"); } catch (e) {}
+    const choices = photos.filter(p => p !== current);
+    const pick = choices[Math.floor(Math.random() * choices.length)];
+    img.setAttribute("src", pick);
+    try { sessionStorage.setItem("currentPhoto", pick); } catch (e) {}
+  }
+
+  img.addEventListener("click", nextPhoto);
+  nextPhoto();
+})();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/bdeewang\.com");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><a href="#">Top ↑</a></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>© Deewang Bhamidipati 2026</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
