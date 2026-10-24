@@ -23,8 +23,6 @@ website:
         href: teaching.qmd
       - text: Service
         href: service.qmd
-      - text: Resources
-        href: resources.qmd
     right:
       - text: "(^_^)"
         href: https://www.youtube.com/watch?v=z9Ug-3qhrwY
@@ -34,10 +32,7 @@ website:
 
 format:
   html:
-    theme:
-      light: [cosmo, theme.scss]
-      dark: [cosmo, theme.scss, theme-dark.scss]
-    respect-user-color-scheme: true   # follow the visitor's system light/dark setting; the toggle still works
+    theme: [cosmo, theme.scss, theme-dark.scss]   # dark-only site (no light/dark toggle)
     toc: false
     callout-icon: false      # no ⓘ/⚠ symbols in front of callout titles
     include-in-header:

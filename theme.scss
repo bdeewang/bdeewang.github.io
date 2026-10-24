@@ -5,13 +5,14 @@ $web-font-path: false;
 $font-family-sans-serif: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
 $font-family-monospace: "IBM Plex Mono", SFMono-Regular, Menlo, monospace;
 
-// Typography: slightly larger, airier text, like the old site
+// Typography: matches the old site (18px text, 20px headings, 24px page title)
 $font-size-root: 18px;
 $line-height-base: 1.6;
-$headings-font-weight: 600;
-$h1-font-size: 2rem;
-$h2-font-size: 1.5rem;
-$h3-font-size: 1.2rem;
+$headings-font-weight: 700;
+$h1-font-size: 1.333rem;   // 24px
+$h2-font-size: 1.111rem;   // 20px
+$h3-font-size: 1.111rem;   // 20px
+$h4-font-size: 1rem;
 
 // Colours (light mode). `!default` lets theme-dark.scss override them in dark mode.
 $body-bg: #ffffff !default;
@@ -144,8 +145,8 @@ details {
   margin: 0.75rem 0;
 }
 details > summary {
-  font-weight: 600;
-  font-size: 1.15rem;
+  font-weight: 700;
+  font-size: 1.111rem;
   color: var(--accent);
   cursor: pointer;
 }
@@ -218,7 +219,7 @@ body.nav-fixed {
   white-space: normal;
   overflow: visible;
   text-overflow: clip;
-  font-size: 1.5rem;
+  font-size: 1.333rem;   // 24px, as on the old site
   font-weight: 700;
   color: $body-color;
   text-transform: uppercase;
@@ -254,7 +255,7 @@ body.nav-fixed {
 }
 #quarto-header .navbar-nav .nav-link {
   padding: 0 !important;
-  font-size: 0.85rem;
+  font-size: 0.889rem;
   text-transform: uppercase;
   letter-spacing: 0.07em;
   color: $muted-color;
@@ -273,14 +274,14 @@ body.nav-fixed {
 #quarto-header .navbar-nav.me-auto .nav-item + .nav-item::before {
   content: "|";
   padding: 0 0.6em;
-  font-size: 0.85rem;
+  font-size: 0.889rem;
   color: $muted-color;
 }
 
 // Phones: slightly tighter menu so all four items fit on one line
 @media (max-width: 575.98px) {
   #quarto-header .navbar-title {
-    font-size: 1.15rem;
+    font-size: 1.111rem;
   }
   #quarto-header .navbar-nav .nav-link,
   #quarto-header .navbar-nav.me-auto .nav-item + .nav-item::before {
@@ -362,4 +363,59 @@ main.content h2 + section > h3:first-child,
 main.content h2 + h3 {
   margin-top: 0;           // "Instructor of Record" → "Carleton College": 27px → ~13px
   padding-top: 0.25rem;
+}
+
+// ---------------------------------------------------------------------------
+// Callout boxes in the old site's style: grey box, coloured bar on the left,
+// lightly tinted title strip, no outer border.
+// ---------------------------------------------------------------------------
+$callout-colors: (
+  "note": #5bc0de,
+  "tip": #5cb85c,
+  "important": #d9534f,
+  "warning": #f0ad4e,
+  "caution": #ff9800,
+);
+
+div.callout {
+  border: 0 !important;
+  border-left: 5px solid !important;
+  border-radius: 4px !important;
+  background-color: $box-bg !important;
+  margin: 1.25rem 0;
+  font-size: 1rem;
+
+  .callout-header {
+    border: 0 !important;
+    font-size: 1rem !important;   // same size as body text (Quarto shrinks it to 0.9rem)
+    font-weight: 700 !important;
+    opacity: 1 !important;
+    padding: 0.45em 1em !important;
+    margin: 0 !important;
+    border-top-right-radius: 4px;
+  }
+  .callout-title-container {
+    font-weight: 700;
+  }
+  .callout-body-container,
+  .callout-body {
+    background-color: transparent !important;
+    font-size: 1rem !important;
+  }
+  .callout-body-container {
+    padding: 0.5em 1em 0.75em !important;
+    > :last-child { margin-bottom: 0; }
+  }
+}
+@each $name, $color in $callout-colors {
+  div.callout.callout-#{$name} {
+    border-left-color: $color !important;
+    .callout-header {
+      background-color: rgba($color, 0.1) !important;
+    }
+  }
+}
+// Simple callouts nested inside others (syllabus): plain title, no strip
+div.callout.callout-style-simple .callout-header {
+  background-color: transparent !important;
 }

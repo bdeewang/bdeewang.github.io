@@ -1,5 +1,5 @@
 <!-- On every page except the homepage, the header shows the page title (e.g. RESEARCH)
-     instead of the name, and the (^_^) link on the right becomes "← Home" — as on the old site. -->
+     instead of the name, and the (^_^) link on the right becomes "Deewang Bhamidipati" (links home). -->
 <script>
 (function () {
   const title = document.querySelector("#title-block-header h1.title");
@@ -11,7 +11,7 @@
   const home = document.querySelector("#quarto-header .navbar-brand");
   if (right && home) {
     right.setAttribute("href", home.getAttribute("href"));
-    right.innerHTML = '<span class="menu-text">&#8592; Home</span>';
+    right.innerHTML = '<span class="menu-text">Deewang Bhamidipati</span>';
   }
 })();
 </script>

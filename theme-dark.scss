@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 
-// Dark mode: layered on top of theme.scss (see _quarto.yml).
+// Dark colours: layered on top of theme.scss (see _quarto.yml). The site is dark-only.
 // Colours follow the old site's dark scheme.
 $body-bg: #1e1f20;
 $body-color: #d9d9d9;
@@ -10,7 +10,7 @@ $link-underline-color: #8c8c8c;
 $navbar-bg: #1e1f20;
 $navbar-fg: #a6a6a6;
 $muted-color: #a6a6a6;
-$box-bg: #333333;
+$box-bg: #333333;   // old site's dark box colour (hsl(0,0%,20%))
 $footer-bg: #1e1f20;
 $selection-bg: #3d7cc9;
 
