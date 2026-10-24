@@ -9,8 +9,12 @@ body-classes: section-teaching
 One section each of Calculus 2 (MATH 120) and Linear Algebra (MATH 232) [★]{.accent}
 :::
 
+:::: {.side-heading}
+::: {.side-label}
 ## Instructor of Record
+:::
 
+::: {.side-content}
 ### Carleton College
 
 - MATH 232 **Linear Algebra**, [Spring 2027]{.small}
@@ -39,6 +43,8 @@ One section each of Calculus 2 (MATH 120) and Linear Algebra (MATH 232) [★]{.a
   [Lecture Notes (S23)](https://drive.google.com/file/d/1tu_HkQRio1RMExTzfMlsHvJLZF5R8cXM/view?usp=drive_link){.btn .btn-accent}
 - MATH 110 **Introduction to Number Theory**, [Fall 2021, Summer 2021]{.small}\
   [Lecture Notes (F21)](https://drive.google.com/file/d/17i_EQ1ncWpEZj6n9H1-J6MEkOrg8rHbt/view?usp=drive_link){.btn .btn-accent}
+:::
+::::
 
 <details>
 <summary>Teaching Assistant</summary>

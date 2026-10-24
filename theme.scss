@@ -23,7 +23,8 @@ $link-underline-color: #8a8a8e !default;  // soft grey underline
 $navbar-bg: #ffffff !default;     // header blends into the page, like the old site
 $navbar-fg: #58585c !default;     // grey menu links
 $muted-color: #58585c !default;   // grey rules / small header text
-$box-bg: #e3e3e8 !default;         // background of the CV button
+$box-bg: #e3e3e8 !default;
+$page-width: min(1200px, 94%);    // text width, as on the old site: up to 1200px, 3% gutters         // background of the CV button
 $selection-bg: #0c5394 !default;
 
 // Section accent colours (headings), and a darker shade of each (buttons).
@@ -101,7 +102,7 @@ body.section-service   { --accent: #{$service};   --accent-dark: #{$service-dark
 body.section-resources { --accent: #{$resources}; --accent-dark: #{$resources-dark}; }
 
 // Section headings (##) take the page's accent colour
-body[class*="section-"] main h2 {
+body[class*="section-"] #quarto-content h2 {
   color: var(--accent);
   border-bottom: none;
 }
@@ -180,9 +181,9 @@ body.nav-fixed {
   padding: 0;
 }
 
-// Same width as the page text (matches Quarto's article column)
+// Same width as the page text ($page-width)
 #quarto-header .navbar-container {
-  width: min(796px, 100% - 108px);
+  width: $page-width;
   margin: 3rem auto 0.5rem;
   padding: 0 !important;
   display: flex;
@@ -191,9 +192,16 @@ body.nav-fixed {
 }
 @media (max-width: 767.98px) {
   #quarto-header .navbar-container {
-    width: calc(100% - 54px);
     margin-top: 1.75rem;
   }
+}
+
+// Page text: one column, $page-width wide, centred (page-layout: custom in _quarto.yml)
+#quarto-content {
+  display: block;
+  width: $page-width;
+  max-width: none;
+  margin: 0 auto;
 }
 
 // Let the menu's pieces sit directly in the header row so they can be arranged
@@ -301,16 +309,25 @@ html.js-header-title #title-block-header {
 }
 
 // Space between the menu and the start of the page text
-#quarto-content main.content {
-  margin-top: 0 !important;
+#quarto-content {
   padding-top: 0.75rem !important;
+}
+#quarto-content > * {
+  padding-top: 0 !important;   // Quarto adds 14px above every block in this layout
 }
 #title-block-header + * {
   margin-top: 0.5rem !important;
 }
 
 // Footer: thin rule above, small grey text (as on the old site)
+footer.footer {
+  border-top: 0 !important;
+  background: transparent;
+}
 .nav-footer {
+  width: $page-width;                 // rule and text line up with the page
+  margin: 2.5rem auto 0;
+  padding: 1em 0 3rem !important;
   border-top: 1px solid $muted-color;
   color: $muted-color;
   font-size: 0.85rem;
@@ -324,7 +341,7 @@ html.js-header-title #title-block-header {
 // ---------------------------------------------------------------------------
 .about-picture {
   float: right;
-  width: min(200px, 40%);
+  width: clamp(165px, 40%, 200px);   // wide enough for the CV button on phones
   margin: 0.3rem 0 1rem 1.5rem;
   text-align: center;
   img {
@@ -352,15 +369,15 @@ html.js-header-title #title-block-header {
 // ---------------------------------------------------------------------------
 // Tighter spacing under headings (half of Quarto's default)
 // ---------------------------------------------------------------------------
-main.content h2 {
+#quarto-content h2 {
   margin-bottom: 0.5rem;   // heading → list: 18px → 9px
   padding-bottom: 0;
 }
-main.content h3 {
+#quarto-content h3 {
   margin-bottom: 0.25rem;  // sub-heading → list: 9px → 4.5px
 }
-main.content h2 + section > h3:first-child,
-main.content h2 + h3 {
+#quarto-content h2 + section > h3:first-child,
+#quarto-content h2 + h3 {
   margin-top: 0;           // "Instructor of Record" → "Carleton College": 27px → ~13px
   padding-top: 0.25rem;
 }
@@ -421,4 +438,58 @@ div.callout {
 // Simple callouts nested inside others (syllabus): plain title, no strip
 div.callout.callout-style-simple .callout-header {
   background-color: transparent !important;
+}
+
+// ---------------------------------------------------------------------------
+// Lists spaced like the old site: 14px between items, slightly tighter lines
+// ---------------------------------------------------------------------------
+#quarto-content {
+  ul, ol {
+    padding-left: 1.6rem;
+  }
+  li {
+    line-height: 1.45;
+  }
+  li + li,
+  li > ul,
+  li > ol {
+    margin-top: 0.78rem;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Side heading (Teaching): "Instructor of Record" sits to the left of the
+// course lists on wide screens and moves above them on phones/narrow windows.
+//   :::: {.side-heading}
+//   ::: {.side-label}
+//   ## Heading
+//   :::
+//   ::: {.side-content}
+//   ...
+//   :::
+//   ::::
+// ---------------------------------------------------------------------------
+.side-heading {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  .side-label {
+    flex: 0 0 250px;
+    h2 { margin-top: 0; }
+  }
+  .side-content {
+    flex: 1;
+    min-width: 0;
+    > h3:first-child,
+    > section:first-child > h3:first-child { margin-top: 0 !important; padding-top: 0 !important; }
+  }
+}
+@media (max-width: 767.98px) {
+  .side-heading {
+    flex-direction: column;
+    gap: 0;
+    .side-label { flex: none; }
+    .side-content > h3:first-child,
+    .side-content > section:first-child > h3:first-child { padding-top: 0.25rem !important; }
+  }
 }

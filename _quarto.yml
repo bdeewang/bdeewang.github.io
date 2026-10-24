@@ -34,6 +34,7 @@ format:
   html:
     theme: [cosmo, theme.scss, theme-dark.scss]   # dark-only site (no light/dark toggle)
     toc: false
+    page-layout: custom      # single column, width set in theme.scss ($page-width)
     callout-icon: false      # no ⓘ/⚠ symbols in front of callout titles
     include-in-header:
       - text: '<script>document.documentElement.classList.add("js-header-title");</script>'
