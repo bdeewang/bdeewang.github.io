@@ -1,25 +1,13 @@
-# drafts folder
-_drafts/
-
 # Mac system files
 .DS_Store
-assets/.DS_Store
-static/.DS_Store
-_includes/.DS_Store
 
-# generated site folder
+# Quarto build output and cache
 _site/
-
-# jekyll cahce
-.jekyll-cache/
+/.quarto/
+**/*.quarto_ipynb
 
 # Google Drive sync
 .tmp.driveupload/
-# Quarto
-/.quarto/
-_site/
-
-**/*.quarto_ipynb
 
 # Screenshots saved by Claude (not part of the site)
 Claude outputs/
