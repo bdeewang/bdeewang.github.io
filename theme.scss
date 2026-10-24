@@ -455,6 +455,12 @@ div.callout.callout-style-simple .callout-header {
   li > ol {
     margin-top: 0.78rem;
   }
+  // Same 14px gap between a heading (or fold-open title) and the list under it
+  :is(h2, h3) + :is(ul, ol),
+  :is(h2, h3) + div > :is(ul, ol):first-child,
+  details > summary + :is(ul, ol) {
+    margin-top: 0.78rem;
+  }
 }
 
 // ---------------------------------------------------------------------------
