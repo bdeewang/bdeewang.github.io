@@ -1,13 +1,15 @@
 ---
-title: "Research"
+title: "Research > Articles"
 description: "Ongoing and published research and related activities"
 body-classes: section-research
 ---
 
+<!--
 ::: {.callout-important}
 ## Travel
 You can view my [travel schedule for upcoming talks and events here](travel.qmd).
 :::
+-->
 
 ## Articles
 

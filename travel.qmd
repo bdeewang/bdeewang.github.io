@@ -1,5 +1,5 @@
 ---
-title: "Travel"
+title: "Research > Travel"
 description: "Travel for talks and events"
 body-classes: section-research
 ---
