@@ -518,7 +518,8 @@ div.callout.callout-style-simple .callout-header {
   margin-top: 1.5rem;
   .side-label {
     flex: 0 0 250px;
-    h2 { margin-top: 0; }
+    // !important: below 992px Quarto adds 1rem above the page's first h2, which pushed this below its list
+    h2 { margin-top: 0 !important; }
   }
   .side-content {
     flex: 1;
@@ -535,4 +536,38 @@ div.callout.callout-style-simple .callout-header {
     .side-content > h3:first-child,
     .side-content > section:first-child > h3:first-child { padding-top: 0.25rem !important; }
   }
+}
+
+// ---------------------------------------------------------------------------
+// Research > Articles: "Abstract ▾" button that folds the abstract open
+// underneath the paper, lined up with the title (see research.qmd).
+// ---------------------------------------------------------------------------
+.abstract-toggle::after {
+  content: "▾";
+  display: inline-block;
+  margin-left: 0.35em;
+  transition: transform 0.2s;
+}
+.abstract-toggle[aria-expanded="true"]::after {
+  transform: rotate(180deg);
+}
+// Button in plain text colour (not the red section colour); yellow on hover like links
+.btn.abstract-toggle {
+  --bs-btn-color: #{$body-color};
+  --bs-btn-border-color: #{$muted-color};
+  --bs-btn-bg: transparent;
+  --bs-btn-hover-color: #{$link-hover-color};
+  --bs-btn-hover-bg: transparent;
+  --bs-btn-hover-border-color: #{$link-hover-color};
+  --bs-btn-active-color: #{$body-color};
+  --bs-btn-active-bg: transparent;
+  --bs-btn-active-border-color: #{$muted-color};
+}
+// The abstract itself, set as a quote: grey bar on the left, indented text
+.abstract {
+  margin: 0.6rem 0 0.25rem;
+  padding: 0.1rem 0 0.1rem 1rem;
+  border-left: 3px solid $muted-color;
+  line-height: 1.6;
+  > * { margin: 0.25rem 0; }
 }

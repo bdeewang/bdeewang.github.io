@@ -18,34 +18,69 @@ You can view my [travel schedule for upcoming talks and events here](travel.qmd)
 1.  Ekedahl-Oort strata with a superspecial factor in unitary Shimura varieties\
     [*with Emerald Andrews, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
     [arXiv:2610.22036](https://arxiv.org/abs/2610.22036){.btn .btn-accent}
+    [Abstract](#abs-2610-22036){.btn .btn-outline-accent .abstract-toggle data-bs-toggle="collapse" data-bs-target="#abs-2610-22036" role="button" aria-expanded="false" aria-controls="abs-2610-22036"}
+
+    ::: {#abs-2610-22036 .collapse .abstract}
+    Let $\Bbbk$ be an algebraically closed field of characteristic $p>2$ and let $\mathcal{O}_K$ be an imaginary quadratic order in which $p$ is inert. For any $a,b\in \mathbb{Z}_{\geq 0}$ not both $0$, denote by $\mathscr{M}(a,b)$ the unitary Shimura variety that parametrizes principally polarized abelian varieties over $\Bbbk$ with an action of signature $(a,b)$ by $\mathcal{O}_K$ (subject to certain compatibility conditions). For any $a,b,c,d\in \mathbb{Z}_{\geq 0}$, there is a natural product map $\mathscr{M}(a,b)\times \mathscr{M}(c,d) \to \mathscr{M}(a+c,b+d)$, which induces a map on Ekedahl–Oort strata. In this paper we focus on product maps where at least one of the factors is superspecial, since most Ekedahl–Oort strata of unitary Shimura varieties contain such a factor. We describe maps with this property completely on the level of Weyl group coset representatives. We also characterize, on the level of Weyl group coset representatives, which Ekedahl-Oort strata of $\mathscr{M}(a,b)$ admit a superspecial factor.
+    :::
 
 1.  On the classification of indecomposable Ekedahl-Oort strata in unitary Shimura varieties, and related Newton polygons\
     [*with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
     [arXiv:2606.16882](https://arxiv.org/abs/2606.16882){.btn .btn-accent}
+    [Abstract](#abs-2606-16882){.btn .btn-outline-accent .abstract-toggle data-bs-toggle="collapse" data-bs-target="#abs-2606-16882" role="button" aria-expanded="false" aria-controls="abs-2606-16882"}
+
+    ::: {#abs-2606-16882 .collapse .abstract}
+    In this paper, we give a complete classification of indecomposable Ekedahl–Oort strata of Shimura varieties associated to the unitary group $\mathsf{𝖦𝖴}(a,b)$ over an odd inert prime. We show that each indecomposable stratum is one of four types: unitary unicycle, unitary bicycle, Serre unicycle, or Serre bicycle; the latter two types are named for a tensor construction of abelian varieties developed by Serre. We provide an algorithm that translates the description of a stratum in terms of words in the alphabet $\{\texttt{f},\texttt{v}\}$ to the corresponding Weyl group coset representative. Finally, using a $p$-adic lift, we construct a `tautological' point in each Ekedahl–Oort stratum, and compute its Newton polygon. As an application, we show that the indecomposable Ekedahl–Oort strata corresponding to unitary unicycles and Serre unicycles always intersect the supersingular locus.
+    :::
 
 1.  The Ekedahl-Oort and Newton stratification of the GU(3,2) Shimura variety\
     [*with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
     [arXiv:2510.01090](https://arxiv.org/abs/2510.01090){.btn .btn-accent}
+    [Abstract](#abs-2510-01090){.btn .btn-outline-accent .abstract-toggle data-bs-toggle="collapse" data-bs-target="#abs-2510-01090" role="button" aria-expanded="false" aria-controls="abs-2510-01090"}
+
+    ::: {#abs-2510-01090 .collapse .abstract}
+    This paper concerns the characteristic-$p$ fibers of $\mathsf{𝖦𝖴}(3,2)$ Shimura varieties. Such Shimura varieties parametrize abelian varieties in characteristic $p$ of dimension $5$ with an action of signature $(3,2)$ by an order in an imaginary quadratic field in which $p$ is inert. We completely describe the interaction of two stratifications of these Shimura varieties: the Ekedahl-Oort stratification, based on the isomorphism class of the $p$-torsion subgroup scheme, and the Newton stratification, based on the isogeny class of the $p$-divisible group. We identify which Ekedahl-Oort and Newton strata intersect.
+    :::
 
 1.  Analogues of Traverso's Isogeny Conjecture for Some Unitary *p*-Divisible Groups\
     [*with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
     [arXiv:2507.19708](https://arxiv.org/abs/2507.19708){.btn .btn-accent}
+    [Abstract](#abs-2507-19708){.btn .btn-outline-accent .abstract-toggle data-bs-toggle="collapse" data-bs-target="#abs-2507-19708" role="button" aria-expanded="false" aria-controls="abs-2507-19708"}
+
+    ::: {#abs-2507-19708 .collapse .abstract}
+    Let $p$ be a prime and $\Bbbk$ an algebraically closed field of characteristic $p$. Two invariants worthy of study for a $p$-divisible group $X$ over $\Bbbk$ are its isogeny cutoff $b_X$, which measures the amount of $p$-torsion necessary to determine the Newton polygon of $X$, and its minimal height $q_X$, which measures its distance to the closest minimal $p$-divisible group (in the sense of Oort). Traverso's Isogeny Conjecture predicts a bound on $b_X$ in terms of its height and dimension. The conjecture was proved in [NV07] and a refinement was given in [LNV13]; the latter also gives a bound on $q_X$. In this paper, we study these invariants when restricting to the class of supersingular unitary $p$-divisible groups $X$ of signature $(a,g−a)$, where $0<a<g$, for $p>2$, and prove further refinements on their bounds purely in terms of a. In particular, we provide a complete description of the possible values of $q_X$. Finally, we rephrase our results in the language of the $\mathrm{BT}_m$ stratifications of characteristic-$p$ fibers of Shimura varieties for $\mathrm{GU}(a,g−a)$ in the case of an inert prime $p>2$.
+    :::
 
 1.  Ekedahl-Oort strata in the GU(q — 2, 2) Shimura variety\
     [*with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair*]{.small}\
     [arXiv:2405.04464](https://arxiv.org/abs/2405.04464){.btn .btn-accent}
+    [Abstract](#abs-2405-04464){.btn .btn-outline-accent .abstract-toggle data-bs-toggle="collapse" data-bs-target="#abs-2405-04464" role="button" aria-expanded="false" aria-controls="abs-2405-04464"}
+
+    ::: {#abs-2405-04464 .collapse .abstract}
+    This paper concerns the characteristic-$p$ fibers of $\mathsf{𝖦𝖴}(q−2,2)$ Shimura varieties, which classify abelian varieties with additional structure. These Shimura varieties admit two stratifications of interest: the Ekedahl-Oort stratification, based on the isomorphism class of the $p$-torsion subgroup scheme, and the Newton stratification, based on the isogeny class of the $p$-divisible group. In this paper, we present several novel techniques that give a better understanding of the Ekedahl-Oort stratification and of the interaction between the two stratifications for a general signature $(q−2,2)$.
+    :::
 
 1.  The Brauer Group of 𝒴₀(2)\
     [*with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez*]{.small}\
     [**Épijournal de Géométrie Algébrique (2026), no. 10**]{.small .accent}\
     [arXiv:2311.18132](https://arxiv.org/abs/2311.18132){.btn .btn-accent}
     [DOI](https://doi.org/10.46298/epiga.2026.13916){.btn .btn-outline-accent}
+    [Abstract](#abs-2311-18132){.btn .btn-outline-accent .abstract-toggle data-bs-toggle="collapse" data-bs-target="#abs-2311-18132" role="button" aria-expanded="false" aria-controls="abs-2311-18132"}
+
+    ::: {#abs-2311-18132 .collapse .abstract}
+    We determine the Brauer group of the Deligne-Mumford stack $\mathscr{Y}_0(2)$, the moduli space of elliptic curves with a marked $2$-torsion subgroup over bases of arithmetic interest. Antieau and Meier determine the Brauer group for $\mathscr{M}_{1,1}$, the moduli stack of elliptic curves by exploiting the fact it is covered by the Legendre family and using the Hochschild-Serre spectral sequence. Over an algebraically closed field, Shin uses the coarse space map to determine the Brauer group of $\mathscr{M}_{1,1}$. We combine techniques from both papers to determine the Brauer group of $\mathscr{Y}_0(2)$.
+    :::
 
 1.  Frobenius distributions of low dimensional abelian varieties over finite fields\
     [*with Santiago Arango-Pineros and Soumya Sankar*]{.small}\
     [**International Mathematics Research Notices (2024), no. 16, 11989–12020**]{.small .accent}\
     [arXiv:2306.02237](https://arxiv.org/abs/2306.02237){.btn .btn-accent}
     [DOI](https://doi.org/10.1093/imrn/rnae148){.btn .btn-outline-accent}
+    [Abstract](#abs-2306-02237){.btn .btn-outline-accent .abstract-toggle data-bs-toggle="collapse" data-bs-target="#abs-2306-02237" role="button" aria-expanded="false" aria-controls="abs-2306-02237"}
+
+    ::: {#abs-2306-02237 .collapse .abstract}
+    Given a $g$-dimensional abelian variety $A$ over a finite field $\mathbf{F}_q$, the Weil conjectures imply that the normalized Frobenius eigenvalues generate a multiplicative group of rank at most $g$. The Pontryagin dual of this group is a compact abelian Lie group that controls the distribution of high powers of the Frobenius endomorphism. This group, which we call the Serre–Frobenius group, encodes the possible multiplicative relations between the Frobenius eigenvalues. In this article, we classify all possible Serre–Frobenius groups that occur for $g\leq 3$. We also give a partial classification for simple ordinary abelian varieties of prime dimension $g\geq 3$.
+    :::
 :::
 
 ## SOTL Articles
