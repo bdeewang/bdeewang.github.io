@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.19">
+<meta name="generator" content="quarto-1.10.20">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -44,10 +44,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-747ecf44de2768fe38211f31bee95df7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-1bd5e742e93c01a06bf89f23c99b49b6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ecaf90daf83ad02d72e250bf02526074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-7b4f17cd509f26b48b081d041c6f8cbe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,6 +77,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script>document.documentElement.classList.add("js-header-title");</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -171,27 +200,48 @@ You can view my [travel schedule for upcoming talks and events here](travel.qmd)
 <ol type="1">
 <li><p>Ekedahl-Oort strata with a superspecial factor in unitary Shimura varieties<br>
 <span class="small"><em>with Emerald Andrews, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></span><br>
-<a href="https://arxiv.org/abs/2610.22036" class="btn btn-accent">arXiv:2610.22036</a></p></li>
+<a href="https://arxiv.org/abs/2610.22036" class="btn btn-accent">arXiv:2610.22036</a> <a href="#abs-2610-22036" class="btn btn-outline-accent abstract-toggle" data-bs-toggle="collapse" data-bs-target="#abs-2610-22036" role="button" aria-expanded="false" aria-controls="abs-2610-22036">Abstract</a></p>
+<div id="abs-2610-22036" class="collapse abstract">
+<p>Let <span class="math inline">\(\Bbbk\)</span> be an algebraically closed field of characteristic <span class="math inline">\(p&gt;2\)</span> and let <span class="math inline">\(\mathcal{O}_K\)</span> be an imaginary quadratic order in which <span class="math inline">\(p\)</span> is inert. For any <span class="math inline">\(a,b\in \mathbb{Z}_{\geq 0}\)</span> not both <span class="math inline">\(0\)</span>, denote by <span class="math inline">\(\mathscr{M}(a,b)\)</span> the unitary Shimura variety that parametrizes principally polarized abelian varieties over <span class="math inline">\(\Bbbk\)</span> with an action of signature <span class="math inline">\((a,b)\)</span> by <span class="math inline">\(\mathcal{O}_K\)</span> (subject to certain compatibility conditions). For any <span class="math inline">\(a,b,c,d\in \mathbb{Z}_{\geq 0}\)</span>, there is a natural product map <span class="math inline">\(\mathscr{M}(a,b)\times \mathscr{M}(c,d) \to \mathscr{M}(a+c,b+d)\)</span>, which induces a map on Ekedahl–Oort strata. In this paper we focus on product maps where at least one of the factors is superspecial, since most Ekedahl–Oort strata of unitary Shimura varieties contain such a factor. We describe maps with this property completely on the level of Weyl group coset representatives. We also characterize, on the level of Weyl group coset representatives, which Ekedahl-Oort strata of <span class="math inline">\(\mathscr{M}(a,b)\)</span> admit a superspecial factor.</p>
+</div></li>
 <li><p>On the classification of indecomposable Ekedahl-Oort strata in unitary Shimura varieties, and related Newton polygons<br>
 <span class="small"><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></span><br>
-<a href="https://arxiv.org/abs/2606.16882" class="btn btn-accent">arXiv:2606.16882</a></p></li>
+<a href="https://arxiv.org/abs/2606.16882" class="btn btn-accent">arXiv:2606.16882</a> <a href="#abs-2606-16882" class="btn btn-outline-accent abstract-toggle" data-bs-toggle="collapse" data-bs-target="#abs-2606-16882" role="button" aria-expanded="false" aria-controls="abs-2606-16882">Abstract</a></p>
+<div id="abs-2606-16882" class="collapse abstract">
+<p>In this paper, we give a complete classification of indecomposable Ekedahl–Oort strata of Shimura varieties associated to the unitary group <span class="math inline">\(\mathsf{𝖦𝖴}(a,b)\)</span> over an odd inert prime. We show that each indecomposable stratum is one of four types: unitary unicycle, unitary bicycle, Serre unicycle, or Serre bicycle; the latter two types are named for a tensor construction of abelian varieties developed by Serre. We provide an algorithm that translates the description of a stratum in terms of words in the alphabet <span class="math inline">\(\{\texttt{f},\texttt{v}\}\)</span> to the corresponding Weyl group coset representative. Finally, using a <span class="math inline">\(p\)</span>-adic lift, we construct a `tautological’ point in each Ekedahl–Oort stratum, and compute its Newton polygon. As an application, we show that the indecomposable Ekedahl–Oort strata corresponding to unitary unicycles and Serre unicycles always intersect the supersingular locus.</p>
+</div></li>
 <li><p>The Ekedahl-Oort and Newton stratification of the GU(3,2) Shimura variety<br>
 <span class="small"><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></span><br>
-<a href="https://arxiv.org/abs/2510.01090" class="btn btn-accent">arXiv:2510.01090</a></p></li>
+<a href="https://arxiv.org/abs/2510.01090" class="btn btn-accent">arXiv:2510.01090</a> <a href="#abs-2510-01090" class="btn btn-outline-accent abstract-toggle" data-bs-toggle="collapse" data-bs-target="#abs-2510-01090" role="button" aria-expanded="false" aria-controls="abs-2510-01090">Abstract</a></p>
+<div id="abs-2510-01090" class="collapse abstract">
+<p>This paper concerns the characteristic-<span class="math inline">\(p\)</span> fibers of <span class="math inline">\(\mathsf{𝖦𝖴}(3,2)\)</span> Shimura varieties. Such Shimura varieties parametrize abelian varieties in characteristic <span class="math inline">\(p\)</span> of dimension <span class="math inline">\(5\)</span> with an action of signature <span class="math inline">\((3,2)\)</span> by an order in an imaginary quadratic field in which <span class="math inline">\(p\)</span> is inert. We completely describe the interaction of two stratifications of these Shimura varieties: the Ekedahl-Oort stratification, based on the isomorphism class of the <span class="math inline">\(p\)</span>-torsion subgroup scheme, and the Newton stratification, based on the isogeny class of the <span class="math inline">\(p\)</span>-divisible group. We identify which Ekedahl-Oort and Newton strata intersect.</p>
+</div></li>
 <li><p>Analogues of Traverso’s Isogeny Conjecture for Some Unitary <em>p</em>-Divisible Groups<br>
 <span class="small"><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></span><br>
-<a href="https://arxiv.org/abs/2507.19708" class="btn btn-accent">arXiv:2507.19708</a></p></li>
+<a href="https://arxiv.org/abs/2507.19708" class="btn btn-accent">arXiv:2507.19708</a> <a href="#abs-2507-19708" class="btn btn-outline-accent abstract-toggle" data-bs-toggle="collapse" data-bs-target="#abs-2507-19708" role="button" aria-expanded="false" aria-controls="abs-2507-19708">Abstract</a></p>
+<div id="abs-2507-19708" class="collapse abstract">
+<p>Let <span class="math inline">\(p\)</span> be a prime and <span class="math inline">\(\Bbbk\)</span> an algebraically closed field of characteristic <span class="math inline">\(p\)</span>. Two invariants worthy of study for a <span class="math inline">\(p\)</span>-divisible group <span class="math inline">\(X\)</span> over <span class="math inline">\(\Bbbk\)</span> are its isogeny cutoff <span class="math inline">\(b_X\)</span>, which measures the amount of <span class="math inline">\(p\)</span>-torsion necessary to determine the Newton polygon of <span class="math inline">\(X\)</span>, and its minimal height <span class="math inline">\(q_X\)</span>, which measures its distance to the closest minimal <span class="math inline">\(p\)</span>-divisible group (in the sense of Oort). Traverso’s Isogeny Conjecture predicts a bound on <span class="math inline">\(b_X\)</span> in terms of its height and dimension. The conjecture was proved in [NV07] and a refinement was given in [LNV13]; the latter also gives a bound on <span class="math inline">\(q_X\)</span>. In this paper, we study these invariants when restricting to the class of supersingular unitary <span class="math inline">\(p\)</span>-divisible groups <span class="math inline">\(X\)</span> of signature <span class="math inline">\((a,g−a)\)</span>, where <span class="math inline">\(0&lt;a&lt;g\)</span>, for <span class="math inline">\(p&gt;2\)</span>, and prove further refinements on their bounds purely in terms of a. In particular, we provide a complete description of the possible values of <span class="math inline">\(q_X\)</span>. Finally, we rephrase our results in the language of the <span class="math inline">\(\mathrm{BT}_m\)</span> stratifications of characteristic-<span class="math inline">\(p\)</span> fibers of Shimura varieties for <span class="math inline">\(\mathrm{GU}(a,g−a)\)</span> in the case of an inert prime <span class="math inline">\(p&gt;2\)</span>.</p>
+</div></li>
 <li><p>Ekedahl-Oort strata in the GU(q — 2, 2) Shimura variety<br>
 <span class="small"><em>with Emerald Andrews, Maria Fox, Heidi Goodson, Steven R. Groen, and Sandra Nair</em></span><br>
-<a href="https://arxiv.org/abs/2405.04464" class="btn btn-accent">arXiv:2405.04464</a></p></li>
+<a href="https://arxiv.org/abs/2405.04464" class="btn btn-accent">arXiv:2405.04464</a> <a href="#abs-2405-04464" class="btn btn-outline-accent abstract-toggle" data-bs-toggle="collapse" data-bs-target="#abs-2405-04464" role="button" aria-expanded="false" aria-controls="abs-2405-04464">Abstract</a></p>
+<div id="abs-2405-04464" class="collapse abstract">
+<p>This paper concerns the characteristic-<span class="math inline">\(p\)</span> fibers of <span class="math inline">\(\mathsf{𝖦𝖴}(q−2,2)\)</span> Shimura varieties, which classify abelian varieties with additional structure. These Shimura varieties admit two stratifications of interest: the Ekedahl-Oort stratification, based on the isomorphism class of the <span class="math inline">\(p\)</span>-torsion subgroup scheme, and the Newton stratification, based on the isogeny class of the <span class="math inline">\(p\)</span>-divisible group. In this paper, we present several novel techniques that give a better understanding of the Ekedahl-Oort stratification and of the interaction between the two stratifications for a general signature <span class="math inline">\((q−2,2)\)</span>.</p>
+</div></li>
 <li><p>The Brauer Group of 𝒴₀(2)<br>
 <span class="small"><em>with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez</em></span><br>
 <span class="small accent"><strong>Épijournal de Géométrie Algébrique (2026), no. 10</strong></span><br>
-<a href="https://arxiv.org/abs/2311.18132" class="btn btn-accent">arXiv:2311.18132</a> <a href="https://doi.org/10.46298/epiga.2026.13916" class="btn btn-outline-accent">DOI</a></p></li>
+<a href="https://arxiv.org/abs/2311.18132" class="btn btn-accent">arXiv:2311.18132</a> <a href="https://doi.org/10.46298/epiga.2026.13916" class="btn btn-outline-accent">DOI</a> <a href="#abs-2311-18132" class="btn btn-outline-accent abstract-toggle" data-bs-toggle="collapse" data-bs-target="#abs-2311-18132" role="button" aria-expanded="false" aria-controls="abs-2311-18132">Abstract</a></p>
+<div id="abs-2311-18132" class="collapse abstract">
+<p>We determine the Brauer group of the Deligne-Mumford stack <span class="math inline">\(\mathscr{Y}_0(2)\)</span>, the moduli space of elliptic curves with a marked <span class="math inline">\(2\)</span>-torsion subgroup over bases of arithmetic interest. Antieau and Meier determine the Brauer group for <span class="math inline">\(\mathscr{M}_{1,1}\)</span>, the moduli stack of elliptic curves by exploiting the fact it is covered by the Legendre family and using the Hochschild-Serre spectral sequence. Over an algebraically closed field, Shin uses the coarse space map to determine the Brauer group of <span class="math inline">\(\mathscr{M}_{1,1}\)</span>. We combine techniques from both papers to determine the Brauer group of <span class="math inline">\(\mathscr{Y}_0(2)\)</span>.</p>
+</div></li>
 <li><p>Frobenius distributions of low dimensional abelian varieties over finite fields<br>
 <span class="small"><em>with Santiago Arango-Pineros and Soumya Sankar</em></span><br>
 <span class="small accent"><strong>International Mathematics Research Notices (2024), no. 16, 11989–12020</strong></span><br>
-<a href="https://arxiv.org/abs/2306.02237" class="btn btn-accent">arXiv:2306.02237</a> <a href="https://doi.org/10.1093/imrn/rnae148" class="btn btn-outline-accent">DOI</a></p></li>
+<a href="https://arxiv.org/abs/2306.02237" class="btn btn-accent">arXiv:2306.02237</a> <a href="https://doi.org/10.1093/imrn/rnae148" class="btn btn-outline-accent">DOI</a> <a href="#abs-2306-02237" class="btn btn-outline-accent abstract-toggle" data-bs-toggle="collapse" data-bs-target="#abs-2306-02237" role="button" aria-expanded="false" aria-controls="abs-2306-02237">Abstract</a></p>
+<div id="abs-2306-02237" class="collapse abstract">
+<p>Given a <span class="math inline">\(g\)</span>-dimensional abelian variety <span class="math inline">\(A\)</span> over a finite field <span class="math inline">\(\mathbf{F}_q\)</span>, the Weil conjectures imply that the normalized Frobenius eigenvalues generate a multiplicative group of rank at most <span class="math inline">\(g\)</span>. The Pontryagin dual of this group is a compact abelian Lie group that controls the distribution of high powers of the Frobenius endomorphism. This group, which we call the Serre–Frobenius group, encodes the possible multiplicative relations between the Frobenius eigenvalues. In this article, we classify all possible Serre–Frobenius groups that occur for <span class="math inline">\(g\leq 3\)</span>. We also give a partial classification for simple ordinary abelian varieties of prime dimension <span class="math inline">\(g\geq 3\)</span>.</p>
+</div></li>
 </ol>
 </div>
 </section>
