@@ -9,6 +9,8 @@ body-classes: section-research
 ## 2026-27
 
 - (Aug 4–7) Attending [MAA MathFest](https://maa.org/event/mathfest/) in New Orleans, LA
+- (Apr 17–18) Attending [Spring Central Sectional Meeting](https://www.ams.org/meetings/sectional/spring2027c) in Iowa City, IA
+  - Speaking in *Recent Advances in Algebraic Number Theory and Arithmetic Geometry*
 - (Feb 9) Seminar talk in [Five College Number Theory Seminar](https://dmzb.github.io/FCNTS.github.io/) at Amherst College, MA
 - (Jan 12–14) Attending [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) in Chicago, IL
   - (Jan 12) Speaking in [Special Session on Arithmetic Geometry & Algebraic Groups](https://jointmathematicsmeetings.org/jmm)
@@ -62,11 +64,11 @@ body-classes: section-research
 - (Feb 24) Attending [MAA Golden Section](https://sites.google.com/view/golden-section-2024/home) at UC Santa Cruz, CA
 - (Feb 22–24; online) Attending [SIGMAA on RUME](http://sigmaa.maa.org/rume/Site/News.html) Annual Conference
 - (Jan 2–6) Attending [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html) in San Francisco, CA
-  - (Jan 5) Speaking at [Contributed Session on Number Theory](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/27988)
+  - (Jan 5) Speaking in [Contributed Session on Number Theory](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/27988)
 - (Dec 16–19) Speaking at & Attending [West Coast Number Theory Conference](https://westcoastnumbertheory.org/schedule/2023-schedule-of-talks/) in Henderson, NV
 - (Sep 30–Oct 2) Attending [AWM Research Symposium](https://awm-math.org/meetings/awm-research-symposium/2023-schedule/) in Atlanta, GA
   - Co-Organising *Special Session on Rethinking Number Theory*
-  - (Sep 30) Speaking at *Special Session on Rethinking Number Theory*
+  - (Sep 30) Speaking in *Special Session on Rethinking Number Theory*
 
 </details>
 
