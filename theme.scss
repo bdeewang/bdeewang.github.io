@@ -571,3 +571,32 @@ div.callout.callout-style-simple .callout-header {
   line-height: 1.6;
   > * { margin: 0.25rem 0; }
 }
+
+// ---------------------------------------------------------------------------
+// Teaching: one quiet line of links under each course, grouped by term:
+//   [Winter 2024: [syllabus](...), [notes](...)  ·  Summer 2022: [syllabus](...)]{.course-terms}
+// ---------------------------------------------------------------------------
+.course-terms {
+  display: inline-block;
+  margin-top: 0.2rem;
+  font-size: 0.9rem;
+  color: $muted-color;
+  a { color: $body-color; }
+  a:hover { color: $link-hover-color; }
+}
+
+// Teaching: small "Current" label (not a link) next to courses being taught now
+.current-badge {
+  display: inline-block;
+  margin-left: 0.45rem;
+  padding: 0.05rem 0.45rem;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: 0.03em;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  vertical-align: 0.15em;
+  cursor: default;
+}

@@ -7,6 +7,7 @@ project:
     - CNAME
     - robots.txt
     - "static/**"
+    - "syllabi/**"         # course syllabi (PDFs) linked from Teaching
 
 website:
   title: "Deewang Bhamidipati"
