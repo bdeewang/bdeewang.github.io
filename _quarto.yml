@@ -8,6 +8,7 @@ project:
     - robots.txt
     - "static/**"
     - "syllabi/**"         # course syllabi (PDFs) linked from Teaching
+    - "writing/notes/**"   # lecture notes (PDFs) linked from Teaching
 
 website:
   title: "Deewang Bhamidipati"
