@@ -1,0 +1,12 @@
+---
+title: "Writing"
+description: "Lecture notes and other writing"
+body-classes: section-writing
+---
+
+## Lecture Notes
+
+- **Category Theory Learning Seminar**\
+  [*based on lectures by Vaibhav Sutrave, David Rubinstein, and Deewang Bhamidipati*]{.small}\
+  [UC Santa Cruz, Winter 2022 (problem sessions, Spring 2022)]{.small}\
+  [Lecture Notes](documents/notes/CategoryTheory_Notes_W22_Bhamidipati-Rubinstein-Sutrave.pdf){.btn .btn-accent}

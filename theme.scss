@@ -100,6 +100,7 @@ body.section-research  { --accent: #{$research};  --accent-dark: #{$research-dar
 body.section-teaching  { --accent: #{$teaching};  --accent-dark: #{$teaching-dark}; }
 body.section-service   { --accent: #{$service};   --accent-dark: #{$service-dark}; }
 body.section-resources { --accent: #{$resources}; --accent-dark: #{$resources-dark}; }
+body.section-writing   { --accent: #{$resources}; --accent-dark: #{$resources-dark}; }  // Writing: the old Resources page's yellow
 
 // Section headings (##) take the page's accent colour
 body[class*="section-"] #quarto-content h2 {
