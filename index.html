@@ -141,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
      The list of rotating photos is in _about-photo.html. -->
 <div class="about-picture">
 <p><img src="static/about-pictures/bdeewang-pro.jpg" id="aboutImg" class="img-fluid" alt="Deewang beaming">&nbsp;</p>
-<p><a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-sm">Curriculum Vitae</a></p>
+<p><a href="documents/cv/DeewangBhamidipati_CV.pdf" class="btn btn-sm">Curriculum Vitae</a></p>
 </div>
 <p>Hello, this is Deewang (<em><a href="https://drive.google.com/file/d/1LiHvj0pwEpcv65rLTDq3kt4q4jIGs58D/view?usp=sharing">pronunciation</a></em>)! I am a <a href="https://go.carleton.edu/bdeewang">Visiting Assistant Professor</a> of Mathematics at <a href="https://www.carleton.edu/math/">Carleton College</a>.</p>
 <p>My research interests lie in arithmetic geometry and algebraic number theory. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience.</p>
@@ -299,6 +299,24 @@ ul.task-list li input[type="checkbox"] {
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
         var filterRegex = new RegExp("https:\/\/bdeewang\.com");
+      const newWindowLabel = "(opens in a new tab)";
+      const newWindowNoteId = "quarto-ext-newwindow-label";
+      // Links reference one hidden label through aria-describedby, so the
+      // announcement never changes their accessible name.
+      var describeNewWindow = (link) => {
+        if (!window.document.getElementById(newWindowNoteId)) {
+          var newWindowNote = window.document.createElement("span");
+          newWindowNote.id = newWindowNoteId;
+          newWindowNote.hidden = true;
+          newWindowNote.textContent = newWindowLabel;
+          window.document.body.appendChild(newWindowNote);
+        }
+        var describedBy = (link.getAttribute("aria-describedby") || "").split(/\s+/).filter(Boolean);
+        if (!describedBy.includes(newWindowNoteId)) {
+          describedBy.push(newWindowNoteId);
+          link.setAttribute("aria-describedby", describedBy.join(" "));
+        }
+      }
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -313,6 +331,12 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            describeNewWindow(link);
           if (!link.classList.contains('no-external-icon')) {
           }
         }
@@ -715,6 +739,13 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<script>
+  // PDFs on this site (syllabi, lecture notes) and outside links in the header, e.g. (^_^),
+  // also open in a new tab
+  document.querySelectorAll('a[href$=".pdf"], #quarto-header a[href^="http"]').forEach(function (a) {
+    a.target = "_blank"; a.rel = "noopener";
+  });
+</script>
 
 
 
