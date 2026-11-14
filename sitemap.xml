@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bdeewang.com/ucsc-service.html</loc>
-    <lastmod>2026-10-24T22:25:30.389Z</lastmod>
+    <loc>https://bdeewang.com/writing.html</loc>
+    <lastmod>2026-11-14T17:21:45.435Z</lastmod>
   </url>
   <url>
-    <loc>https://bdeewang.com/teaching.html</loc>
-    <lastmod>2026-11-14T17:18:22.592Z</lastmod>
+    <loc>https://bdeewang.com/travel.html</loc>
+    <lastmod>2026-11-09T12:50:57.792Z</lastmod>
   </url>
   <url>
-    <loc>https://bdeewang.com/research.html</loc>
-    <lastmod>2026-11-07T14:39:36.809Z</lastmod>
+    <loc>https://bdeewang.com/service.html</loc>
+    <lastmod>2026-10-24T22:25:30.388Z</lastmod>
   </url>
   <url>
-    <loc>https://bdeewang.com/letters.html</loc>
+    <loc>https://bdeewang.com/mentoring.html</loc>
     <lastmod>2026-10-24T22:25:30.387Z</lastmod>
   </url>
   <url>
@@ -21,15 +21,19 @@
     <lastmod>2026-11-14T17:18:22.595Z</lastmod>
   </url>
   <url>
-    <loc>https://bdeewang.com/mentoring.html</loc>
+    <loc>https://bdeewang.com/letters.html</loc>
     <lastmod>2026-10-24T22:25:30.387Z</lastmod>
   </url>
   <url>
-    <loc>https://bdeewang.com/service.html</loc>
-    <lastmod>2026-10-24T22:25:30.388Z</lastmod>
+    <loc>https://bdeewang.com/research.html</loc>
+    <lastmod>2026-11-07T14:39:36.809Z</lastmod>
   </url>
   <url>
-    <loc>https://bdeewang.com/travel.html</loc>
-    <lastmod>2026-11-09T12:50:57.792Z</lastmod>
+    <loc>https://bdeewang.com/teaching.html</loc>
+    <lastmod>2026-11-14T17:18:22.592Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bdeewang.com/ucsc-service.html</loc>
+    <lastmod>2026-10-24T22:25:30.389Z</lastmod>
   </url>
 </urlset>
