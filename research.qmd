@@ -87,6 +87,7 @@ You can view my [travel schedule for upcoming talks and events here](travel.qmd)
 
 1.  Humanizing the Digital Math Classroom: Research-Based Strategies for Synchronous Online Learning\
     [*with Pedro Morales-Almazan, Sophie Aiken, Malachi Alexander, and Cheyenne Dowd*]{.small}\
+    [(submitted)]{.small}
     [Abstract](#abs-sotl-humanizing){.btn .btn-outline-accent .abstract-toggle data-bs-toggle="collapse" data-bs-target="#abs-sotl-humanizing" role="button" aria-expanded="false" aria-controls="abs-sotl-humanizing"}
 
     ::: {#abs-sotl-humanizing .collapse .abstract}
