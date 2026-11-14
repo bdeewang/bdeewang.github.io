@@ -8,7 +8,7 @@ project:
     - robots.txt
     - "static/**"
     - "syllabi/**"         # course syllabi (PDFs) linked from Teaching
-    - "writing/notes/**"   # lecture notes (PDFs) linked from Teaching
+    - "documents/**"       # CV and lecture notes (PDFs)
 
 website:
   title: "Deewang Bhamidipati"
@@ -42,8 +42,18 @@ format:
     toc: false
     page-layout: custom      # single column, width set in theme.scss ($page-width)
     callout-icon: false      # no ⓘ/⚠ symbols in front of callout titles
+    link-external-newwindow: true   # links to other websites open in a new tab
+    link-external-icon: false       # …without adding a little arrow icon after them
     include-in-header:
       - text: '<script>document.documentElement.classList.add("js-header-title");</script>'
     include-after-body:
       - _header-title.html     # page title into the header
       - _about-photo.html      # rotating homepage photo (does nothing on other pages)
+      - text: |
+          <script>
+            // PDFs on this site (syllabi, lecture notes) and outside links in the header, e.g. (^_^),
+            // also open in a new tab
+            document.querySelectorAll('a[href$=".pdf"], #quarto-header a[href^="http"]').forEach(function (a) {
+              a.target = "_blank"; a.rel = "noopener";
+            });
+          </script>

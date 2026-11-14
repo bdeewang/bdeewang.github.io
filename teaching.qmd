@@ -29,9 +29,9 @@ One section each of Calculus 2 (MATH 120) and Linear Algebra (MATH 232)
 - MATH 120 **Calculus 2**\
   [Spring 2026: [syllabus](syllabi/Carleton/Syllabus_MATH120_S26.pdf)]{.course-terms}
 - MATH 282 **Number Theory**\
-  [Winter 2026: [syllabus](syllabi/Carleton/Syllabus_MATH282_W26.pdf), [notes](writing/notes/MATH282_LectureNotes_W26.pdf)]{.course-terms}
+  [Winter 2026: [syllabus](syllabi/Carleton/Syllabus_MATH282_W26.pdf), [notes](documents/notes/MATH282_LectureNotes_W26.pdf)]{.course-terms}
 - MATH 111 **Introduction to Calculus**\
-  [Winter 2026: [syllabus](syllabi/Carleton/Syllabus_MATH111_W26.pdf), [notes](writing/notes/MATH111_CombinedNotes_W26.pdf)  ·  Fall 2025: [syllabus](syllabi/Carleton/Syllabus_MATH111_F25.pdf)]{.course-terms}
+  [Winter 2026: [syllabus](syllabi/Carleton/Syllabus_MATH111_W26.pdf), [notes](documents/notes/MATH111_CombinedNotes_W26.pdf)  ·  Fall 2025: [syllabus](syllabi/Carleton/Syllabus_MATH111_F25.pdf)]{.course-terms}
 
 ### UC Santa Cruz
 
@@ -44,13 +44,13 @@ One section each of Calculus 2 (MATH 120) and Linear Algebra (MATH 232)
 - MATH 181 **History of Mathematics**\
   [Summer 2024: [syllabus](syllabi/UCSC/Syllabus_MATH181_X24.pdf)]{.course-terms}
 - MATH 100 **Introduction to Proof**\
-  [Winter 2024: [syllabus](syllabi/UCSC/Syllabus_MATH100_W24.pdf), [notes](writing/notes/MATH100_LectureNotes_W24_Bhamidipati.pdf)  ·  Summer 2022: [syllabus](syllabi/UCSC/Syllabus_MATH100_X22.pdf), [notes](writing/notes/MATH100_LectureNotes_X22_Bhamidipati.pdf)]{.course-terms}
+  [Winter 2024: [syllabus](syllabi/UCSC/Syllabus_MATH100_W24.pdf), [notes](documents/notes/MATH100_LectureNotes_W24_Bhamidipati.pdf)  ·  Summer 2022: [syllabus](syllabi/UCSC/Syllabus_MATH100_X22.pdf), [notes](documents/notes/MATH100_LectureNotes_X22_Bhamidipati.pdf)]{.course-terms}
 - MATH 105A **Real Analysis**\
-  [Summer 2023: [syllabus](syllabi/UCSC/Syllabus_MATH105A_X23.pdf), [notes](writing/notes/MATH105A_LectureNotes_X23_Bhamidipati.pdf)  ·  Fall 2020: [syllabus](syllabi/UCSC/Syllabus_MATH105A_F20.pdf)]{.course-terms}
+  [Summer 2023: [syllabus](syllabi/UCSC/Syllabus_MATH105A_X23.pdf), [notes](documents/notes/MATH105A_LectureNotes_X23_Bhamidipati.pdf)  ·  Fall 2020: [syllabus](syllabi/UCSC/Syllabus_MATH105A_F20.pdf)]{.course-terms}
 - MATH 103A **Complex Analysis**\
-  [Spring 2023: [syllabus](syllabi/UCSC/Syllabus_MATH103A_S23.pdf), [notes](writing/notes/MATH103A_LectureNotes_S23_Bhamidipati.pdf)  ·  Spring 2022: [syllabus](syllabi/UCSC/Syllabus_MATH103A_S22.pdf)]{.course-terms}
+  [Spring 2023: [syllabus](syllabi/UCSC/Syllabus_MATH103A_S23.pdf), [notes](documents/notes/MATH103A_LectureNotes_S23_Bhamidipati.pdf)  ·  Spring 2022: [syllabus](syllabi/UCSC/Syllabus_MATH103A_S22.pdf)]{.course-terms}
 - MATH 110 **Introduction to Number Theory**\
-  [Fall 2021: [syllabus](syllabi/UCSC/Syllabus_MATH110_F21.pdf), [notes](writing/notes/MATH110_LectureNotes_F21_Bhamidipati.pdf)  ·  Summer 2021: [syllabus](syllabi/UCSC/Syllabus_MATH110_X21.pdf)]{.course-terms}
+  [Fall 2021: [syllabus](syllabi/UCSC/Syllabus_MATH110_F21.pdf), [notes](documents/notes/MATH110_LectureNotes_F21_Bhamidipati.pdf)  ·  Summer 2021: [syllabus](syllabi/UCSC/Syllabus_MATH110_X21.pdf)]{.course-terms}
 :::
 ::::
 

@@ -7,7 +7,7 @@ pagetitle: "Deewang Bhamidipati"
 ::: {.about-picture}
 ![Deewang beaming](static/about-pictures/bdeewang-pro.jpg){#aboutImg}\ 
 
-[Curriculum Vitae](https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing){.btn .btn-sm}
+[Curriculum Vitae](documents/cv/DeewangBhamidipati_CV.pdf){.btn .btn-sm}
 :::
 
 Hello, this is Deewang (*[pronunciation](https://drive.google.com/file/d/1LiHvj0pwEpcv65rLTDq3kt4q4jIGs58D/view?usp=sharing)*)! I am a [Visiting Assistant Professor](https://go.carleton.edu/bdeewang) of Mathematics at [Carleton College](https://www.carleton.edu/math/).
