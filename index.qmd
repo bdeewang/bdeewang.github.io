@@ -10,7 +10,7 @@ pagetitle: "Deewang Bhamidipati"
 [Curriculum Vitae](documents/cv/DeewangBhamidipati_CV.pdf){.btn .btn-sm}
 :::
 
-Hello, this is Deewang (*[pronunciation](https://drive.google.com/file/d/1LiHvj0pwEpcv65rLTDq3kt4q4jIGs58D/view?usp=sharing)*)! I am a [Visiting Assistant Professor](https://go.carleton.edu/bdeewang) of Mathematics at [Carleton College](https://www.carleton.edu/math/).
+Hello, this is Deewang (*[pronunciation](documents/pronunciation/pronunciationblurb.pdf)*)! I am a [Visiting Assistant Professor](https://go.carleton.edu/bdeewang) of Mathematics at [Carleton College](https://www.carleton.edu/math/).
 
 My research interests lie in arithmetic geometry and algebraic number theory. My research interests also lie in undergraduate and graduate mathematics education. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience.
 
